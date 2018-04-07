@@ -15,7 +15,7 @@
 
 ##Git基本命令
 
-···
+
 	1.安装Git
 		Linux ：sudo apt-get install git-all
 		OS X  ：最简单的方式是使用homebrew安装，命令行执行 brew install git
@@ -67,4 +67,3 @@
 		$ git branch -d amazing_new_feature
 	11.查看日志 - git log 
 	12.查看差异 - git diff
-···
