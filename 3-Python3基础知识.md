@@ -1,4 +1,4 @@
-##python基础知识
+## python基础知识
 
 	
 	1、Python中文编码
