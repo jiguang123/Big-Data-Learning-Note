@@ -2,6 +2,10 @@
 
 	1、Numpy
 
+
+
+
+
 	2、Pandas
 	
 		df：任意的Pandas DataFrame对象
@@ -91,6 +95,146 @@
 			df.std()：返回每一列的标准差
 
 	3、Matplotlib
+		3.1、散点图
+			import matplotlib.pyplot as plt
+			import numpy as np
+			import matplotlib
+
+			# Fixing random state for reproducibility
+			np.random.seed(19680801)
+
+
+			x = np.arange(0.0, 50.0, 2.0)
+			y = x ** 1.3 + np.random.rand(*x.shape) * 30.0
+			s = np.random.rand(*x.shape) * 800 + 500
+
+			plt.scatter(x, y, s, c="g", alpha=0.5, marker=r'$\clubsuit$',
+			            label="Luck")
+			plt.xlabel("Leprechauns")
+			plt.ylabel("Gold")
+			plt.legend(loc=2)
+			plt.show()
+		3.2、条形图
+			import numpy as np 
+			import matplotlib.pyplot as plt 
+
+			index = np.arange(6)
+
+			sales_BJ = [34, 56, 14, 98, 31, 61]
+			sales_SH = [98, 67, 54, 76, 23, 59]
+			sales_SZ = [80, 58, 34, 23, 99, 11]
+
+			bar_width = 0.25
+
+			plt.bar(index, sales_BJ, bar_width, color='r', label='sales_BJ')
+			plt.bar(index+bar_width, sales_SH, bar_width, color='g', label='sales_SH')
+			plt.bar(index+bar_width*2, sales_SZ, bar_width, color='b', label='sales_SZ')
+
+			# plt.barh(index, sales_BJ, bar_width, color='r', label='sales_BJ')
+			# plt.barh(index+bar_width, sales_SH, bar_width, color='g', label='sales_SH')
+			# plt.barh(index+bar_width*2, sales_SZ, bar_width, color='b', label='sales_SZ')
+
+			plt.title("the table of student's grades")
+			plt.xlabel('student')
+			plt.ylabel('grade')
+			plt.legend()
+			plt.show()
+		3.3、直方图
+			import numpy as np
+			import matplotlib.pyplot as plt
+
+			# Fixing random state for reproducibility
+			np.random.seed(19680801)
+
+			mu, sigma = 100, 15
+			x = mu + sigma * np.random.randn(10000)
+
+			# the histogram of the data
+			n, bins, patches = plt.hist(x, 50, density=True, facecolor='g', alpha=0.75)
+
+
+			plt.xlabel('Smarts')
+			plt.ylabel('Probability')
+			plt.title('Histogram of IQ')
+			plt.text(60, .025, r'$\mu=100,\ \sigma=15$')
+			plt.axis([40, 160, 0, 0.03])
+			plt.grid(True)
+			plt.show()
+		3.4、折线图
+			import matplotlib.pyplot as plt
+			import numpy as np
+
+			t = np.arange(0.0, 2.0, 0.2)
+			s1 = np.sin(2*np.pi*t)
+			s2 = np.sin(4*np.pi*t)
+
+			plt.figure()
+			plt.subplot(211)
+			plt.plot(t, s1)
+			plt.subplot(212)
+			plt.plot(t, 2*s1)
+			plt.show()
+
+		3.5、扇形图
+			import matplotlib.pyplot as plt
+
+			labels = 'Frogs', 'Hogs', 'Dogs', 'Logs'
+			sizes = [15, 30, 45, 10]
+			explode = (0, 0.1, 0, 0)  
+
+			fig1, ax1 = plt.subplots()
+			ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
+			        shadow=True, startangle=90)
+			ax1.axis('equal')
+
+			plt.show()
+
+		3.6、极坐标图
+			import numpy as np
+			import matplotlib.pyplot as plt
+
+			r = np.arange(0, 2, 0.01)
+			theta = 2 * np.pi * r
+
+			ax = plt.subplot(111, projection='polar')
+			ax.plot(theta, r)
+			ax.set_rmax(2)
+			ax.set_rticks([0.5, 1, 1.5, 2])  
+			ax.set_rlabel_position(-22.5)  
+			ax.grid(True)
+			ax.set_title("A line plot on a polar axis", va='bottom')
+
+			plt.show()	
+
+		3.7、雷达图
+			import numpy as np
+			import matplotlib.pyplot as plt
+
+			#=======自己设置开始============
+			#标签
+			labels = np.array(['艺术A','调研I','实际R','常规C','企业E','社会S'])
+			#数据个数
+			dataLenth = 6
+			#数据
+			data = np.array([6,4,5,6,7,8])
+			#========自己设置结束============
+
+			angles = np.linspace(0, 2*np.pi, dataLenth, endpoint=False)
+			data = np.concatenate((data, [data[0]])) # 闭合
+			angles = np.concatenate((angles, [angles[0]])) # 闭合
+
+			fig = plt.figure()
+			ax = fig.add_subplot(111, polar=True)# polar参数！！
+			ax.plot(angles, data, 'bo-', linewidth=2)# 画线
+			ax.fill(angles, data, facecolor='r', alpha=0.25)# 填充
+			ax.set_thetagrids(angles * 180/np.pi, labels, fontproperties="SimHei")
+			ax.set_title("matplotlib雷达图", va='bottom', fontproperties="SimHei")
+			ax.set_rlim(0,10)
+			ax.grid(True)
+
+			plt.show()
+
+
 
 	4、requests
 
@@ -102,6 +246,13 @@
 		html.encoding
 		html.status_code
 
+
+
 	5、re
 
+
+
+
+
 	6、BeautifulSoup
+
