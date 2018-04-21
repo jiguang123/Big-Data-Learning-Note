@@ -97,7 +97,7 @@
 		import requests
 		url = http://baidu.com
 		headers = {'user-agent': 'my-app/0.0.1'}
-		html = requests(url, headers=headers)
+		html = requests.get(url, headers=headers)
 		html.text
 		html.encoding
 		html.status_code
