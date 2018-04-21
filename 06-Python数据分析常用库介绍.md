@@ -114,6 +114,7 @@
 			plt.ylabel("Gold")
 			plt.legend(loc=2)
 			plt.show()
+
 		3.2、条形图
 			import numpy as np 
 			import matplotlib.pyplot as plt 
@@ -139,6 +140,7 @@
 			plt.ylabel('grade')
 			plt.legend()
 			plt.show()
+
 		3.3、直方图
 			import numpy as np
 			import matplotlib.pyplot as plt
@@ -160,6 +162,7 @@
 			plt.axis([40, 160, 0, 0.03])
 			plt.grid(True)
 			plt.show()
+
 		3.4、折线图
 			import matplotlib.pyplot as plt
 			import numpy as np
@@ -233,7 +236,6 @@
 			ax.grid(True)
 
 			plt.show()
-
 
 
 	4、requests
