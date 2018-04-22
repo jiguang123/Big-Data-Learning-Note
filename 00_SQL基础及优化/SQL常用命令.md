@@ -103,25 +103,23 @@ column ASC/DESC LIMIT num_limit OFFSET num_offset;
 ---
 #### 8、SELECT DISTINCT column, AGG_FUNC(column_or_expression), … FROM mytable JOIN another_table ON mytable.column = another_table.column WHERE constraint_expression GROUP BY column HAVING constraint_expression ORDER BY column ASC/DESC LIMIT count OFFSET COUNT;	
 
-    		SELECT director, SUM(domestic_sales + international_sales) as 
-              Cumulative_sales_from_all_movies
-		    FROM movies
+    	SELECT director, SUM(domestic_sales + international_sales) as Cumulative_sales_from_all_movies
+		FROM movies
 		       INNER JOIN boxoffice
 			         ON movies.id = boxoffice.movie_id
-		    GROUP BY director;	 
+		GROUP BY director;	 
 
 
 ---
-#### 9、UPDATE mytable SET column = value_or_expr, other_column = another_value_or_
-expr, … WHERE condition;
+#### 9、UPDATE mytable SET column = value_or_expr, other_column = another_value_or_expr, … WHERE condition;
 
-    		UPDATE movies SET title = "Toy Story 3", director = "Lee Unkrich" WHERE id = 11;
+    	UPDATE movies SET title = "Toy Story 3", director = "Lee Unkrich" WHERE id = 11;
 
 
 ---
 #### 10、DELETE FROM mytable WHERE condition;
 
-			DELETE FROM movies where director = "Andrew Stanton";
+		DELETE FROM movies where director = "Andrew Stanton";
 
 
    		
