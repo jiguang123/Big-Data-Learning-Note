@@ -60,8 +60,7 @@ column ASC/DESC LIMIT num_limit OFFSET num_offset;
    		SELECT city, population FROM north_american_cities WHERE country LIKE "United States" ORDER BY population DESC LIMIT 2 OFFSET 2;
 
 ---
-#### 5、SELECT column, another_table_column, … FROM mytable INNER JOIN another_table 
-ON mytable.id = another_table.id WHERE condition(s) ORDER BY column, … ASC/DESC LIMIT num_limit OFFSET num_offset;
+#### 5、SELECT column, another_table_column, … FROM mytable INNER JOIN another_table ON mytable.id = another_table.id WHERE condition(s) ORDER BY column, … ASC/DESC LIMIT num_limit OFFSET num_offset;
 
    		SELECT title, domestic_sales, international_sales 
    		 FROM movies 
@@ -82,23 +81,14 @@ ON mytable.id = another_table.id WHERE condition(s) ORDER BY column, … ASC/DES
 
 
 ---
-#### 6、SELECT column, another_column, …
-FROM mytable
-INNER/LEFT/RIGHT/FULL JOIN another_table 
-			  ON mytable.id = another_table.matching_id
-WHERE condition(s)
-ORDER BY column, … ASC/DESC
-LIMIT num_limit OFFSET num_offset;
+#### 6、SELECT column, another_column, … FROM mytable INNER/LEFT/RIGHT/FULL JOIN another_table ON mytable.id = another_table.matching_id WHERE condition(s) ORDER BY column, … ASC/DESC LIMIT num_limit OFFSET num_offset;
 
    		SELECT DISTINCT building_name, role 
 		  FROM buildings 
 			  LEFT JOIN employees
 			    ON building_name = building;
 
-#### 7、SELECT AGG_FUNC(column_or_expression) AS aggregate_description, …
-	    FROM mytable
-	    WHERE constraint_expression
-	    GROUP BY column;	
+#### 7、SELECT AGG_FUNC(column_or_expression) AS aggregate_description, … FROM mytable WHERE constraint_expression GROUP BY column;	
 
    		SELECT MAX(years_employed) as Max_years_employed FROM employees;
 
@@ -111,15 +101,7 @@ LIMIT num_limit OFFSET num_offset;
 		GROUP BY building;
 
 ---
-#### 8、SELECT DISTINCT column, AGG_FUNC(column_or_expression), …
-FROM mytable
-JOIN another_table
-	 ON mytable.column = another_table.column
-WHERE constraint_expression
-GROUP BY column
-HAVING constraint_expression
-ORDER BY column ASC/DESC
-LIMIT count OFFSET COUNT;	
+#### 8、SELECT DISTINCT column, AGG_FUNC(column_or_expression), … FROM mytable JOIN another_table ON mytable.column = another_table.column WHERE constraint_expression GROUP BY column HAVING constraint_expression ORDER BY column ASC/DESC LIMIT count OFFSET COUNT;	
 
     		SELECT director, SUM(domestic_sales + international_sales) as 
               Cumulative_sales_from_all_movies
@@ -144,11 +126,8 @@ expr, … WHERE condition;
 
    		
 ---
-#### 11、CREATE TABLE IF NOT EXISTS mytable (
-		    column DataType TableConstraint DEFAULT default_value,
-		    another_column DataType TableConstraint DEFAULT default_value,
-		    …
-		 );
+#### 11、CREATE TABLE IF NOT EXISTS mytable (	column DataType TableConstraint DEFAULT default_value,   another_column DataType TableConstraint DEFAULT default_value, … );
+
 
 		CREATE TABLE movies (
 			    id INTEGER PRIMARY KEY,
