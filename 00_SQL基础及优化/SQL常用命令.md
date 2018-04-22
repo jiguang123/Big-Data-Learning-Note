@@ -1,6 +1,7 @@
 ## SQL常用命令
 
-[SQl命令在线练习] (https://sqlbolt.com/lesson/introduction)
+	[SQl命令在线练习] (https://sqlbolt.com/lesson/introduction)
+
 ---
 #### 1、SELECT column, another_column, … FROM mytable;
 
