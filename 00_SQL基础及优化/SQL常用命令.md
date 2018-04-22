@@ -6,17 +6,14 @@
 #### 1、SELECT column, another_column, … FROM mytable;
 
     例如：SELECT title FROM movies;
-
 	 	  SELECT director FROM movies;
-
 	 	  SELECT title, director FROM movies;
-
 		  SELECT * FROM movies;
 
 ---
-#### 2、SELECT column, another_column, … FROM mytable WHERE condition AND/OR another_        condition AND/OR …;
+#### 2、SELECT column, another_column, … FROM mytable WHERE condition AND/OR another_condition AND/OR …;
 
-   例如：SELECT id, title FROM movies WHERE id = 6;
+    例如：SELECT id, title FROM movies WHERE id = 6;
 
    		 SELECT title, year FROM movies WHERE year BETWEEN 2000 AND 2010;
 
