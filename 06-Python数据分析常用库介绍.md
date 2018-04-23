@@ -90,7 +90,9 @@
 			df.median()：返回每一列的中位数
 			df.std()：返回每一列的标准差
 
+
 3、Matplotlib
+
 		3.1、散点图
 			import matplotlib.pyplot as plt
 			import numpy as np
