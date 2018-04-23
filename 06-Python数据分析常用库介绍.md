@@ -4,8 +4,6 @@
 
 
 
-
-
 	2、Pandas
 	
 		df：任意的Pandas DataFrame对象
@@ -249,13 +247,11 @@
 		html.status_code
 
 
-
 	5、re
 		
 
-
-
-
-
 	6、BeautifulSoup
+
+
+	7、tushare
 
