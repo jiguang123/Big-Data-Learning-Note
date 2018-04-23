@@ -1,10 +1,8 @@
 ## 数据分析常用python库的使用
 
-	1、Numpy
+1、[Numpy详细介绍] (http://python.jobbole.com/87471/)
 
-	[Numpy详细介绍] (http://python.jobbole.com/87471/)
-
-	2、Pandas
+2、Pandas
 	
 		df：任意的Pandas DataFrame对象
 		同时我们需要做如下的引入：
@@ -92,7 +90,7 @@
 			df.median()：返回每一列的中位数
 			df.std()：返回每一列的标准差
 
-	3、Matplotlib
+3、Matplotlib
 		3.1、散点图
 			import matplotlib.pyplot as plt
 			import numpy as np
@@ -236,7 +234,7 @@
 			plt.show()
 
 
-	4、requests
+4、requests
 
 		import requests
 		url = http://baidu.com
@@ -247,14 +245,8 @@
 		html.status_code
 
 
-	5、re
+5、[re模块详细介绍] (http://python.jobbole.com/88729/)
 
-	[re模块详细介绍] (http://python.jobbole.com/88729/)
+6、[BeautifulSoup4.4.0中文文档详细介绍] (http://beautifulsoup.readthedocs.io/zh_CN/latest/)
 
-	6、BeautifulSoup
-
-	[BeautifulSoup4.4.0中文文档详细介绍] (http://beautifulsoup.readthedocs.io/zh_CN/latest/)
-
-	7、tushare
-
-	[tushare财经数据库详细介绍] (http://www.waditu.cn/index.html)
+7、[tushare财经数据库详细介绍] (http://www.waditu.cn/index.html)
