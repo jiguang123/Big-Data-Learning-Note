@@ -2,7 +2,7 @@
 
 	1、Numpy
 
-
+	[Numpy详细介绍] (http://python.jobbole.com/87471/)
 
 	2、Pandas
 	
@@ -248,10 +248,13 @@
 
 
 	5、re
-		
+
+	[re模块详细介绍] (http://python.jobbole.com/88729/)
 
 	6、BeautifulSoup
 
+	[BeautifulSoup4.4.0中文文档详细介绍] (http://beautifulsoup.readthedocs.io/zh_CN/latest/)
 
 	7、tushare
 
+	[tushare财经数据库详细介绍] (http://www.waditu.cn/index.html)
