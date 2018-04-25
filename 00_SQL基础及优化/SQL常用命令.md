@@ -46,8 +46,7 @@
 
 
 ---
-#### 4、SELECT column, another_column, … FROM mytable WHERE condition(s) ORDER BY 
-column ASC/DESC LIMIT num_limit OFFSET num_offset;
+#### 4、SELECT column, another_column, … FROM mytable WHERE condition(s) ORDER BY column ASC/DESC LIMIT num_limit OFFSET num_offset;
 
    		SELECT title, year FROM movies ORDER BY year DESC LIMIT 4;
 

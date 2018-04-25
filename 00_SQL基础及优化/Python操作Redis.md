@@ -32,14 +32,14 @@ redis-py使用connection pool来管理对一个redis server的所有连接，避
 	r.set('name', 'zhangsan')   #添加
 	print (r.get('name'))   #获取
 
----
-#### 3、 redis详细操作
+
+- 3、 redis详细操作
 
 [redis详细操作命令] (http://www.cnblogs.com/melonjiang/p/5342505.html)
 
 
----
-#### 4、管道
+
+- 4、管道
 
 redis-py默认在执行每次请求都会创建（连接池申请连接）和断开（归还连接池）一次连接操作，如果想要在一次请求中指定多个命令，则可以使用pipline实现一次请求指定多个命令，并且默认情况下一次pipline 是原子性操作。
 
