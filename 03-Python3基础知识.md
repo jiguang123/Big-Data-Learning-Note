@@ -1,15 +1,17 @@
 ## python基础知识
 
-	
-	1、Python中文编码
+---	
+1、Python中文编码
 		Python中默认的编码格式是ASCII 格式，在没修改编码格式时无法正确打印汉字，所以在读取中文时会报错。
 		解决方法为只要在文件开头加入 # -*- coding: UTF-8 -*- 或者 #coding=utf-8 就行了
 
-	2、数据类型
+---
+2、数据类型
 		Python有五个标准的数据类型：
 			Numbers（数字）| String（字符串）| List（列表）| Tuple（元组）| Dictionary（字典）
 
-	3、strip()函数和split()函数的详解
+---
+3、strip()函数和split()函数的详解
 		strip()函数 
 			函数原型
 			声明：s为字符串，rm为要删除的字符序列
@@ -39,4 +41,8 @@
 				>>> str_split = str.split('.')[0] 
 				>>> print str_split 
 				www 
+
+---
+4、
+
 
