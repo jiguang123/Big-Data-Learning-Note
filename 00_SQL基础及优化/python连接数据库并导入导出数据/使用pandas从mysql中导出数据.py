@@ -46,7 +46,7 @@ conn.close()
 # df["D"] = [11,22,33,44]   
 # df.to_sql('student',con=engine,if_exists='replace/append/fail',index=False)  
 
-# conn.close()
+# engine.close()
 ################################################################################################
 
 ###############################################################################################
@@ -63,5 +63,5 @@ conn.close()
 # ##需要现在数据库中创建table 
 # df.to_sql('student',con=engine,if_exists='replace/append/fail',index=False)  
 
-# conn.close()
+# engine.close()
 # ################################################################################################
