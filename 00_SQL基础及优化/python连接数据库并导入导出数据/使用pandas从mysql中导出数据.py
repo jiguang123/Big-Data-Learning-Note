@@ -4,7 +4,7 @@
 ##测试成功与否(未成功，缺少MySQLdb库)(MySQLdb 模块还不支持 Python3.x)
 # import pandas as pd
 # import MySQLdb
-# handle = MySQLdb.connect(host="127.0.0.1",user="root",port=3306, passwd="***",db="sunshine",charset="utf8")
+# handle = MySQLdb.connect(host="127.0.0.1",port=3306,user="root",passwd="***",db="sunshine",charset="utf8")
 # sql =  'SELECT * FROM `dataanalyst`;' 
 # df = pd.read_sql(sql, con=handle)
 # handle.close()

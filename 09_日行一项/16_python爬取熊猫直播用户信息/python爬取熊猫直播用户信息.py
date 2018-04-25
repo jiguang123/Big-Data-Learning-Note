@@ -15,13 +15,10 @@ headers = {
 
 
 def getHtml(url):
-    print('##'*30)
     req = requests.get(url, headers=headers)
     print(req.text)
     return req.text
 
-
-data = getHtml(url)
 
 def printInfos(data):
     jsondata = json.loads(data, "utf-8")
@@ -42,7 +39,7 @@ def printInfos(data):
 
 	
 def mainStart():
-    for n in range(0, 50):
+    for n in range(0, 3):
         pageindex = 1 + n
         pagetime = int(1501946526480 + n)
         url = "https://www.panda.tv/live_lists?status=2&order=person_num&token=&pageno=%d&pagenum=120&_=%d"%(pageindex,pagetime)
