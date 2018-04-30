@@ -1,0 +1,2001 @@
+年份,排名,公司,公司英文,国家/地区,销售额（亿美元）,利润（亿美元）,资产（亿美元）,市值（亿美元）
+2017,1,中国工商银行,ICBC,China,$151.4 B,$42 B,"$3,473.2 B",$229.8 B
+2017,2,中国建设银行,China Construction Bank,China,$134.2 B,$35 B,"$3,016.6 B",$200.5 B
+2017,3,伯克希尔哈撒韦,Berkshire Hathaway,United States,$222.9 B,$24.1 B,$620.9 B,$409.9 B
+2017,4,摩根大通,JPMorgan Chase,United States,$102.5 B,$24.2 B,"$2,513 B",$306.6 B
+2017,5,富国银行,Wells Fargo,United States,$97.6 B,$21.9 B,"$1,943.4 B",$274.4 B
+2017,6,中国农业银行,Agricultural Bank of China,China,$115.7 B,$27.8 B,"$2,816 B",$149.2 B
+2017,7,美国银行,Bank of America,United States,$92.2 B,$16.6 B,"$2,196.8 B",$231.9 B
+2017,8,中国银行,Bank of China,China,$113.1 B,$24.9 B,"$2,611.5 B",$141.3 B
+2017,9,苹果,Apple,United States,$217.5 B,$45.2 B,$331.1 B,$752 B
+2017,10,丰田汽车,Toyota Motor,Japan,$249.9 B,$17.1 B,$412.5 B,$171.9 B
+2017,11,AT＆T,AT&T,United States,$163.8 B,$13 B,$403.8 B,$249.3 B
+2017,12,花旗集团,Citigroup,United States,$84 B,$14.7 B,"$1,795.1 B",$164.3 B
+2017,13,埃克森美孚,ExxonMobil,United States,$197.5 B,$7.8 B,$330.3 B,$343.2 B
+2017,14,通用电气,General Electric,United States,$119.7 B,$10 B,$365.2 B,$261.2 B
+2017,15,三星电子,Samsung Electronics,South Korea,$174 B,$19.3 B,$217.1 B,$254.3 B
+2017,16,平安保险集团,Ping An Insurance Group,China,$106.6 B,$9.5 B,$801 B,$100.8 B
+2017,17,沃尔玛,Wal-Mart Stores,United States,$485.3 B,$13.6 B,$198.8 B,$221.1 B
+2017,18,Verizon通信,Verizon Communications,United States,$126 B,$13.1 B,$244.2 B,$198.4 B
+2017,19,微软,Microsoft,United States,$85.3 B,$16.8 B,$224.6 B,$507.5 B
+2017,20,荷兰皇家壳牌,Royal Dutch Shell,Netherlands,$234.8 B,$4.7 B,$411.3 B,$228.8 B
+2017,21,安联,Allianz,Germany,$115.7 B,$7.6 B,$935.9 B,$83.7 B
+2017,21,中国移动,China Mobile,Hong Kong,$106.8 B,$16.4 B,$218.9 B,$225.3 B
+2017,23,法国巴黎银行,BNP Paribas,France,$74.7 B,$8.4 B,"$2,190.7 B",$80.5 B
+2017,24,字母表,Alphabet,United States,$89.9 B,$19.5 B,$167.5 B,$579.5 B
+2017,25,中国石油化工,China Petroleum & Chemical,China,$255.7 B,$7 B,$216.7 B,$105.1 B
+2017,26,道达尔公司,Total,France,$128.1 B,$6.2 B,$231 B,$128.1 B
+2017,27,AXA集团,AXA Group,France,$132.2 B,$6.2 B,$925.9 B,$60.8 B
+2017,28,戴姆勒,Daimler,Germany,$169.5 B,$9.4 B,$256.3 B,$76.1 B
+2017,28,大众集团,Volkswagen Group,Germany,$240.3 B,$5.7 B,$458.7 B,$72.9 B
+2017,30,三菱UFJ金融,Mitsubishi UFJ Financial,Japan,$49.2 B,$8.2 B,"$2,589.8 B",$83.9 B
+2017,31,康卡斯特,Comcast,United States,$80.4 B,$8.7 B,$180.5 B,$193.5 B
+2017,32,强生公司,Johnson & Johnson,United States,$71.9 B,$16.4 B,$141.2 B,$338.6 B
+2017,33,桑坦德银行,Banco Santander,Spain,$48.3 B,$6.9 B,"$1,412.4 B",$89.4 B
+2017,34,交通银行,Bank of Communications,China,$53 B,$10.1 B,"$1,209.2 B",$62.2 B
+2017,34,雀巢集团,Nestle,Switzerland,$90.8 B,$8.7 B,$129.8 B,$229.5 B
+2017,36,联合健康集团,UnitedHealth Group,United States,$184.9 B,$7.2 B,$125 B,$160.2 B
+2017,37,日本电报电话,Nippon Telegraph & Tel,Japan,$105 B,$7.4 B,$180.3 B,$92.2 B
+2017,38,伊陶银行,Itaú Unibanco Holding,Brazil,$61.3 B,$6.7 B,$419.9 B,$79.2 B
+2017,38,软银,Softbank,Japan,$82.1 B,$8.3 B,$213.2 B,$78.6 B
+2017,40,俄罗斯天然气工业公司,Gazprom,Russia,$91.4 B,$12.1 B,$265.4 B,$51.8 B
+2017,40,通用汽车,General Motors,United States,$166.4 B,$9.4 B,$221.7 B,$50.8 B
+2017,42,招商银行,China Merchants Bank,China,$44.5 B,$9.4 B,$855.1 B,$66.4 B
+2017,43,IBM,IBM,United States,$79.9 B,$11.9 B,$117.5 B,$162.4 B
+2017,44,加拿大皇家银行,Royal Bank of Canada,Canada,$35.3 B,$8.3 B,$891.1 B,$107.2 B
+2017,45,日本邮政控股,Japan Post Holdings,Japan,$123.7 B,$3.1 B,"$2,522.1 B",$55.1 B
+2017,46,宝洁公司,Procter & Gamble,United States,$65.2 B,$9.5 B,$117 B,$228.1 B
+2017,47,辉瑞公司,Pfizer,United States,$52.8 B,$7.1 B,$171.6 B,$203.1 B
+2017,48,汇控,HSBC Holdings,United Kingdom,$62.1 B,$2.5 B,"$2,375 B",$162.6 B
+2017,49,高盛集团,Goldman Sachs Group,United States,$36.9 B,$7.4 B,$860.2 B,$90.6 B
+2017,50,西门子,Siemens,Germany,$88.4 B,$6.4 B,$133.1 B,$109.8 B
+2017,51,宝马集团,BMW Group,Germany,$104.2 B,$7.6 B,$210.3 B,$57.7 B
+2017,52,中国人寿保险,China Life Insurance,China,$82.8 B,$2.9 B,$388.7 B,$98.1 B
+2017,53,ING集团,ING Group,Netherlands,$53.6 B,$5.1 B,$891.3 B,$57.9 B
+2017,54,英特尔,Intel,United States,$59.4 B,$10.3 B,$113.3 B,$170.4 B
+2017,55,中国邮政储蓄银行,Postal Savings Bank Of China,China,$48 B,$6 B,"$1,189.4 B",$55.2 B
+2017,56,俄罗斯联邦储蓄银行,Sberbank,Russia,$43 B,$8.1 B,$415.6 B,$63.9 B
+2017,56,加拿大多伦多道明银行,TD Bank Group,Canada,$31.9 B,$6.9 B,$910.4 B,$92 B
+2017,58,思科系统,Cisco Systems,United States,$48.6 B,$9.8 B,$126.2 B,$165.1 B
+2017,58,联邦银行,Commonwealth Bank,Australia,$30.9 B,$7.1 B,$703.6 B,$109.9 B
+2017,60,摩根士丹利,Morgan Stanley,United States,$37.9 B,$6 B,$816 B,$78.3 B
+2017,61,诺华,Novartis,Switzerland,$48.5 B,$6.7 B,$130.4 B,$193.2 B
+2017,62,Banco Bradesco,Banco Bradesco,Brazil,$70.2 B,$4.3 B,$362.4 B,$53.5 B
+2017,63,兴业银行,Industrial Bank,China,$44.3 B,$8.1 B,$872.1 B,$45.1 B
+2017,64,福特汽车,Ford Motor,United States,$151.8 B,$4.6 B,$238 B,$44.7 B
+2017,64,上海浦东发展银行,Shanghai Pudong Development,China,$40.1 B,$8 B,$842.8 B,$50.5 B
+2017,66,CVS Caremark公司,CVS Health,United States,$177.5 B,$5.3 B,$94.5 B,$79.8 B
+2017,67,华特迪士尼,Walt Disney,United States,$54.9 B,$9 B,$91.6 B,$178 B
+2017,68,英国保诚集团,Prudential,United Kingdom,$96.9 B,$2.6 B,$569 B,$53.7 B
+2017,69,美国保德信金融集团,Prudential Financial,United States,$56.3 B,$4.3 B,$784 B,$45.6 B
+2017,70,甲骨文公司,Oracle,United States,$37.4 B,$8.9 B,$125.4 B,$182.2 B
+2017,71,中国建筑工程总公司,China State Construction Engineering,China,$140.8 B,$4.9 B,$201.4 B,$43.2 B
+2017,72,中信泰富,Citic Pacific,Hong Kong,$49.1 B,$5.6 B,$933.6 B,$41.4 B
+2017,73,波音,Boeing,United States,$94.6 B,$4.9 B,$90 B,$108.8 B
+2017,74,本田汽车,Honda Motor,Japan,$127.9 B,$3.9 B,$161.8 B,$51.4 B
+2017,75,中国民生银行,China Minsheng Banking,China,$40.2 B,$7.2 B,$848.7 B,$43.7 B
+2017,76,澳大利亚西太平洋银行,Westpac Banking Group,Australia,$27.8 B,$5.5 B,$642.7 B,$86.1 B
+2017,77,德国电信,Deutsche Telekom,Germany,$80.9 B,$3 B,$156.6 B,$80 B
+2017,78,中信银行,China Citic Bank,China,$39.7 B,$6.3 B,$853.5 B,$43.1 B
+2017,79,罗氏控股,Roche Holding,Switzerland,$51.3 B,$9.7 B,$75.6 B,$219.3 B
+2017,80,瑞银集团,UBS,Switzerland,$38 B,$3.4 B,$920 B,$60 B
+2017,81,加拿大丰业银行,Bank of Nova Scotia,Canada,$26.7 B,$5.5 B,$680.3 B,$70.5 B
+2017,82,俄罗斯石油公司,Rosneft,Russia,$74.9 B,$2.7 B,$193.2 B,$62.4 B
+2017,83,Amazon.com,Amazon.com,United States,$136 B,$2.4 B,$86 B,$427 B
+2017,84,百事,PepsiCo,United States,$62.8 B,$6.3 B,$74.1 B,$159.4 B
+2017,84,三井住友金融,Sumitomo Mitsui Financial,Japan,$30.5 B,$5.2 B,"$1,648.8 B",$48.1 B
+2017,86,可口可乐,Coca-Cola,United States,$41.5 B,$6.5 B,$87.3 B,$182.9 B
+2017,87,联合技术公司,United Technologies,United States,$57.4 B,$5 B,$89.7 B,$90.6 B
+2017,88,赛诺菲,Sanofi,France,$37.4 B,$5.2 B,$110.4 B,$116.1 B
+2017,89,拜尔,Bayer,Germany,$51.8 B,$5 B,$90.1 B,$94.4 B
+2017,90,瑞穗金融,Mizuho Financial,Japan,$29 B,$6 B,"$1,752.3 B",$44.4 B
+2017,91,苏黎世保险集团,Zurich Insurance Group,Switzerland,$67.3 B,$3.2 B,$364.3 B,$40 B
+2017,92,ANZ,ANZ,Australia,$26.5 B,$4.2 B,$701 B,$68.8 B
+2017,93,巴斯夫,BASF,Germany,$63.7 B,$4.5 B,$83.9 B,$91 B
+2017,94,美国沃尔格林公司,Walgreens Boots Alliance,United States,$116.1 B,$4.2 B,$72.5 B,$89 B
+2017,95,日产汽车,Nissan Motor,Japan,$105.9 B,$4.5 B,$157.3 B,$38.4 B
+2017,96,美国银行,US Bancorp,United States,$22 B,$5.9 B,$451 B,$86.6 B
+2017,97,美国运通,American Express,United States,$34 B,$5.4 B,$158.9 B,$70.1 B
+2017,98,鸿海精密,Hon Hai Precision,Taiwan,$135.2 B,$4.6 B,$80.4 B,$54.4 B
+2017,99,意大利国家电力公司,Enel,Italy,$75.9 B,$2.8 B,$164.1 B,$47.5 B
+2017,100,默克,Merck,United States,$39.6 B,$3.9 B,$95.4 B,$173.3 B
+2017,100,,National Australia Bank,Australia,$24.2 B,$4.3 B,$595.3 B,$65 B
+2017,102,,PetroChina,China,$214.8 B,$1.2 B,$344.9 B,$204.5 B
+2017,103,,Unilever,Netherlands,$58.3 B,$5.7 B,$59.5 B,$143.9 B
+2017,104,,Hyundai Motor,South Korea,$80.7 B,$4.7 B,$148.1 B,$34.2 B
+2017,105,,BBVA-Banco Bilbao Vizcaya,Spain,$27.3 B,$3.8 B,$771.9 B,$49.6 B
+2017,106,,Reliance Industries,India,$41.8 B,$4.3 B,$97.9 B,$71.2 B
+2017,107,,Charter Communications,United States,$29 B,$3.5 B,$153.2 B,$101.6 B
+2017,108,,SAIC Motor,China,$112.7 B,$4.8 B,$85 B,$43.5 B
+2017,109,,Chubb,Switzerland,$31.9 B,$4.1 B,$159.8 B,$64 B
+2017,110,,Telefónica,Spain,$57.6 B,$2.6 B,$130.4 B,$55.9 B
+2017,111,,AIA Group,Hong Kong,$26.5 B,$4.2 B,$183 B,$77.1 B
+2017,112,,Société Générale,France,$28 B,$4 B,"$1,457.9 B",$39.9 B
+2017,113,,Dow Chemical,United States,$48.1 B,$4.3 B,$79.5 B,$77 B
+2017,114,,Home Depot,United States,$94.6 B,$8 B,$43 B,$176.7 B
+2017,115,,Lloyds Banking Group,United Kingdom,$23.4 B,$2.8 B,"$1,010.5 B",$55.9 B
+2017,115,,Medtronic,Ireland,$29.4 B,$4 B,$97.6 B,$110 B
+2017,117,,Kraft Heinz Company,United States,$26.5 B,$3.6 B,$120.5 B,$110.4 B
+2017,117,,Saudi Basic Industries,Saudi Arabia,$35.4 B,$4.8 B,$84.5 B,$80.7 B
+2017,119,,Facebook,United States,$27.6 B,$9.5 B,$65 B,$407.3 B
+2017,120,,Munich Re,Germany,$68.8 B,$2.9 B,$286.9 B,$30.5 B
+2017,121,,Intesa Sanpaolo,Italy,$24.8 B,$3.4 B,$764.8 B,$45.3 B
+2017,122,,Barclays,United Kingdom,$29.2 B,$2.4 B,"$1,499 B",$45.4 B
+2017,123,,Rio Tinto,United Kingdom,$33.9 B,$4.7 B,$89.3 B,$72.9 B
+2017,124,,BHP Billiton,Australia,$34 B,$2.4 B,$119.5 B,$98.3 B
+2017,125,,CK Hutchison,Hong Kong,$33.5 B,$4.3 B,$130.7 B,$47.4 B
+2017,126,,Anheuser-Busch InBev,Belgium,$45.6 B,$1.2 B,$261.1 B,$213.1 B
+2017,127,,Taiwan Semiconductor,Taiwan,$29.4 B,$10.4 B,$58.5 B,$161.7 B
+2017,128,,Capital One Financial,United States,$27.9 B,$3.7 B,$357 B,$40.3 B
+2017,129,,LukOil,Russia,$74.6 B,$3.1 B,$83.2 B,$44.6 B
+2017,130,,Swiss Re,Switzerland,$43.6 B,$3.6 B,$207.6 B,$32.1 B
+2017,131,,Amgen,United States,$22.7 B,$7.7 B,$77.6 B,$120.3 B
+2017,132,,Banco do Brasil,Brazil,$57.3 B,$2.3 B,$430.6 B,$29 B
+2017,133,,Bank of Montreal,Canada,$19.7 B,$3.8 B,$531.1 B,$48.6 B
+2017,134,,Gilead Sciences,United States,$30.3 B,$13.5 B,$57 B,$87 B
+2017,135,,China Communications Construction,China,$64.1 B,$2.5 B,$115.3 B,$38.8 B
+2017,136,,Honeywell International,United States,$39.3 B,$4.7 B,$54.1 B,$94.6 B
+2017,137,,Manulife,Canada,$38.9 B,$2.2 B,$511.3 B,$34.4 B
+2017,138,,Korea Electric Power,South Korea,$51.9 B,$6.1 B,$147.2 B,$25.5 B
+2017,139,,Generali Group,Italy,$90.5 B,$2.3 B,$553 B,$23.7 B
+2017,140,,Alibaba,China,$21.5 B,$5.7 B,$70.7 B,$264.9 B
+2017,141,,KDDI,Japan,$43.2 B,$5.1 B,$52.3 B,$68.3 B
+2017,142,,China Telecom,China,$53 B,$2.7 B,$93.9 B,$40.4 B
+2017,143,,AbbVie,United States,$25.6 B,$5.9 B,$66.1 B,$104.5 B
+2017,143,,Tokio Marine Holdings,Japan,$44.6 B,$2.8 B,$189.5 B,$30.6 B
+2017,145,,Iberdrola,Spain,$32.3 B,$3 B,$112.5 B,$46.4 B
+2017,146,,EDF,France,$78.8 B,$2.5 B,$297.1 B,$23.3 B
+2017,147,,PNC Financial Services,United States,$16.1 B,$3.9 B,$369.4 B,$57.9 B
+2017,148,,Tencent Holdings,China,$22.8 B,$6.2 B,$57 B,$277.1 B
+2017,149,,Allergan,Ireland,$15 B,$15 B,$129 B,$80.1 B
+2017,149,,China Everbright Bank,China,$26.1 B,$4.6 B,$578.5 B,$26.8 B
+2017,151,,Credit Agricole,France,$18.6 B,$3.5 B,"$1,607.7 B",$36.5 B
+2017,152,,Lockheed Martin,United States,$49.9 B,$3.8 B,$47.8 B,$78.3 B
+2017,153,,Time Warner,United States,$29.3 B,$3.9 B,$66 B,$76.2 B
+2017,154,,Duke Energy,United States,$22.7 B,$2.7 B,$132.8 B,$57.6 B
+2017,155,,Anthem,United States,$85.2 B,$2.5 B,$65.1 B,$44 B
+2017,156,,Vale,Brazil,$27.1 B,$3.8 B,$99.1 B,$45.4 B
+2017,157,,Nordea Bank,Sweden,$15.1 B,$4.2 B,$649.6 B,$45.4 B
+2017,158,,Express Scripts,United States,$100.5 B,$3.4 B,$51.7 B,$39.9 B
+2017,159,,United Parcel Service,United States,$60.5 B,$3.4 B,$40.4 B,$91.3 B
+2017,160,,Aetna,United States,$63.2 B,$2.3 B,$69.1 B,$45.1 B
+2017,161,,China Shenhua Energy,China,$26.5 B,$3.4 B,$82.3 B,$54.1 B
+2017,162,,VINCI,France,$42.6 B,$2.8 B,$72.9 B,$43.6 B
+2017,163,,Bank of New York Mellon,United States,$15.6 B,$3.5 B,$333.5 B,$48.8 B
+2017,164,,Renault,France,$56.7 B,$3.8 B,$107.7 B,$24.6 B
+2017,165,,China Railway Group,China,$95.4 B,$1.9 B,$108.6 B,$29.6 B
+2017,166,,EADS,Netherlands,$73.7 B,$1.1 B,$126.2 B,$59.5 B
+2017,167,,China Railway Construction,China,$93.2 B,$2.1 B,$109.3 B,$26.5 B
+2017,167,,China Vanke,China,$33.7 B,$3.1 B,$119.5 B,$30.5 B
+2017,169,,Jardine Matheson,Hong Kong,$37.1 B,$2.5 B,$71.5 B,$47.6 B
+2017,170,,Qualcomm,United States,$23.8 B,$4.9 B,$52.4 B,$83.2 B
+2017,171,,Hewlett Packard Enterprise,United States,$48.8 B,$3.2 B,$76.7 B,$30.4 B
+2017,172,,British American Tobacco,United Kingdom,$19.9 B,$6.3 B,$49.1 B,$123.8 B
+2017,173,,Visa,United States,$16 B,$6 B,$63.4 B,$206.4 B
+2017,174,,China Pacific Insurance,China,$40.3 B,$1.8 B,$144 B,$33.5 B
+2017,174,,MetLife,United States,$64.7 B,$800 M,$905.2 B,$57.2 B
+2017,176,,AstraZeneca,United Kingdom,$23 B,$3.7 B,$62.5 B,$75.2 B
+2017,177,,Altria Group,United States,$19.3 B,$14.2 B,$45.9 B,$138.8 B
+2017,178,,SAP,Germany,$24.4 B,$4 B,$46.7 B,$119.7 B
+2017,179,,Costco Wholesale,United States,$121.2 B,$2.4 B,$35.6 B,$74.9 B
+2017,179,,Travelers,United States,$27.7 B,$3 B,$101.7 B,$33.6 B
+2017,181,,Philip Morris International,United States,$26.7 B,$6.9 B,$36.9 B,$176.2 B
+2017,182,,Union Pacific,United States,$19.9 B,$4.2 B,$56.8 B,$86.8 B
+2017,183,,Delta Air Lines,United States,$39.6 B,$4.4 B,$58.9 B,$33 B
+2017,184,,Southern Company,United States,$19.9 B,$2.5 B,$109.7 B,$49.3 B
+2017,185,,Lowe's,United States,$65 B,$3.1 B,$34.4 B,$71.1 B
+2017,185,,National Grid,United Kingdom,$21.9 B,$2.9 B,$81.7 B,$48 B
+2017,187,,Legal & General Group,United Kingdom,$105.5 B,$1.7 B,$571.2 B,$18.2 B
+2017,188,,McKesson,United States,$196.5 B,$2 B,$57.9 B,$30.5 B
+2017,189,,Christian Dior,France,$43.7 B,$2 B,$68.3 B,$42.7 B
+2017,190,,PTT PCL,Thailand,$48.7 B,$2.6 B,$63.4 B,$32.4 B
+2017,191,,Dai-ichi Life Insurance,Japan,$55.7 B,$1.7 B,$438.8 B,$19.9 B
+2017,192,,Twenty-First Century Fox,United States,$28.1 B,$3.1 B,$49.2 B,$57.5 B
+2017,193,,Canadian Imperial Bank,Canada,$14.6 B,$3.6 B,$393.7 B,$34.5 B
+2017,194,,FedEx,United States,$57.6 B,$1.9 B,$46.8 B,$52.3 B
+2017,194,,GlaxoSmithKline,United Kingdom,$37.6 B,$1.2 B,$73 B,$99.8 B
+2017,196,,Deutsche Post,Germany,$63.4 B,$2.9 B,$40.6 B,$41 B
+2017,197,,3M,United States,$30.1 B,$5.1 B,$32.9 B,$113.5 B
+2017,198,,L'Oréal Group,France,$28.6 B,$3.4 B,$37.6 B,$107.5 B
+2017,199,,Aflac,United States,$22.7 B,$2.7 B,$129.8 B,$29.2 B
+2017,200,,Allstate,United States,$36.3 B,$1.9 B,$110.4 B,$29.6 B
+2017,201,,Hitachi,Japan,$85.8 B,$1.8 B,$82.7 B,$25.6 B
+2017,202,,Brookfield Asset Management,Canada,$24.9 B,$1.6 B,$159.8 B,$35.4 B
+2017,203,,BT Group,United Kingdom,$31.7 B,$3.1 B,$54 B,$38.5 B
+2017,204,,NextEra Energy,United States,$15.2 B,$2.9 B,$90 B,$60.4 B
+2017,205,,BlackRock,United States,$11.2 B,$3.2 B,$220.2 B,$62.6 B
+2017,206,,Continental,Germany,$44.9 B,$3.1 B,$39.4 B,$42.7 B
+2017,206,,MS&AD Insurance,Japan,$47.8 B,$2 B,$178.3 B,$19.2 B
+2017,208,,Aviva,United Kingdom,$74.3 B,$949 M,$511.1 B,$25.9 B
+2017,209,,Cigna,United States,$39.7 B,$1.9 B,$60.3 B,$39 B
+2017,210,,Phillips 66,United States,$71.2 B,$1.5 B,$51.7 B,$39.9 B
+2017,211,,Valero Energy,United States,$75.7 B,$2.3 B,$46.8 B,$29.4 B
+2017,212,,Enbridge,Canada,$26.1 B,$1.6 B,$64 B,$69.3 B
+2017,213,,Mondelēz International,United States,$25.9 B,$1.6 B,$61.5 B,$67.4 B
+2017,214,,People's Insurance Company,China,$64.6 B,$2.1 B,$129.7 B,$17.5 B
+2017,215,,McDonald's,United States,$24.6 B,$4.7 B,$31 B,$106.4 B
+2017,216,,ArcelorMittal,Luxembourg,$56.8 B,$1.8 B,$75.1 B,$25.1 B
+2017,217,,East Japan Railway,Japan,$26.5 B,$2.3 B,$66.1 B,$34.2 B
+2017,218,,Itochu,Japan,$44 B,$2.4 B,$72 B,$22.4 B
+2017,219,,Japan Tobacco,Japan,$19.7 B,$3.9 B,$40.7 B,$66.4 B
+2017,220,,EI du Pont de Nemours,United States,$24.6 B,$2.5 B,$40 B,$69.2 B
+2017,221,,Eli Lilly,United States,$21.2 B,$2.7 B,$38.8 B,$94.1 B
+2017,221,,Panasonic,Japan,$66.6 B,$1.9 B,$52.7 B,$26.2 B
+2017,223,,Sun Hung Kai Properties,Hong Kong,$13.4 B,$5 B,$80.1 B,$43.6 B
+2017,224,,Fiat Chrysler Automobiles,United Kingdom,$122.8 B,$2 B,$110.1 B,$15.5 B
+2017,225,,LafargeHolcim,Switzerland,$27.3 B,$1.8 B,$68.5 B,$35.4 B
+2017,225,,Qatar National Bank,Qatar,$11.7 B,$3.4 B,$197.6 B,$37.7 B
+2017,227,,Target,United States,$69.5 B,$2.7 B,$37.4 B,$29.4 B
+2017,228,,Fresenius,Germany,$32.2 B,$1.8 B,$49 B,$43.9 B
+2017,229,,Danaher,United States,$19.9 B,$2.6 B,$45.3 B,$59.7 B
+2017,230,,Danske Bank,Denmark,$11.7 B,$2.9 B,$494.2 B,$31.9 B
+2017,230,,General Dynamics,United States,$31.4 B,$3 B,$32.9 B,$57 B
+2017,232,,Reynolds American,United States,$12.5 B,$6.1 B,$51.1 B,$90.6 B
+2017,233,,Denso,Japan,$41.1 B,$2.2 B,$43.6 B,$33.6 B
+2017,234,,Bristol-Myers Squibb,United States,$19.4 B,$4.5 B,$33.7 B,$88 B
+2017,235,,CRRC,China,$34.2 B,$1.7 B,$48.7 B,$42.6 B
+2017,236,,ABB,Switzerland,$33.8 B,$2 B,$39.7 B,$49.9 B
+2017,237,,Exelon,United States,$32.2 B,$1.1 B,$114.9 B,$33.3 B
+2017,238,,Cathay Financial,Taiwan,$29 B,$1.5 B,$252.2 B,$19.8 B
+2017,239,,Sun Life Financial,Canada,$19.9 B,$1.9 B,$188.7 B,$21.9 B
+2017,240,,Repsol,Spain,$38.4 B,$1.9 B,$68.4 B,$23.8 B
+2017,241,,Kroger,United States,$115.3 B,$1.9 B,$37.5 B,$27.3 B
+2017,242,,Abbott Laboratories,United States,$20.9 B,$1.4 B,$55 B,$75.7 B
+2017,243,,HCA Holdings,United States,$41.5 B,$2.9 B,$33.8 B,$32.6 B
+2017,244,,State Bank of India,India,$43.7 B,$667 M,$493.3 B,$36.5 B
+2017,245,,DBS Group,Singapore,$10.3 B,$3.1 B,$333.5 B,$34.4 B
+2017,246,,Oil & Natural Gas,India,$19.9 B,$2.2 B,$57.7 B,$37.2 B
+2017,247,,American Airlines Group,United States,$40.2 B,$2.7 B,$51.3 B,$21.1 B
+2017,247,,BB&T,United States,$11.3 B,$2.4 B,$221.2 B,$35.6 B
+2017,249,,Nike,United States,$33.8 B,$4.1 B,$23.2 B,$91.2 B
+2017,250,,Schneider Electric,France,$27.3 B,$1.9 B,$44.1 B,$41.9 B
+2017,251,,Thermo Fisher Scientific,United States,$18.3 B,$2 B,$45.9 B,$59.9 B
+2017,252,,Danone,France,$24.3 B,$1.9 B,$46.4 B,$42 B
+2017,253,,Samsung Life Insurance,South Korea,$24.1 B,$1.8 B,$219.1 B,$18.2 B
+2017,254,,Air Liquide,France,$20.1 B,$2 B,$46.5 B,$45 B
+2017,255,,Huaxia Bank,China,$15.9 B,$3 B,$340.9 B,$17.6 B
+2017,256,,Orix,Japan,$22.8 B,$2.4 B,$95.5 B,$19.8 B
+2017,257,,Bank of Beijing,China,$13.4 B,$2.7 B,$306.3 B,$21.5 B
+2017,258,,HDFC Bank,India,$11.4 B,$2 B,$110.3 B,$57.4 B
+2017,259,,KBC Group,Belgium,$11.3 B,$2.7 B,$290.3 B,$27.6 B
+2017,260,,Deere & Company,United States,$26.7 B,$1.5 B,$56.3 B,$34.8 B
+2017,261,,Diageo,United Kingdom,$15.2 B,$3.2 B,$37.4 B,$71.2 B
+2017,262,,Central Japan Railway,Japan,$16.1 B,$3.4 B,$51 B,$32.6 B
+2017,262,,Liberty Global,United Kingdom,$20 B,$1.7 B,$68.7 B,$31.2 B
+2017,264,,Indian Oil,India,$54.1 B,$1.7 B,$37.3 B,$30 B
+2017,265,,Shinhan Financial Group,South Korea,$14.2 B,$2.4 B,$327.6 B,$20 B
+2017,266,,Canon,Japan,$31.3 B,$1.4 B,$44.1 B,$41.6 B
+2017,267,,Synchrony Financial,United States,$15.1 B,$2.3 B,$90.2 B,$26.9 B
+2017,268,,Saint-Gobain,France,$43.2 B,$1.5 B,$46.2 B,$28 B
+2017,269,,United Continental Holdings,United States,$36.6 B,$2.3 B,$45.4 B,$22.3 B
+2017,270,,Carnival,United States,$16.5 B,$3 B,$38.7 B,$43.9 B
+2017,271,,HP,United States,$48.7 B,$2.5 B,$28.2 B,$29.4 B
+2017,272,,Accenture,Ireland,$35.7 B,$3.8 B,$20.1 B,$77.8 B
+2017,273,,Country Garden Holdings,Hong Kong,$23 B,$1.7 B,$85.1 B,$20.3 B
+2017,274,,State Street,United States,$10.6 B,$2.1 B,$242.7 B,$30.1 B
+2017,275,,Volvo Group,Sweden,$35.3 B,$1.5 B,$44.7 B,$28.6 B
+2017,276,,Inditex,Spain,$25.7 B,$3.5 B,$21.2 B,$112.1 B
+2017,277,,Seven & I Holdings,Japan,$53.9 B,$894 M,$49.2 B,$37 B
+2017,278,,Mitsubishi Electric,Japan,$39.1 B,$1.9 B,$34.1 B,$29.9 B
+2017,279,,Bridgestone,Japan,$30.7 B,$2.4 B,$31.9 B,$31.7 B
+2017,280,,PG&E,United States,$17.7 B,$1.4 B,$70.9 B,$34 B
+2017,281,,Cardinal Health,United States,$127.2 B,$1.4 B,$35 B,$26 B
+2017,282,,Telstra,Australia,$18.6 B,$4.1 B,$30.2 B,$40.7 B
+2017,283,,Dominion Resources,United States,$11.4 B,$2.1 B,$71.6 B,$48.7 B
+2017,284,,Nomura,Japan,$14.8 B,$1.5 B,$369.1 B,$21.2 B
+2017,285,,Raytheon,United States,$24.1 B,$2.2 B,$30.1 B,$44.9 B
+2017,286,,Henkel,Germany,$20.7 B,$2.3 B,$30 B,$52 B
+2017,287,,Marathon Petroleum,United States,$56 B,$1.2 B,$44.4 B,$26.4 B
+2017,288,,Merck,Germany,$16.6 B,$1.8 B,$41.1 B,$49.1 B
+2017,289,,Peugeot,France,$59.8 B,$1.9 B,$48.2 B,$16.9 B
+2017,290,,Tata Motors,India,$41.2 B,$1.7 B,$39.5 B,$24.9 B
+2017,291,,Archer Daniels Midland,United States,$62.4 B,$1.3 B,$39.8 B,$25.6 B
+2017,292,,CNP Assurances,France,$30.7 B,$1.2 B,$428.1 B,$13.8 B
+2017,292,,Natixis,France,$14.6 B,$1.5 B,$556.7 B,$19.1 B
+2017,294,,China Huarong Asset Management,China,$13.5 B,$3 B,$203.2 B,$16.6 B
+2017,295,,Imperial Tobacco Group,United Kingdom,$39.2 B,$896 M,$42.5 B,$46.5 B
+2017,296,,BCE,Canada,$16.4 B,$2.3 B,$37.4 B,$40.5 B
+2017,297,,Northrop Grumman,United States,$24.5 B,$2.2 B,$28 B,$41.7 B
+2017,298,,LyondellBasell Industries,United Kingdom,$29.2 B,$3.8 B,$23.4 B,$35.8 B
+2017,299,,Posco,South Korea,$45.8 B,$1.1 B,$66 B,$19.2 B
+2017,300,,Telecom Italia,Italy,$21 B,$2 B,$74.3 B,$18.1 B
+2017,301,,Oversea-Chinese Banking,Singapore,$8.6 B,$2.5 B,$283.7 B,$28.8 B
+2017,302,,KB Financial Group,South Korea,$13.5 B,$1.8 B,$312 B,$17.9 B
+2017,303,,Charles Schwab,United States,$7.6 B,$1.9 B,$223.4 B,$53.3 B
+2017,304,,Orange,France,$45.3 B,$552 M,$101.5 B,$40.4 B
+2017,305,,Surgutneftegas,Russia,$13.9 B,$7.8 B,$60.9 B,$18.5 B
+2017,306,,Sompo,Japan,$29.4 B,$1.7 B,$91.1 B,$14.4 B
+2017,307,,Gas Natural Fenosa,Spain,$25.6 B,$1.5 B,$49.7 B,$21.7 B
+2017,308,,WPP,United Kingdom,$19.4 B,$1.9 B,$42.7 B,$27.4 B
+2017,309,,Bank Of Shanghai,China,$10.9 B,$2.1 B,$236.3 B,$20.7 B
+2017,310,,ICICI Bank,India,$11.9 B,$1.6 B,$138.9 B,$25.1 B
+2017,311,,Poly Real Estate,China,$22.4 B,$2 B,$68.3 B,$16.6 B
+2017,312,,Hyundai Mobis,South Korea,$33 B,$2.6 B,$34.5 B,$18.9 B
+2017,313,,DNB,Norway,$8.7 B,$2.2 B,$308.2 B,$25.6 B
+2017,313,,Philips,Netherlands,$27.1 B,$1.6 B,$34.1 B,$28.9 B
+2017,315,,AmerisourceBergen,United States,$148.3 B,$1.3 B,$33.9 B,$19 B
+2017,316,,Heineken Holding,Netherlands,$23 B,$1.7 B,$42.1 B,$23 B
+2017,317,,CRH,Ireland,$30.1 B,$1.4 B,$33.3 B,$29 B
+2017,317,,Discover Financial Services,United States,$10.5 B,$2.4 B,$92.8 B,$25.3 B
+2017,319,,Safran,France,$18.2 B,$2.1 B,$32.8 B,$32.2 B
+2017,320,,Etisalat,United Arab Emirates,$14.3 B,$2.3 B,$33.4 B,$42.7 B
+2017,321,,CaixaBank,Spain,$11 B,$1.2 B,$367 B,$25.7 B
+2017,322,,Eaton,Ireland,$19.7 B,$1.9 B,$30.4 B,$33.4 B
+2017,322,,Fubon Financial,Taiwan,$15.4 B,$1.5 B,$196.5 B,$16.1 B
+2017,322,,Sumitomo,Japan,$38.2 B,$1.1 B,$67.7 B,$16.8 B
+2017,322,,SunTrust Banks,United States,$8.9 B,$1.9 B,$204.9 B,$27.2 B
+2017,326,,Greenland Holdings Group,China,$32.8 B,$1.2 B,$99.6 B,$14.3 B
+2017,327,,China Cinda Asset Management,China,$13.4 B,$2.3 B,$169 B,$14.7 B
+2017,328,,Anglo American,United Kingdom,$21.5 B,$1.6 B,$50.1 B,$19.8 B
+2017,329,,China Resources Land,Hong Kong,$14.5 B,$2.5 B,$55.1 B,$19.8 B
+2017,330,,Royal Ahold Delhaize N.V.,Netherlands,$55 B,$918 M,$38.3 B,$26 B
+2017,330,,SingTel,Singapore,$11.9 B,$2.8 B,$33 B,$45.2 B
+2017,332,,United Overseas Bank,Singapore,$8.2 B,$2.2 B,$235.4 B,$25.6 B
+2017,333,,Subaru,Japan,$29.8 B,$2.8 B,$22.7 B,$27.3 B
+2017,334,,Automatic Data Processing,United States,$12.1 B,$1.7 B,$40 B,$45.9 B
+2017,335,,Midea Group,China,$23.9 B,$2.2 B,$24.5 B,$31.5 B
+2017,336,,Linde,Germany,$18.7 B,$1.3 B,$39 B,$31.3 B
+2017,337,,KIA Motors,South Korea,$45.4 B,$2.4 B,$42.1 B,$12.6 B
+2017,338,,Hartford Financial Services,United States,$18.1 B,$896 M,$225.2 B,$17.9 B
+2017,339,,Southwest Airlines,United States,$20.4 B,$2.2 B,$24.8 B,$33.6 B
+2017,340,,América Móvil,Mexico,$52.2 B,$463 M,$73.6 B,$47.3 B
+2017,341,,Principal Financial Group,United States,$12.5 B,$1.3 B,$228 B,$18 B
+2017,342,,Fannie Mae,United States,$108.3 B,$12.3 B,"$3,288 B",$2.8 B
+2017,343,,Ameriprise Financial,United States,$11.7 B,$1.3 B,$139.8 B,$19.9 B
+2017,344,,Macquarie Group,Australia,$10.6 B,$1.5 B,$147.8 B,$21.2 B
+2017,345,,Carrefour,France,$87.1 B,$825 M,$51.5 B,$16.6 B
+2017,346,,Celgene,United States,$11 B,$2 B,$28.1 B,$97.7 B
+2017,347,,China Evergrande Group,China,$32.4 B,$764 M,$194.4 B,$14.6 B
+2017,348,,Takeda Pharmaceutical,Japan,$15.9 B,$1.2 B,$35.5 B,$36.9 B
+2017,349,,SK Hynix,South Korea,$14.8 B,$2.5 B,$26.7 B,$32 B
+2017,350,,Saudi Telecom,Saudi Arabia,$13.8 B,$2.3 B,$27.1 B,$37.3 B
+2017,351,,Tyson Foods,United States,$36.9 B,$1.9 B,$22.3 B,$24.2 B
+2017,352,,Sinohydro Group,China,$34.6 B,$862 M,$71.2 B,$16.5 B
+2017,353,,Reckitt Benckiser Group,United Kingdom,$13.3 B,$2.5 B,$22.3 B,$64.1 B
+2017,354,,CSX,United States,$11.1 B,$1.7 B,$36 B,$43.8 B
+2017,355,,Freddie Mac,United States,$69.8 B,$7.8 B,"$2,023.4 B",$1.5 B
+2017,356,,Lincoln National,United States,$13.4 B,$1.2 B,$263.5 B,$14.8 B
+2017,357,,Kinder Morgan,United States,$12.9 B,$704 M,$80.3 B,$48.1 B
+2017,358,,Power Corp of Canada,Canada,$35.4 B,$856 M,$311.2 B,$10.8 B
+2017,359,,BP,United Kingdom,$183.8 B,$115 M,$263.3 B,$114.7 B
+2017,359,,Chevron,United States,$110.5 B,$-497 M,$260.1 B,$206.1 B
+2017,361,,Michelin Group,France,$23.1 B,$1.8 B,$26.7 B,$21.6 B
+2017,362,,Cheung Kong Property Holdings,Hong Kong,$9 B,$2.5 B,$51.2 B,$26.2 B
+2017,363,,SK Holdings,South Korea,$72.1 B,$660 M,$85.3 B,$14.7 B
+2017,364,,Gree Electric Appliances,China,$15.3 B,$2.1 B,$27.2 B,$27.7 B
+2017,365,,BAE Systems,United Kingdom,$24 B,$1.2 B,$29.1 B,$25.6 B
+2017,366,,Bank Of Jiangsu,China,$9.7 B,$1.6 B,$230 B,$16.6 B
+2017,367,,Edison International,United States,$11.9 B,$1.3 B,$51.3 B,$26.1 B
+2017,368,,Kansai Electric Power,Japan,$28.3 B,$1.6 B,$58.5 B,$11.3 B
+2017,369,,New China Life Insurance,China,$22 B,$751 M,$100.5 B,$17.6 B
+2017,370,,Starbucks,United States,$21.7 B,$2.9 B,$14 B,$84.6 B
+2017,371,,Centrica,United Kingdom,$36.6 B,$2.3 B,$27.1 B,$14.8 B
+2017,372,,Biogen,United States,$10.5 B,$3.7 B,$22.9 B,$58 B
+2017,373,,Canadian National Railway,Canada,$9.1 B,$2.7 B,$28 B,$55.9 B
+2017,373,,HDFC,India,$8.1 B,$1.6 B,$64.9 B,$36.7 B
+2017,375,,Novo Nordisk,Denmark,$16.6 B,$5.6 B,$13.8 B,$88.2 B
+2017,376,,Swedbank,Sweden,$6.3 B,$2.3 B,$237.1 B,$25.1 B
+2017,376,,Tata Consultancy Services,India,$17.4 B,$3.9 B,$14.5 B,$74.5 B
+2017,378,,Monsanto,United States,$14.5 B,$1.9 B,$21.4 B,$50.9 B
+2017,379,,Mastercard,United States,$10.8 B,$4.1 B,$18.7 B,$121.3 B
+2017,380,,Femsa,Mexico,$20.9 B,$1.1 B,$26.5 B,$33.1 B
+2017,380,,PayPal,United States,$10.8 B,$1.4 B,$33.1 B,$51.7 B
+2017,382,,Progressive,United States,$23.5 B,$1 B,$34.3 B,$22.8 B
+2017,383,,Svenska Handelsbanken,Sweden,$6.4 B,$1.9 B,$289.2 B,$25.9 B
+2017,384,,Mitsui Fudosan,Japan,$14.9 B,$1.2 B,$46.7 B,$21.1 B
+2017,385,,SEB,Sweden,$7.7 B,$1.2 B,$288.5 B,$23.8 B
+2017,386,,Bank Rakyat Indonesia,Indonesia,$8.3 B,$2 B,$74.5 B,$24.2 B
+2017,387,,Texas Instruments,United States,$13.4 B,$3.4 B,$16.4 B,$80.5 B
+2017,388,,Wilmar International,Singapore,$41.4 B,$984 M,$37 B,$16.1 B
+2017,389,,Daiwa House Industry,Japan,$31.9 B,$1.2 B,$29.6 B,$19.1 B
+2017,390,,Baidu,China,$10.6 B,$1.7 B,$26.2 B,$59.9 B
+2017,390,,Consolidated Edison,United States,$12.1 B,$1.2 B,$48.3 B,$23.8 B
+2017,390,,Maybank,Malaysia,$7.6 B,$1.6 B,$164.1 B,$20.7 B
+2017,393,,DISH Network,United States,$15.1 B,$1.4 B,$28.2 B,$29.1 B
+2017,394,,Citic Securities,China,$7.6 B,$1.6 B,$86 B,$27.9 B
+2017,395,,American Electric,United States,$16.2 B,$613 M,$66.2 B,$33.1 B
+2017,396,,Suzuki Motor,Japan,$28.3 B,$1.4 B,$25.9 B,$19.9 B
+2017,397,,VTB Bank,Russia,$19.5 B,$699 M,$206.2 B,$14.9 B
+2017,398,,Metallurgical Corp of China,China,$32.4 B,$806 M,$54.3 B,$15.4 B
+2017,399,,Petrobras,Brazil,$81.1 B,$-4.3 B,$247.3 B,$61.3 B
+2017,400,,Norfolk Southern,United States,$9.9 B,$1.7 B,$34.9 B,$36 B
+2017,401,,TJX Cos,United States,$33.2 B,$2.3 B,$12.9 B,$49.1 B
+2017,402,,Investor AB,Sweden,$7.3 B,$3.9 B,$40.7 B,$32.2 B
+2017,403,,American International Group,United States,$52.4 B,$-849 M,$498.3 B,$60.1 B
+2017,404,,Sempra Energy,United States,$10.2 B,$1.3 B,$47.8 B,$27.5 B
+2017,405,,International Airlines,United Kingdom,$25 B,$2.2 B,$28.9 B,$13.7 B
+2017,405,,SSE,United Kingdom,$37.2 B,$1.1 B,$27.8 B,$18.7 B
+2017,407,,eBay,United States,$9 B,$7.3 B,$23.8 B,$36.6 B
+2017,408,,NTPC,India,$12.2 B,$1.6 B,$38.7 B,$21.5 B
+2017,409,,Old Mutual,United Kingdom,$22.1 B,$769 M,$208.1 B,$11.7 B
+2017,410,,Magna International,Canada,$36.4 B,$2 B,$22.6 B,$15.3 B
+2017,411,,China Yangtze Power,China,$6.5 B,$2.8 B,$45.3 B,$42.3 B
+2017,411,,NN Group,Netherlands,$15.6 B,$1.3 B,$177.5 B,$10.3 B
+2017,413,,Sumitomo Mitsui Trust,Japan,$9.2 B,$1.5 B,$548.2 B,$12.8 B
+2017,414,,General Mills,United States,$15.7 B,$1.6 B,$21.7 B,$33.2 B
+2017,414,,Talanx,Germany,$34.7 B,$1 B,$158.2 B,$8.9 B
+2017,416,,The Priceline Group,United States,$10.7 B,$2.1 B,$19.8 B,$87 B
+2017,417,,EXOR,Italy,$152.6 B,$483 M,$193 B,$11.9 B
+2017,417,,Glencore International,Switzerland,$153.7 B,$-453 M,$124.6 B,$57.3 B
+2017,419,,Vodafone,United Kingdom,$60.8 B,$-9.3 B,$175.7 B,$67 B
+2017,420,,Huaneng Power International,China,$16.9 B,$1.3 B,$44.5 B,$14.4 B
+2017,421,,Standard Bank Group,South Africa,$8.6 B,$1.5 B,$142.9 B,$15.9 B
+2017,422,,Swiss Life Holding,Switzerland,$19.5 B,$936 M,$197 B,$10.2 B
+2017,423,,FirstRand,South Africa,$8.4 B,$1.7 B,$86.3 B,$18.2 B
+2017,424,,Sysco,United States,$53.1 B,$1 B,$17.6 B,$28 B
+2017,425,,International Paper,United States,$21.1 B,$904 M,$33.3 B,$20.8 B
+2017,425,,Vivendi,France,$12 B,$1.4 B,$34.1 B,$24.2 B
+2017,427,,Kimberly-Clark,United States,$18.2 B,$2.2 B,$14.6 B,$46.7 B
+2017,428,,National Commercial Bank,Saudi Arabia,$6.1 B,$2.5 B,$117.7 B,$20.6 B
+2017,429,,Erste Group Bank,Austria,$9.2 B,$1.4 B,$220.8 B,$13.5 B
+2017,430,,Baoshan Iron & Steel,China,$26.8 B,$667 M,$40 B,$21.4 B
+2017,431,,Eni,Italy,$61.6 B,$-1.6 B,$135.9 B,$58.2 B
+2017,431,,Saudi Electricity,Saudi Arabia,$13.3 B,$561 M,$107.4 B,$26.6 B
+2017,433,,Corning,United States,$9.4 B,$3.7 B,$27.9 B,$24.9 B
+2017,434,,Daikin Industries,Japan,$18.5 B,$1.4 B,$20.6 B,$28.4 B
+2017,435,,Mitsubishi Chemical,Japan,$31.8 B,$1.4 B,$38.1 B,$11.1 B
+2017,436,,Becton Dickinson,United States,$12.4 B,$1.3 B,$24.3 B,$39.2 B
+2017,437,,SK Innovation,South Korea,$34.1 B,$1.4 B,$27 B,$13.5 B
+2017,438,,Humana,United States,$54.4 B,$594 M,$25.8 B,$30.4 B
+2017,439,,Emerson Electric,United States,$17.2 B,$1.5 B,$17.5 B,$38.3 B
+2017,440,,Nippon Steel & Sumitomo Metal,Japan,$41.6 B,$477 M,$54.6 B,$20.2 B
+2017,441,,Deutsche Bank,Germany,$44.3 B,$-1.9 B,"$1,686.6 B",$34 B
+2017,442,,Toyota Industries,Japan,$20 B,$1.1 B,$38.6 B,$14.8 B
+2017,443,,Pernod Ricard,France,$9.7 B,$1.4 B,$33.5 B,$31.4 B
+2017,444,,Aon,United Kingdom,$11.6 B,$1.4 B,$26.6 B,$31.4 B
+2017,445,,IntercontinentalExchange,United States,$6 B,$1.4 B,$82 B,$36.2 B
+2017,446,,Stryker,United States,$11.3 B,$1.6 B,$20.4 B,$48.8 B
+2017,447,,Fujifilm Holdings,Japan,$21.7 B,$1.1 B,$28.6 B,$18.1 B
+2017,448,,Fosun International,China,$11.1 B,$1.5 B,$70 B,$13.1 B
+2017,449,,Sony,Japan,$69.2 B,$-393 M,$151.7 B,$40.4 B
+2017,450,,Chubu Electric Power,Japan,$24.2 B,$1.5 B,$45.6 B,$10 B
+2017,451,,Las Vegas Sands,United States,$11.4 B,$1.7 B,$20.5 B,$44.6 B
+2017,452,,Xcel Energy,United States,$11.1 B,$1.1 B,$41.2 B,$22.5 B
+2017,453,,Fifth Third Bancorp,United States,$6.7 B,$1.6 B,$142.2 B,$18.8 B
+2017,454,,Bouygues,France,$35.1 B,$810 M,$36.8 B,$14.5 B
+2017,455,,ENGIE,France,$73.7 B,$-459 M,$167.9 B,$34.8 B
+2017,456,,Steinhoff International,Netherlands,$14.5 B,$1.3 B,$27.5 B,$21.1 B
+2017,457,,Wheelock,Hong Kong,$7.8 B,$2.1 B,$67.1 B,$16.7 B
+2017,458,,Marsh & McLennan,United States,$13.2 B,$1.8 B,$18.2 B,$37.8 B
+2017,459,,CBS,United States,$13.2 B,$1.3 B,$24.2 B,$29.5 B
+2017,460,,Fujitsu,Japan,$41.7 B,$1.2 B,$27.1 B,$12.5 B
+2017,461,,Statoil,Norway,$45.7 B,$-2.9 B,$104.5 B,$56.2 B
+2017,461,,Wesfarmers,Australia,$50 B,$439 M,$30 B,$37.8 B
+2017,463,,Axis Bank,India,$7.8 B,$1.3 B,$80.4 B,$18.8 B
+2017,463,,HeidelbergCement,Germany,$16.8 B,$782 M,$40.4 B,$18.5 B
+2017,465,,Illinois Tool Works,United States,$13.6 B,$2 B,$15.2 B,$45.5 B
+2017,466,,Formosa Petrochemical,Taiwan,$16.9 B,$2.3 B,$14 B,$33.6 B
+2017,467,,Marriott International,United States,$17.1 B,$780 M,$24.1 B,$34.9 B
+2017,468,,Adidas,Germany,$21.3 B,$1.1 B,$16 B,$39.6 B
+2017,469,,CLP Holdings,Hong Kong,$10.2 B,$1.6 B,$26.6 B,$26.8 B
+2017,470,,Thomson Reuters,United States,$11.2 B,$1.1 B,$27.9 B,$31.4 B
+2017,471,,Kering,France,$13.7 B,$913 M,$25.5 B,$33.7 B
+2017,472,,Colgate-Palmolive,United States,$15.2 B,$2.4 B,$12.1 B,$64.9 B
+2017,472,,Richemont,Switzerland,$11.5 B,$1.1 B,$22.6 B,$44.3 B
+2017,474,,Shin-Etsu Chemical,Japan,$11.3 B,$1.5 B,$21 B,$36.2 B
+2017,475,,Mapfre,Spain,$23.3 B,$858 M,$67.4 B,$10.5 B
+2017,475,,Poste Italiane,Italy,$36.6 B,$688 M,$203.8 B,$8.6 B
+2017,477,,Aisin Seiki,Japan,$31.7 B,$1.1 B,$27.7 B,$13.2 B
+2017,478,,Mitsubishi,Japan,$57 B,$-164 M,$129.1 B,$34.7 B
+2017,479,,Mitsubishi Estate,Japan,$10.3 B,$869 M,$46.3 B,$25.4 B
+2017,479,,PPL,United States,$7.5 B,$1.9 B,$38.3 B,$25.4 B
+2017,481,,Waste Management,United States,$13.6 B,$1.2 B,$21.3 B,$32.3 B
+2017,482,,Micron Technology,United States,$14.7 B,$689 M,$32.4 B,$31.6 B
+2017,483,,Larsen & Toubro,India,$15.7 B,$814 M,$29.8 B,$24.5 B
+2017,484,,Aegon,Netherlands,$36.6 B,$501 M,$437.4 B,$10 B
+2017,485,,Teva Pharmaceutical,Israel,$21.9 B,$337 M,$92.9 B,$32.4 B
+2017,486,,Compass Group,United Kingdom,$27.8 B,$1.4 B,$13.7 B,$31.1 B
+2017,487,,Suncor Energy,Canada,$20.2 B,$328 M,$66.1 B,$51.7 B
+2017,488,,EDP-Energias de Portugal,Portugal,$16.1 B,$1.1 B,$46.5 B,$12.3 B
+2017,489,,Syngenta,Switzerland,$12.8 B,$1.2 B,$19.5 B,$40.9 B
+2017,490,,Tenaga Nasional,Malaysia,$10.9 B,$1.7 B,$30.9 B,$17.4 B
+2017,491,,Credit Suisse Group,Switzerland,$29.9 B,$-2.8 B,$806.7 B,$30.1 B
+2017,492,,Hana Financial Group,South Korea,$11.1 B,$1.1 B,$288.3 B,$9.7 B
+2017,493,,Sampo,Finland,$6.9 B,$1.8 B,$39.8 B,$26.5 B
+2017,494,,Bank Mandiri,Indonesia,$7.5 B,$1 B,$77.1 B,$21.4 B
+2017,495,,Schlumberger,United States,$27.8 B,$-1.7 B,$78 B,$109.2 B
+2017,496,,UniCredit Group,Italy,$24.4 B,$-13 B,$906.6 B,$33.3 B
+2017,497,,M&T Bank,United States,$5.7 B,$1.3 B,$123.4 B,$23.5 B
+2017,497,,Thales,France,$16.5 B,$1 B,$23.9 B,$20.6 B
+2017,499,,Applied Materials,United States,$11.8 B,$2.1 B,$15.2 B,$42 B
+2017,500,,Royal Bank of Scotland,United Kingdom,$21.6 B,$-7.1 B,$986.9 B,$35 B
+2017,501,,SK Telecom,South Korea,$14.7 B,$1.4 B,$25.9 B,$16.3 B
+2017,502,,TE Connectivity,Switzerland,$12.5 B,$2.1 B,$17.6 B,$26 B
+2017,503,,Caterpillar,United States,$38.5 B,$-67 M,$74.7 B,$56 B
+2017,504,,China Merchants Shekou Industrial Zone Holdings,China,$8.6 B,$1.4 B,$36.1 B,$20.8 B
+2017,505,,Ecolab,United States,$13 B,$1.2 B,$18.3 B,$36.3 B
+2017,506,,H&M,Sweden,$22.7 B,$2.2 B,$10.9 B,$39.9 B
+2017,506,,Omnicom Group,United States,$15.5 B,$1.1 B,$23.2 B,$20.1 B
+2017,508,,Chinatrust Financial,Taiwan,$11 B,$866 M,$150.2 B,$11.8 B
+2017,509,,Komatsu,Japan,$15.7 B,$939 M,$23 B,$24.3 B
+2017,510,,Haitong Securities,China,$6.3 B,$1.2 B,$80.7 B,$22.9 B
+2017,511,,Grupo ACS,Spain,$36.3 B,$831 M,$35.2 B,$11.2 B
+2017,512,,Resona Holdings,Japan,$6.7 B,$1.7 B,$410.7 B,$11.7 B
+2017,513,,Bharti Airtel,India,$14.7 B,$702 M,$34.8 B,$21.4 B
+2017,513,,Deutsche Lufthansa,Germany,$35 B,$2 B,$37.8 B,$7.4 B
+2017,515,,Al Rajhi Bank,Saudi Arabia,$4.5 B,$2.2 B,$90.5 B,$27.6 B
+2017,516,,Swisscom,Switzerland,$11.8 B,$1.6 B,$21.1 B,$22.5 B
+2017,517,,Couche Tard,Canada,$35.7 B,$1.1 B,$13.8 B,$25.9 B
+2017,517,,Loews,United States,$13 B,$654 M,$76.6 B,$15.9 B
+2017,519,,ConocoPhillips,United States,$23.8 B,$-3.6 B,$89.8 B,$61.3 B
+2017,520,,Baxter International,United States,$10.2 B,$4.9 B,$15.5 B,$28.6 B
+2017,521,,Praxair,United States,$10.5 B,$1.5 B,$19.3 B,$33.9 B
+2017,522,,Kyocera,Japan,$12.9 B,$1.1 B,$26.5 B,$19.9 B
+2017,523,,Garanti Bank,Turkey,$9.2 B,$1.7 B,$88.1 B,$10.2 B
+2017,524,,China Unicom,Hong Kong,$41.3 B,$102 M,$88.9 B,$33.8 B
+2017,525,,CIC Group,France,$11.7 B,$1.3 B,$304.8 B,$7.9 B
+2017,526,,Kubota,Japan,$14.7 B,$1.2 B,$22.9 B,$18.5 B
+2017,527,,Isbank,Turkey,$11.7 B,$1.8 B,$118 B,$7.9 B
+2017,528,,Astellas Pharma,Japan,$12.1 B,$1.9 B,$15.9 B,$28 B
+2017,529,,CNOOC,Hong Kong,$22 B,$96 M,$91.8 B,$54.8 B
+2017,530,,Simon Property Group,United States,$5.4 B,$1.8 B,$31.1 B,$53 B
+2017,531,,ASML Holding,Netherlands,$7.5 B,$1.7 B,$19.7 B,$56.8 B
+2017,531,,British Sky Broadcasting,United Kingdom,$17.1 B,$847 M,$22.9 B,$20.6 B
+2017,533,,Cummins,United States,$17.5 B,$1.4 B,$15 B,$25.1 B
+2017,534,,China Zheshang Bank,China,$8.1 B,$1.5 B,$195 B,$9.8 B
+2017,535,,Standard Chartered,United Kingdom,$19.4 B,$-247 M,$646.7 B,$30.2 B
+2017,536,,Tokyo Electric Power,Japan,$50.2 B,$1 B,$105.5 B,$6.1 B
+2017,537,,Cognizant Technology,United States,$13.5 B,$1.6 B,$14.3 B,$35.6 B
+2017,538,,Viacom,United States,$12.7 B,$1.4 B,$23.3 B,$18 B
+2017,539,,Sasol,South Africa,$11.8 B,$993 M,$27.6 B,$19.8 B
+2017,540,,Public Service Enterprise Group,United States,$8.8 B,$887 M,$40.1 B,$22.6 B
+2017,541,,Coal India,India,$11 B,$1.6 B,$17.8 B,$27.4 B
+2017,542,,Novatek,Russia,$8 B,$3.8 B,$15.8 B,$39 B
+2017,543,,Kirin Holdings,Japan,$19.1 B,$1.1 B,$20.1 B,$17.4 B
+2017,544,,T&D Holdings,Japan,$16.6 B,$703 M,$128.6 B,$9.2 B
+2017,545,,Mitsui,Japan,$39.2 B,$115 M,$100 B,$26.2 B
+2017,546,,Regions Financial,United States,$5.8 B,$1.2 B,$126.7 B,$17.4 B
+2017,547,,Ingersoll Rand,Ireland,$13.5 B,$1.5 B,$17.4 B,$21.4 B
+2017,548,,CenturyLink,United States,$17.5 B,$626 M,$47 B,$13.4 B
+2017,549,,Bank of Nanjing,China,$7.8 B,$1.3 B,$153.4 B,$10.5 B
+2017,550,,Dongfeng Motor Group,China,$18.4 B,$2 B,$26.6 B,$9.4 B
+2017,551,,Citizens Financial Group,United States,$5.8 B,$1 B,$150.6 B,$17.6 B
+2017,552,,Swire Pacific,Hong Kong,$8 B,$1.2 B,$48.2 B,$15.1 B
+2017,553,,RELX Group,United Kingdom,$9.3 B,$1.6 B,$16.5 B,$40.9 B
+2017,553,,Samsung Fire & Marine,South Korea,$17.2 B,$740 M,$55.5 B,$10.4 B
+2017,555,,Associated British Foods,United Kingdom,$19 B,$1.2 B,$14.8 B,$24.4 B
+2017,556,,Standard Life,United Kingdom,$25.2 B,$497 M,$228.7 B,$9 B
+2017,557,,Ally Financial,United States,$10.1 B,$1.1 B,$163.7 B,$9.1 B
+2017,558,,M?ller-Maersk,Denmark,$35.5 B,$-2 B,$62.6 B,$35 B
+2017,559,,Ecopetrol,Colombia,$15.6 B,$513 M,$40.4 B,$19.7 B
+2017,560,,National Bank of Canada,Canada,$6.2 B,$1.1 B,$179.6 B,$14.3 B
+2017,561,,Sumitomo Electric,Japan,$25.6 B,$905 M,$24.6 B,$12.5 B
+2017,562,,Shire,Ireland,$11.6 B,$342 M,$67 B,$51.3 B
+2017,563,,Akzo Nobel,Netherlands,$15.7 B,$1.1 B,$17.4 B,$21.4 B
+2017,564,,Bank Central Asia,Indonesia,$4.8 B,$1.5 B,$50.2 B,$32.1 B
+2017,565,,Marubeni,Japan,$63.5 B,$429 M,$64.3 B,$10.7 B
+2017,566,,DTE Energy,United States,$10.7 B,$868 M,$32 B,$18.5 B
+2017,567,,Ko? Holding,Turkey,$23.5 B,$1.1 B,$25.1 B,$10.4 B
+2017,568,,Unum,United States,$11.1 B,$931 M,$63.6 B,$10.6 B
+2017,569,,Best Buy,United States,$39.4 B,$1.2 B,$14.2 B,$14.9 B
+2017,570,,Atlas Copco,Sweden,$12.1 B,$1.4 B,$13.2 B,$42.9 B
+2017,570,,MTR,Hong Kong,$5.8 B,$1.3 B,$33.2 B,$33.3 B
+2017,572,,Suncorp Group,Australia,$10.3 B,$777 M,$70.1 B,$12.6 B
+2017,573,,Emirates NBD,United Arab Emirates,$5.5 B,$1.8 B,$122 B,$12.5 B
+2017,573,,LG Chem,South Korea,$17.8 B,$1.1 B,$17 B,$17.7 B
+2017,575,,QBE Insurance Group,Australia,$11.6 B,$840 M,$42.3 B,$13.3 B
+2017,576,,Northern Trust,United States,$5.2 B,$1 B,$123.9 B,$19.8 B
+2017,577,,CME Group,United States,$3.6 B,$1.5 B,$69.4 B,$40.1 B
+2017,578,,Otsuka Holding,Japan,$11 B,$852 M,$22.7 B,$25.1 B
+2017,579,,Altice,Netherlands,$20.6 B,$-1.7 B,$89.3 B,$30.9 B
+2017,580,,American Tower,United States,$5.8 B,$956 M,$30.9 B,$52.2 B
+2017,581,,Sinopharm Group,China,$38.9 B,$701 M,$22.7 B,$12.7 B
+2017,582,,Falabella,Chile,$12.7 B,$901 M,$20.8 B,$21.3 B
+2017,583,,Bharat Petroleum,India,$28.8 B,$1.2 B,$14.4 B,$15.2 B
+2017,584,,Newell Brands,United States,$13.3 B,$527 M,$33.8 B,$22.3 B
+2017,585,,Akbank,Turkey,$7.9 B,$1.5 B,$91.6 B,$9.2 B
+2017,586,,Norilsk Nickel,Russia,$8.2 B,$2.5 B,$16.5 B,$24.9 B
+2017,587,,Atlantia,Italy,$6 B,$1.2 B,$41.5 B,$21.1 B
+2017,587,,Tesco,United Kingdom,$78.4 B,$232 M,$61.8 B,$19.2 B
+2017,589,,MGM Resorts,United States,$9.5 B,$1.1 B,$28.9 B,$16.1 B
+2017,590,,Dollar Tree,United States,$20.7 B,$896 M,$16 B,$18.3 B
+2017,591,,GFNorte,Mexico,$6.4 B,$1 B,$61.9 B,$16.2 B
+2017,592,,Broadcom,Singapore,$15.6 B,$-1.9 B,$49.6 B,$87.6 B
+2017,592,,Woori Bank,South Korea,$9.5 B,$909 M,$257.2 B,$8.2 B
+2017,594,,Guotai Junan Securities,China,$4.9 B,$1.5 B,$59.2 B,$20.3 B
+2017,595,,Constellation Brands,United States,$7.3 B,$1.5 B,$18.6 B,$33.4 B
+2017,596,,Royal Caribbean Cruises,United States,$8.5 B,$1.3 B,$22.3 B,$20.9 B
+2017,597,,Air Products & Chemicals,United States,$9.1 B,$1.5 B,$16 B,$29.4 B
+2017,598,,Infosys,India,$10.1 B,$2.1 B,$11.9 B,$34.9 B
+2017,599,,BYD,China,$15.3 B,$759 M,$20.9 B,$18.4 B
+2017,600,,KeyCorp,United States,$5.4 B,$791 M,$137.3 B,$18.9 B
+2017,601,,Johnson Controls International,Ireland,$22.1 B,$-457 M,$48.8 B,$38.5 B
+2017,602,,Asahi Kasei,Japan,$17 B,$1 B,$20.1 B,$13.1 B
+2017,603,,New World Development,Hong Kong,$7.1 B,$1.2 B,$54.2 B,$12.1 B
+2017,604,,Siam Cement,Thailand,$12 B,$1.6 B,$15.1 B,$19.1 B
+2017,605,,Toray Industries,Japan,$18.6 B,$836 M,$20.7 B,$14.2 B
+2017,606,,Grupo Mexico,Mexico,$8.2 B,$1.1 B,$22.8 B,$23.7 B
+2017,607,,E.ON,Germany,$59.8 B,$-9.3 B,$70.4 B,$16.9 B
+2017,608,,Dell Technologies,United States,$61.9 B,$-3.7 B,$118.2 B,$13.5 B
+2017,608,,Nokia,Finland,$26.1 B,$-749 M,$49.2 B,$30.3 B
+2017,610,,Eletrobrás,Brazil,$17.4 B,$983 M,$52.4 B,$7.2 B
+2017,610,,Legend Holding,China,$44.3 B,$732 M,$46.4 B,$7 B
+2017,612,,Dollar General,United States,$22 B,$1.3 B,$11.9 B,$19.1 B
+2017,613,,Banco de Sabadell,Spain,$7.8 B,$786 M,$224.1 B,$10 B
+2017,614,,Eversource Energy,United States,$7.6 B,$942 M,$32.1 B,$18.8 B
+2017,615,,China Taiping Insurance,Hong Kong,$21.6 B,$582 M,$64.4 B,$8.6 B
+2017,616,,Hyundai Heavy Industries,South Korea,$33.9 B,$452 M,$40.8 B,$11 B
+2017,616,,Sekisui House,Japan,$18.7 B,$1.1 B,$19.4 B,$11.3 B
+2017,616,,Siam Commercial Bank,Thailand,$4.9 B,$1.3 B,$81.3 B,$16.1 B
+2017,619,,China Eastern Airlines,China,$14.8 B,$694 M,$30.2 B,$12.9 B
+2017,620,,Cemex,Mexico,$13.7 B,$751 M,$29.1 B,$13.1 B
+2017,621,,Sumitomo Realty,Japan,$9 B,$948 M,$41.1 B,$12.3 B
+2017,622,,Murata Manufacturing,Japan,$10.4 B,$1.4 B,$13.9 B,$28.4 B
+2017,623,,WEC Energy Group,United States,$7.5 B,$940 M,$31.3 B,$19 B
+2017,624,,JXTG Holdings,Japan,$72 B,$-650 M,$58 B,$16.6 B
+2017,625,,China Fortune Land Development,China,$7.6 B,$977 M,$36 B,$15.5 B
+2017,626,,Evonik,Germany,$14.1 B,$827 M,$22.1 B,$14.9 B
+2017,627,,Henderson Land,Hong Kong,$3.3 B,$2.8 B,$45.9 B,$22.9 B
+2017,628,,China Southern Airlines,China,$17.2 B,$770 M,$28.8 B,$10.4 B
+2017,629,,ThyssenKrupp Group,Germany,$44 B,$362 M,$36.9 B,$13.5 B
+2017,630,,Whirlpool,United States,$20.7 B,$888 M,$19.2 B,$12.4 B
+2017,631,,Paccar,United States,$17 B,$522 M,$20.6 B,$23.6 B
+2017,632,,Public Bank,Malaysia,$4.5 B,$1.3 B,$84.7 B,$17.4 B
+2017,633,,Bank of Ningbo,China,$6.1 B,$1.2 B,$125.6 B,$10.3 B
+2017,634,,Valeo,France,$18.3 B,$1 B,$15.2 B,$15.4 B
+2017,635,,Asahi Group Holdings,Japan,$15.7 B,$821 M,$17 B,$17.8 B
+2017,635,,Unibail-Rodamco,France,$2.4 B,$2.7 B,$43 B,$23.6 B
+2017,637,,Delphi Automotive,United Kingdom,$16.7 B,$1.2 B,$12.3 B,$20.2 B
+2017,638,,Bunge,United States,$42.7 B,$743 M,$19.2 B,$10.6 B
+2017,639,,Capgemini,France,$13.9 B,$1 B,$17.4 B,$15.7 B
+2017,639,,Mylan,United Kingdom,$11.1 B,$480 M,$34.7 B,$21.2 B
+2017,641,,Sodexo,France,$22.5 B,$707 M,$15.8 B,$17.5 B
+2017,642,,Kasikornbank,Thailand,$5.4 B,$1.1 B,$79.5 B,$13.4 B
+2017,643,,TELUS,Canada,$9.6 B,$923 M,$20.7 B,$19.5 B
+2017,644,,Formosa Chemicals,Taiwan,$9.9 B,$1.4 B,$16.9 B,$17.9 B
+2017,645,,Kao Corp,Japan,$13.4 B,$1.2 B,$11.5 B,$27.3 B
+2017,645,,VMware,United States,$7.1 B,$1.2 B,$16.6 B,$37.8 B
+2017,647,,Kweichow Moutai,China,$5 B,$2.5 B,$15.8 B,$71.5 B
+2017,647,,SCA,Sweden,$13.7 B,$651 M,$18.2 B,$21.6 B
+2017,649,,Fidelity National Information,United States,$9.3 B,$568 M,$26 B,$26.3 B
+2017,650,,Aeon,Japan,$75.5 B,$57 M,$76.1 B,$12.4 B
+2017,651,,Centene,United States,$40.6 B,$558 M,$20.2 B,$12.2 B
+2017,652,,Great Wall Motor,China,$14.2 B,$1.6 B,$13.3 B,$15.2 B
+2017,653,,Telekom Indonesia,Indonesia,$8.7 B,$1.5 B,$13.3 B,$30.4 B
+2017,654,,Molson Coors Brewing,United States,$4.9 B,$2 B,$29.3 B,$20.5 B
+2017,655,,Naspers,South Africa,$5.9 B,$994 M,$18.2 B,$75.4 B
+2017,656,,Stanley Black & Decker,United States,$11.4 B,$965 M,$15.6 B,$20.2 B
+2017,657,,Nucor,United States,$16.2 B,$731 M,$15.2 B,$19.4 B
+2017,658,,Transneft,Russia,$12.7 B,$3.5 B,$45.6 B,$4.7 B
+2017,659,,JD.com,China,$39 B,$-576 M,$23.1 B,$45.7 B
+2017,660,,National Bank of Abu Dhabi,United Arab Emirates,$4 B,$1.4 B,$114.5 B,$16.1 B
+2017,661,,West Japan Railway,Japan,$13.3 B,$742 M,$24.5 B,$12.8 B
+2017,662,,DaVita,United States,$14.7 B,$880 M,$18.7 B,$13 B
+2017,663,,Commerzbank,Germany,$15.9 B,$295 M,$513.1 B,$11 B
+2017,663,,Fortescue Metals Group,Australia,$8.2 B,$1.9 B,$19 B,$14.3 B
+2017,665,,Nan Ya Plastics,Taiwan,$8.5 B,$1.5 B,$16.1 B,$18.5 B
+2017,666,,Solvay,Belgium,$13.4 B,$687 M,$25.5 B,$12.9 B
+2017,667,,Longfor Properties,China,$8.2 B,$1.4 B,$32.4 B,$10.1 B
+2017,668,,Rogers Communications,Canada,$10.3 B,$644 M,$21.1 B,$22.9 B
+2017,669,,Barrick Gold,Canada,$8.6 B,$649 M,$25.3 B,$22.3 B
+2017,670,,China Reinsurance Group,China,$13.7 B,$776 M,$29.7 B,$9.9 B
+2017,671,,CIMB Group Holdings,Malaysia,$6 B,$860 M,$108.3 B,$10.9 B
+2017,672,,Krung Thai Bank,Thailand,$4.8 B,$915 M,$75.1 B,$17 B
+2017,673,,Tatneft,Russia,$8.7 B,$1.6 B,$17.9 B,$14.6 B
+2017,674,,WH Group,Hong Kong,$21.5 B,$1 B,$13.6 B,$12.8 B
+2017,675,,Kellogg,United States,$13 B,$694 M,$15.1 B,$25.4 B
+2017,676,,Recruit Holdings,Japan,$16.1 B,$778 M,$11.2 B,$29 B
+2017,677,,Fast Retailing,Japan,$16.4 B,$639 M,$12.4 B,$31.8 B
+2017,678,,Estée Lauder,United States,$11.4 B,$1.1 B,$11.2 B,$30.8 B
+2017,679,,Allied Irish Banks,Ireland,$4 B,$1.5 B,$100.9 B,$14.6 B
+2017,680,,PKN Orlen,Poland,$20.2 B,$1.3 B,$13.3 B,$11.2 B
+2017,681,,BAIC Motor,China,$17.5 B,$955 M,$24.3 B,$8.3 B
+2017,682,,Mazda Motor,Japan,$29.5 B,$837 M,$22 B,$8.1 B
+2017,682,,Weyerhaeuser,United States,$6.8 B,$986 M,$19.2 B,$26.1 B
+2017,682,,Woolworths,Australia,$41.1 B,$344 M,$17.1 B,$25.7 B
+2017,685,,Dong Energy,Denmark,$8.5 B,$1.1 B,$19.4 B,$16.4 B
+2017,685,,Level 3 Communications,United States,$8.2 B,$666 M,$24.9 B,$21.1 B
+2017,687,,Franklin Resources,United States,$6.5 B,$1.7 B,$16.2 B,$23.6 B
+2017,688,,Nidec,Japan,$10.6 B,$944 M,$12.8 B,$28.1 B
+2017,689,,George Weston,Canada,$36.2 B,$415 M,$28.3 B,$10.9 B
+2017,690,,Lenovo Group,Hong Kong,$42.6 B,$608 M,$27.2 B,$7.7 B
+2017,691,,LG Display,South Korea,$22.8 B,$782 M,$20.6 B,$9.4 B
+2017,692,,Activision Blizzard,United States,$6.6 B,$911 M,$17.5 B,$37.3 B
+2017,693,,Grupo Aval,Colombia,$8.5 B,$701 M,$74.7 B,$9.2 B
+2017,694,,All Nippon Airways,Japan,$16.1 B,$841 M,$19.4 B,$10.4 B
+2017,694,,Reinsurance Group of America,United States,$11.5 B,$701 M,$53.1 B,$8.1 B
+2017,694,,Tesoro,United States,$24.6 B,$734 M,$20.4 B,$9.4 B
+2017,697,,Samsung C&T,South Korea,$24.2 B,$93 M,$36.8 B,$21.2 B
+2017,698,,RWE Group,Germany,$48.2 B,$-6.3 B,$85.4 B,$10.3 B
+2017,699,,Guosen Securities,China,$6 B,$1 B,$28.3 B,$17.6 B
+2017,700,,TransCanada,Canada,$9.6 B,$176 M,$65.7 B,$40.6 B
+2017,701,,Adobe Systems,United States,$6.1 B,$1.3 B,$13 B,$64.4 B
+2017,702,,Teliasonera,Sweden,$9.8 B,$544 M,$27.9 B,$17 B
+2017,703,,Dentsu,Japan,$7.7 B,$769 M,$27.1 B,$15.5 B
+2017,704,,Deutsche Boerse,Germany,$3.2 B,$799 M,$172.8 B,$17.9 B
+2017,705,,Daiwa Securities,Japan,$5.2 B,$948 M,$176 B,$9.9 B
+2017,705,,GF Securities,China,$4.1 B,$1.2 B,$51.8 B,$18.4 B
+2017,707,,Textron,United States,$13.8 B,$962 M,$15.4 B,$12.9 B
+2017,708,,Mitsubishi Heavy Industries,Japan,$36 B,$-7 M,$48.9 B,$13.4 B
+2017,709,,Republic Services,United States,$9.4 B,$613 M,$20.6 B,$21.3 B
+2017,710,,Ericsson,Sweden,$26 B,$200 M,$31.6 B,$21.4 B
+2017,711,,Isuzu Motors,Japan,$17.4 B,$957 M,$15.1 B,$10.8 B
+2017,712,,Anhui Conch Cement,China,$8.3 B,$1.3 B,$15.8 B,$16.9 B
+2017,713,,First Data,United States,$11.6 B,$420 M,$40.3 B,$14 B
+2017,713,,Vonovia,Germany,$3.9 B,$2.5 B,$34.3 B,$16.8 B
+2017,715,,Telenor,Norway,$15.5 B,$337 M,$24 B,$24.4 B
+2017,716,,Halliburton,United States,$15.9 B,$-5.8 B,$27 B,$43.1 B
+2017,717,,PPG,United States,$15.1 B,$456 M,$15.8 B,$27.3 B
+2017,718,,CGN Power,China,$5.1 B,$1.1 B,$41.4 B,$14.2 B
+2017,719,,Bankia,Spain,$3.7 B,$962 M,$200.6 B,$13.2 B
+2017,720,,Chunghwa Telecom,Taiwan,$7.1 B,$1.2 B,$13.9 B,$26.5 B
+2017,721,,Veolia Environnement,France,$27 B,$348 M,$40 B,$10.2 B
+2017,722,,Occidental Petroleum,United States,$10.1 B,$-574 M,$43.1 B,$48.2 B
+2017,723,,J Sainsbury,United Kingdom,$33.7 B,$690 M,$25.8 B,$7.1 B
+2017,724,,Bancolombia,Colombia,$6.7 B,$939 M,$65.4 B,$8.9 B
+2017,724,,Sherwin-Williams,United States,$11.9 B,$1.1 B,$6.8 B,$29.2 B
+2017,726,,NVIDIA,United States,$6.9 B,$1.6 B,$9.8 B,$59.1 B
+2017,727,,HAL Trust,Netherlands,$8.9 B,$964 M,$17.5 B,$15.1 B
+2017,728,,VF,United States,$12.1 B,$1.2 B,$9.7 B,$22.5 B
+2017,729,,Yum Brands,United States,$11 B,$1.6 B,$5.5 B,$22.7 B
+2017,730,,Qingdao Haier,China,$17 B,$718 M,$18.1 B,$10.6 B
+2017,731,,Prologis,United States,$2.5 B,$1.2 B,$30.3 B,$28.4 B
+2017,732,,Goodyear,United States,$15.2 B,$1.3 B,$16.5 B,$8.9 B
+2017,733,,Liberty Interactive,United States,$10.6 B,$1.2 B,$20.9 B,$9.4 B
+2017,734,,Coca-Cola European Partners,United Kingdom,$10.1 B,$614 M,$19.6 B,$17.9 B
+2017,735,,Ross Stores,United States,$12.9 B,$1.1 B,$5.5 B,$24.7 B
+2017,736,,CNH Industrial,United Kingdom,$25.3 B,$-373 M,$47.8 B,$13.5 B
+2017,737,,Macy's,United States,$25.8 B,$619 M,$21.2 B,$8.9 B
+2017,738,,XL Group,Bermuda,$10.4 B,$441 M,$58.4 B,$10.6 B
+2017,739,,Parker-Hannifin,United States,$11.2 B,$880 M,$11.7 B,$21.5 B
+2017,739,,Sabanci Holding,Turkey,$11.9 B,$880 M,$87.9 B,$5.4 B
+2017,741,,Annaly Capital Management,United States,$2 B,$1.4 B,$87.9 B,$11.5 B
+2017,742,,Industrial Bank of Korea,South Korea,$7.8 B,$998 M,$212.7 B,$6 B
+2017,743,,Hanwha,South Korea,$40.6 B,$424 M,$128.2 B,$2.2 B
+2017,744,,Essilor International,France,$7.9 B,$899 M,$13.9 B,$25.7 B
+2017,744,,Kotak Mahindra Bank,India,$4.8 B,$683 M,$37.4 B,$25.1 B
+2017,746,,Kyushu Electric Power,Japan,$16.8 B,$977 M,$38.1 B,$5.1 B
+2017,746,,Scor,France,$14.6 B,$667 M,$44.2 B,$6.8 B
+2017,748,,Chongqing Changan Auto,China,$10.6 B,$1.7 B,$15.1 B,$10.2 B
+2017,749,,Husky Energy,Canada,$9.8 B,$696 M,$24.9 B,$11.4 B
+2017,750,,China Energy Engineering,China,$33.4 B,$645 M,$42.1 B,$5.6 B
+2017,751,,Abertis,Spain,$5.3 B,$880 M,$32.9 B,$16 B
+2017,752,,Huatai Securities,China,$3.7 B,$944 M,$57.8 B,$16.9 B
+2017,753,,Luxottica Group,Italy,$10.1 B,$941 M,$10.9 B,$25.9 B
+2017,753,,Teck Resources,Canada,$7 B,$785 M,$26.6 B,$13.6 B
+2017,755,,Lotte Chemical,South Korea,$11.4 B,$1.6 B,$13.1 B,$11.1 B
+2017,756,,Tohoku Electric Power,Japan,$18.2 B,$658 M,$34.9 B,$6.8 B
+2017,757,,Western Digital,United States,$15.9 B,$-408 M,$29 B,$24.5 B
+2017,758,,National Bank of Kuwait,Kuwait,$3.2 B,$931 M,$79.2 B,$14 B
+2017,758,,Rolls-Royce Holdings,United Kingdom,$20.2 B,$-5.4 B,$31.6 B,$18.2 B
+2017,760,,Japan Airlines,Japan,$11.9 B,$1.3 B,$13.9 B,$10.6 B
+2017,761,,Credicorp,Peru,$4.5 B,$1 B,$46.7 B,$12.7 B
+2017,762,,UPM-Kymmene,Finland,$10.9 B,$972 M,$14.7 B,$12.7 B
+2017,763,,Guangdong Wens Foodstuffs Group,China,$8.9 B,$1.9 B,$6 B,$20.9 B
+2017,764,,Toyota Tsusho,Japan,$71 B,$-140 M,$34.8 B,$10.6 B
+2017,765,,Wipro,India,$8.1 B,$1.3 B,$11.8 B,$19.4 B
+2017,766,,Hilton,United States,$11.7 B,$348 M,$26.2 B,$18.7 B
+2017,767,,Daqin Railway,China,$6.7 B,$1 B,$17.9 B,$16.6 B
+2017,768,,Lennar,United States,$11.3 B,$891 M,$15.4 B,$11.9 B
+2017,769,,Ferrovial,Spain,$11.9 B,$416 M,$24.7 B,$14.9 B
+2017,770,,Anadarko Petroleum,United States,$8.5 B,$-3.1 B,$45.6 B,$34.9 B
+2017,770,,Scentre Group,Australia,$1.9 B,$2.2 B,$24.6 B,$17.6 B
+2017,772,,AutoZone,United States,$10.8 B,$1.3 B,$8.9 B,$19.9 B
+2017,773,,Agrium,Canada,$13.6 B,$578 M,$17 B,$13 B
+2017,774,,Vestas Wind Systems,Denmark,$11.3 B,$1.1 B,$10.5 B,$17.5 B
+2017,775,,China Resources Power,Hong Kong,$8.5 B,$993 M,$25.8 B,$8.8 B
+2017,775,,Freeport-mcmoran,United States,$14.9 B,$-4 B,$37.3 B,$18.2 B
+2017,777,,Samba Financial Group,Saudi Arabia,$2.4 B,$1.3 B,$61.7 B,$11.3 B
+2017,778,,ROSSETI,Russia,$13.6 B,$1.1 B,$34.2 B,$3.3 B
+2017,779,,Schaeffler,Germany,$14.8 B,$950 M,$12.5 B,$11.1 B
+2017,780,,GD Power Development,China,$8.3 B,$638 M,$38.4 B,$9.5 B
+2017,781,,Adecco,Switzerland,$25.1 B,$799 M,$10.7 B,$11.8 B
+2017,781,,Discovery Communications,United States,$6.5 B,$1.2 B,$15.8 B,$16.8 B
+2017,783,,Canadian Natural Resources,Canada,$7.9 B,$-154 M,$44.9 B,$37.1 B
+2017,784,,Ryanair Holdings,Ireland,$7.3 B,$1.5 B,$11.5 B,$19.6 B
+2017,785,,Huntington Bancshares,United States,$3.8 B,$712 M,$99.7 B,$14.3 B
+2017,786,,Hong Kong Exchanges,Hong Kong,$1.3 B,$743 M,$31.9 B,$30.9 B
+2017,787,,Carlsberg,Denmark,$9.3 B,$667 M,$18.3 B,$14.1 B
+2017,788,,Porsche Automobil Holding,Germany,$1 M,$1.5 B,$30 B,$16.1 B
+2017,789,,Kone,Finland,$9.7 B,$1.1 B,$8.4 B,$23.7 B
+2017,790,,CarMax,United States,$15.9 B,$627 M,$16.3 B,$10.5 B
+2017,791,,Itaúsa,Brazil,$1.3 B,$2.4 B,$18.1 B,$23 B
+2017,791,,Sime Darby,Malaysia,$10.7 B,$697 M,$15.4 B,$14.3 B
+2017,793,,Wolseley,Switzerland,$21.5 B,$624 M,$10.7 B,$15.5 B
+2017,794,,Air France-KLM,France,$27.5 B,$876 M,$24.2 B,$2.2 B
+2017,795,,Willis Towers Watson,United Kingdom,$7.9 B,$420 M,$30.3 B,$17.4 B
+2017,796,,Welltower,United States,$4.3 B,$714 M,$28.9 B,$26.2 B
+2017,797,,ITC,India,$6 B,$1.5 B,$7.8 B,$51.6 B
+2017,797,,KT Corp,South Korea,$19.6 B,$613 M,$25.3 B,$7.1 B
+2017,799,,OMV Group,Austria,$21.3 B,$-446 M,$33.9 B,$13.6 B
+2017,800,,Sumitomo Chemical,Japan,$17.6 B,$480 M,$24.3 B,$8.8 B
+2017,801,,Emaar Properties,United Arab Emirates,$4.3 B,$1.4 B,$26.2 B,$14.6 B
+2017,802,,VEON,Netherlands,$8.9 B,$2.5 B,$21 B,$6.8 B
+2017,803,,Eiffage,France,$15.8 B,$525 M,$31.1 B,$7.3 B
+2017,804,,Bangkok Bank,Thailand,$4.3 B,$902 M,$82.2 B,$10.1 B
+2017,805,,Metro Group,Germany,$64.5 B,$222 M,$30.8 B,$10.1 B
+2017,806,,CSL,Australia,$6.4 B,$1.3 B,$8.1 B,$43.9 B
+2017,807,,Hindustan Petroleum,India,$28.5 B,$752 M,$13.7 B,$8.5 B
+2017,808,,DR Horton,United States,$12.6 B,$935 M,$11.7 B,$12.4 B
+2017,809,,Leonardo,Italy,$13.3 B,$559 M,$26.8 B,$8.3 B
+2017,810,,Shenwan Hongyuan Group,China,$3.2 B,$814 M,$39.6 B,$18.3 B
+2017,811,,LG Electronics,South Korea,$47.7 B,$66 M,$31.3 B,$10.2 B
+2017,812,,Kuehne + Nagel,Switzerland,$16.8 B,$729 M,$6.2 B,$16.9 B
+2017,813,,FirstEnergy,United States,$14.4 B,$-6.2 B,$43.1 B,$13.9 B
+2017,813,,Magnit,Russia,$16 B,$809 M,$7.5 B,$15.6 B
+2017,815,,S&P Global,United States,$5.7 B,$2.1 B,$8.7 B,$33.6 B
+2017,816,,Chongqing Rural Bank,Hong Kong,$5.3 B,$1.2 B,$115.6 B,$6.5 B
+2017,817,,Toshiba,Japan,$47.2 B,$-3.8 B,$47.7 B,$8.3 B
+2017,818,,General Growth Properties,United States,$2.3 B,$1.3 B,$22.7 B,$20.4 B
+2017,819,,JFE Holdings,Japan,$29.4 B,$273 M,$36.1 B,$9.4 B
+2017,820,,Netease,China,$5.7 B,$1.7 B,$8.4 B,$36.8 B
+2017,821,,LabCorp,United States,$9.6 B,$722 M,$14.2 B,$14.7 B
+2017,822,,ATOS,France,$13 B,$640 M,$14.1 B,$12.8 B
+2017,823,,Fanuc,Japan,$4.8 B,$1.2 B,$13 B,$39.6 B
+2017,823,,SM Investments,Philippines,$7.3 B,$650 M,$17.3 B,$17.8 B
+2017,825,,Hyundai Steel,South Korea,$14.4 B,$706 M,$26.8 B,$6.7 B
+2017,826,,Eastman Chemical,United States,$8.9 B,$866 M,$15.5 B,$11.7 B
+2017,827,,O'Reilly Automotive,United States,$8.6 B,$1 B,$7.4 B,$23.2 B
+2017,828,,L Brands,United States,$12.6 B,$1.2 B,$8.2 B,$13.5 B
+2017,829,,First Republic Bank,United States,$2.4 B,$665 M,$73.4 B,$14.2 B
+2017,830,,S-Oil,South Korea,$14.1 B,$1 B,$11.6 B,$9.9 B
+2017,831,,EOG Resources,United States,$7.5 B,$-1.1 B,$29.5 B,$56.2 B
+2017,832,,Secom,Japan,$8.5 B,$748 M,$13.6 B,$16.7 B
+2017,833,,LG Corp,South Korea,$8.6 B,$926 M,$16.1 B,$10.7 B
+2017,834,,Abu Dhabi Commercial Bank,United Arab Emirates,$3.1 B,$1.1 B,$70.3 B,$9.8 B
+2017,835,,Hermès International,France,$5.8 B,$1.2 B,$5.8 B,$50.3 B
+2017,836,,Link REIT,Hong Kong,$1.2 B,$1.8 B,$21.8 B,$16 B
+2017,836,,TD Ameritrade Holding,United States,$3.4 B,$846 M,$28.8 B,$20.3 B
+2017,838,,Sanlam,South Africa,$5.8 B,$655 M,$48.8 B,$9.5 B
+2017,839,,Daiichi Sankyo,Japan,$8.9 B,$550 M,$17 B,$15.5 B
+2017,839,,Norsk Hydro,Norway,$9.8 B,$761 M,$15.2 B,$11.9 B
+2017,839,,Williams,United States,$7.5 B,$-424 M,$47.9 B,$25.1 B
+2017,842,,Guangzhou Automobile Group,China,$7.2 B,$953 M,$11.8 B,$19.2 B
+2017,843,,American Financial Group,United States,$6.4 B,$649 M,$55.7 B,$8.2 B
+2017,844,,NXP Semiconductors,Netherlands,$9.5 B,$200 M,$24.9 B,$36.2 B
+2017,845,,China National Nuclear Power,China,$4.2 B,$627 M,$41.4 B,$17 B
+2017,846,,Athene Holding,Bermuda,$4.1 B,$805 M,$86.7 B,$9.8 B
+2017,847,,Woodside Petroleum,Australia,$4.1 B,$866 M,$24.8 B,$20.9 B
+2017,848,,Boston Scientific,United States,$8.4 B,$347 M,$18.1 B,$33.7 B
+2017,849,,Raiffeisen Bank International,Austria,$6.8 B,$513 M,$118 B,$7.3 B
+2017,850,,AMP,Australia,$9.7 B,$-256 M,$101.4 B,$11.4 B
+2017,851,,Formosa Plastics,Taiwan,$5.6 B,$1.2 B,$13.5 B,$19 B
+2017,852,,China Steel,Taiwan,$9.1 B,$497 M,$21 B,$12.8 B
+2017,853,,Bank of Ireland,Ireland,$4.3 B,$797 M,$129.9 B,$8.4 B
+2017,854,,China Gezhouba,China,$14.9 B,$511 M,$21.8 B,$8.5 B
+2017,855,,Baloise Group,Switzerland,$9.1 B,$543 M,$78.9 B,$6.3 B
+2017,855,,Rakuten,Japan,$7.2 B,$350 M,$39.5 B,$15.2 B
+2017,857,,Ameren,United States,$6.1 B,$653 M,$24.7 B,$13.2 B
+2017,857,,Symantec,United States,$3.8 B,$2 B,$16.8 B,$19.1 B
+2017,859,,Yara International,Norway,$11.3 B,$757 M,$14 B,$10.7 B
+2017,860,,Assa Abloy,Sweden,$8.4 B,$777 M,$10.5 B,$22.6 B
+2017,861,,Shengjing Bank,China,$5.9 B,$1 B,$130.3 B,$5.2 B
+2017,862,,Aena,Spain,$4.1 B,$1.3 B,$16.4 B,$24.3 B
+2017,863,,Mega Financial Holding,Taiwan,$2.5 B,$696 M,$103 B,$10.6 B
+2017,864,,Shanghai International Port,China,$4.7 B,$1 B,$16.8 B,$20.2 B
+2017,865,,Tokyo Gas,Japan,$15 B,$465 M,$18.2 B,$10.1 B
+2017,866,,Mohawk Industries,United States,$9 B,$930 M,$10.2 B,$17 B
+2017,866,,Ooredoo Telecom,Qatar,$8.9 B,$602 M,$24.9 B,$9.1 B
+2017,868,,China Galaxy Securities,China,$2.7 B,$774 M,$35.4 B,$16.1 B
+2017,869,,Unipol Gruppo,Italy,$18.4 B,$365 M,$96 B,$2.9 B
+2017,870,,Quanta Computer,Taiwan,$27.7 B,$469 M,$18.2 B,$7.9 B
+2017,871,,Lam Research,United States,$6.4 B,$999 M,$11.5 B,$21.1 B
+2017,872,,China Merchants Securities,China,$2.8 B,$812 M,$35 B,$15.1 B
+2017,873,,Bank of Jinzhou,China,$4.1 B,$1.2 B,$77.6 B,$7.9 B
+2017,874,,Entergy,United States,$10.8 B,$-564 M,$45.9 B,$13.7 B
+2017,875,,Canadian Pacific Railway,Canada,$4.7 B,$1.2 B,$14.5 B,$22 B
+2017,876,,JM Smucker,United States,$7.4 B,$670 M,$15.8 B,$15.1 B
+2017,877,,NEC,Japan,$24.5 B,$603 M,$21.3 B,$6.2 B
+2017,878,,Kingfisher,United Kingdom,$15 B,$813 M,$12.9 B,$9 B
+2017,879,,Lear,United States,$18.6 B,$975 M,$9.9 B,$9.2 B
+2017,879,,Taisei,Japan,$13.4 B,$915 M,$13.7 B,$8.4 B
+2017,881,,Kajima,Japan,$16.1 B,$875 M,$15.7 B,$6.9 B
+2017,882,,Sandvik,Sweden,$9.5 B,$643 M,$11.5 B,$18.5 B
+2017,883,,DP World,United Arab Emirates,$4.2 B,$1 B,$20.8 B,$18 B
+2017,884,,Pegatron,Taiwan,$35.9 B,$600 M,$13.8 B,$7.5 B
+2017,884,,Power Grid of India,India,$3.2 B,$919 M,$27.8 B,$15.9 B
+2017,886,,Obayashi,Japan,$16.7 B,$767 M,$17.3 B,$6.7 B
+2017,887,,Zimmer Biomet,United States,$7.7 B,$300 M,$26.7 B,$24.1 B
+2017,888,,Devon Energy,United States,$10.5 B,$-3.3 B,$25.9 B,$22.3 B
+2017,889,,Hormel Foods,United States,$9.5 B,$890 M,$6.4 B,$18.1 B
+2017,889,,Julius Baer Group,Switzerland,$3.3 B,$629 M,$94.7 B,$11.1 B
+2017,891,,S.f. Holding,China,$8.6 B,$629 M,$6.4 B,$34.4 B
+2017,892,,Schindler Holding,Switzerland,$9.8 B,$776 M,$8.2 B,$19.8 B
+2017,893,,Avalonbay Communities,United States,$2 B,$1 B,$17.9 B,$25.4 B
+2017,894,,Cencosud,Chile,$15.3 B,$573 M,$15.6 B,$9 B
+2017,895,,JBS,Brazil,$48.9 B,$108 M,$31.6 B,$8.2 B
+2017,896,,Uniper,Germany,$74.4 B,$-3.6 B,$63.2 B,$6.1 B
+2017,897,,Suning Appliance,China,$22.3 B,$106 M,$19.7 B,$14.8 B
+2017,898,,Yahoo!,United States,$5.2 B,$-214 M,$48.1 B,$44.4 B
+2017,899,,L3 Technologies,United States,$10.5 B,$710 M,$11.9 B,$12.9 B
+2017,900,,CEZ Group,Czech Republic,$8.3 B,$584 M,$24.6 B,$9.2 B
+2017,900,,PKO Bank Polski,Poland,$3.8 B,$729 M,$68.4 B,$10.5 B
+2017,902,,Alliance Data Systems,United States,$7.1 B,$432 M,$25.5 B,$14 B
+2017,903,,AerCap Holdings,Ireland,$5 B,$1 B,$41.6 B,$7.6 B
+2017,903,,Genuine Parts,United States,$15.3 B,$687 M,$8.9 B,$13.3 B
+2017,905,,Fortis (Canada),Canada,$5.2 B,$498 M,$36.7 B,$13.6 B
+2017,906,,Infineon Technologies,Germany,$7.3 B,$832 M,$10.1 B,$22.5 B
+2017,906,,Klepierre,France,$1.5 B,$1.3 B,$25.7 B,$12.4 B
+2017,908,,Randstad Holding,Netherlands,$22.9 B,$650 M,$10 B,$10.3 B
+2017,909,,Skanska,Sweden,$17 B,$668 M,$12 B,$9.3 B
+2017,910,,Raymond James Financial,United States,$5.7 B,$568 M,$31.7 B,$10.9 B
+2017,911,,Gemdale,China,$7.9 B,$948 M,$22.1 B,$7.3 B
+2017,912,,Invesco,United States,$4.8 B,$829 M,$25.7 B,$12.3 B
+2017,913,,DSM,Netherlands,$8.8 B,$718 M,$13.8 B,$12.1 B
+2017,914,,Ageas,Belgium,$12.9 B,$30 M,$107.7 B,$8 B
+2017,915,,Zhejiang Zheneng Electric Power,China,$6 B,$1.1 B,$15.8 B,$11.4 B
+2017,916,,Mahindra & Mahindra,India,$10.7 B,$491 M,$16.4 B,$11.8 B
+2017,917,,Swatch Group,Switzerland,$7.7 B,$583 M,$12.9 B,$19.3 B
+2017,918,,Huishang Bank,China,$5.3 B,$1 B,$108.6 B,$5.3 B
+2017,919,,Vornado Realty,United States,$2.6 B,$907 M,$20.8 B,$19.2 B
+2017,920,,Everest Re Group,Bermuda,$5.8 B,$986 M,$21.3 B,$9.5 B
+2017,921,,Bank Hapoalim,Israel,$4.4 B,$685 M,$116.4 B,$7.9 B
+2017,922,,Shimao Property Holdings,Hong Kong,$9.1 B,$781 M,$37.7 B,$5.6 B
+2017,923,,Saudi British Bank,Saudi Arabia,$2.2 B,$1 B,$49.6 B,$8.8 B
+2017,924,,Bank Negara Indonesia,Indonesia,$4.4 B,$853 M,$44.8 B,$9.1 B
+2017,925,,Inner Mongolia Yili,China,$9.1 B,$852 M,$5.7 B,$16.4 B
+2017,926,,Asr Nederland,Netherlands,$7.5 B,$729 M,$59.4 B,$4.3 B
+2017,927,,Beiersdorf,Germany,$7.5 B,$784 M,$8 B,$24.1 B
+2017,927,,Sharp,Japan,$18.5 B,$-1.7 B,$15.2 B,$20.5 B
+2017,929,,Salesforce.com,United States,$8.4 B,$180 M,$17.6 B,$59.7 B
+2017,930,,Aluminum Corp of China,China,$21.4 B,$59 M,$27.4 B,$9.9 B
+2017,930,,Mercantil Servicios,Venezuela,$370 M,$2 B,$148.7 B,$2.7 B
+2017,932,,Halkbank,Turkey,$7 B,$731 M,$71 B,$3.5 B
+2017,933,,Guangzhou R&F,China,$8.1 B,$1 B,$32.6 B,$5.4 B
+2017,933,,Tesla,United States,$7 B,$-675 M,$22.7 B,$49.3 B
+2017,935,,Tokyu,Japan,$10.3 B,$573 M,$18.2 B,$9 B
+2017,936,,Neste Oil,Finland,$12.9 B,$1 B,$7.9 B,$10 B
+2017,937,,CMS Energy,United States,$6.4 B,$551 M,$21.6 B,$12.6 B
+2017,938,,Conagra Brands,United States,$9.6 B,$608 M,$10.5 B,$17.2 B
+2017,939,,China Shipbuilding Industry,China,$8.2 B,$-204 M,$28.6 B,$20.4 B
+2017,940,,Jeronimo Martins,Portugal,$16.2 B,$656 M,$6 B,$11.2 B
+2017,941,,Fairfax Financial,Canada,$10.3 B,$-526 M,$43.4 B,$11.2 B
+2017,942,,Westfield,Australia,$1.1 B,$1.4 B,$18.8 B,$14 B
+2017,943,,Keyence,Japan,$3.7 B,$1.3 B,$10.4 B,$48.3 B
+2017,944,,Banque Saudi Fransi,Saudi Arabia,$2.2 B,$936 M,$54.2 B,$8.4 B
+2017,945,,Towngas,Hong Kong,$3.7 B,$946 M,$15.1 B,$26 B
+2017,946,,Galaxy Entertainment,Hong Kong,$6.8 B,$810 M,$8.5 B,$23.8 B
+2017,947,,WR Berkley,United States,$7.7 B,$602 M,$23.4 B,$8.6 B
+2017,948,,CapitaLand,Singapore,$3.9 B,$862 M,$31.7 B,$11.4 B
+2017,949,,Shimizu,Japan,$14.5 B,$767 M,$14 B,$7.2 B
+2017,950,,Snam,Italy,$2.7 B,$952 M,$21.2 B,$15 B
+2017,951,,VakifBank,Turkey,$7 B,$688 M,$69 B,$3.7 B
+2017,952,,Baker Hughes,United States,$9.8 B,$-2.7 B,$19 B,$26.1 B
+2017,952,,Onex,Canada,$22.5 B,$-653 M,$42.9 B,$7.3 B
+2017,954,,Publicis Groupe,France,$10.6 B,$-583 M,$26.3 B,$15.4 B
+2017,955,,St. James's Place,United Kingdom,$15.3 B,$151 M,$92.6 B,$6.7 B
+2017,956,,Hershey,United States,$7.4 B,$720 M,$5.5 B,$22.7 B
+2017,957,,CenterPoint Energy,United States,$7.5 B,$432 M,$22.3 B,$12 B
+2017,958,,HCL Technologies,India,$6.3 B,$1.1 B,$6.4 B,$18.7 B
+2017,959,,Riyad Bank,Saudi Arabia,$2.6 B,$891 M,$58 B,$8.3 B
+2017,960,,TUI,Germany,$18.8 B,$501 M,$14.7 B,$7.9 B
+2017,961,,BOE Technology Group,China,$8.8 B,$-36 M,$26.3 B,$18.4 B
+2017,961,,UC Rusal,Russia,$8 B,$1.2 B,$14.6 B,$7.9 B
+2017,963,,Idemitsu Kosan,Japan,$27.9 B,$475 M,$22.5 B,$5.6 B
+2017,964,,WestRock,United States,$14.4 B,$138 M,$22.9 B,$12.8 B
+2017,965,,Deutsche Wohnen,Germany,$1.3 B,$1.8 B,$17.7 B,$12 B
+2017,965,,Public Storage,United States,$2.6 B,$1.4 B,$10.1 B,$38.8 B
+2017,967,,Mebuki Financial Group,Japan,$1.4 B,$1.5 B,$137.5 B,$4.5 B
+2017,968,,Comerica,United States,$2.9 B,$473 M,$73.2 B,$12 B
+2017,969,,Voya Financial,United States,$10.7 B,$-428 M,$216.9 B,$7 B
+2017,970,,Arch Capital Group,Bermuda,$4.3 B,$693 M,$29.4 B,$11.5 B
+2017,971,,Daito Trust Construction,Japan,$13.5 B,$749 M,$6 B,$10.4 B
+2017,972,,Fiserv,United States,$5.5 B,$930 M,$9.7 B,$24.9 B
+2017,973,,Ventas,United States,$3.4 B,$551 M,$23.2 B,$23 B
+2017,974,,CBRE Group,United States,$13.2 B,$572 M,$10.8 B,$11.1 B
+2017,974,,Huadian Power International,China,$9.4 B,$511 M,$30.2 B,$6.8 B
+2017,976,,Markel,United States,$5.6 B,$440 M,$25.9 B,$13.6 B
+2017,977,,Fidelity National Financial,United States,$8.2 B,$650 M,$14.6 B,$10.4 B
+2017,978,,Inpex,Japan,$7.6 B,$-25 M,$37.5 B,$14.9 B
+2017,978,,Leucadia National,United States,$10.9 B,$127 M,$45.3 B,$9.5 B
+2017,980,,China Coal Energy,China,$8.8 B,$302 M,$34.8 B,$10.3 B
+2017,981,,Ultrapar Participacoes,Brazil,$22.2 B,$448 M,$7.4 B,$12.5 B
+2017,982,,Bank Of Hangzhou,China,$4.1 B,$589 M,$85.3 B,$8.6 B
+2017,983,,Electronic Arts,United States,$4.6 B,$1.3 B,$7.7 B,$27.4 B
+2017,984,,Fortive,United States,$6.2 B,$872 M,$8.2 B,$20.9 B
+2017,985,,CP All,Thailand,$12.3 B,$473 M,$9.8 B,$16 B
+2017,986,,Amphenol,United States,$6.3 B,$823 M,$8.5 B,$21.5 B
+2017,986,,Regeneron Pharmaceuticals,United States,$4.9 B,$880 M,$7 B,$40.4 B
+2017,988,,Mediobanca,Italy,$2.6 B,$776 M,$77.5 B,$7.6 B
+2017,989,,Asahi Glass,Japan,$11.8 B,$437 M,$17 B,$9.2 B
+2017,990,,Universal Health,United States,$9.8 B,$702 M,$10.3 B,$11.9 B
+2017,991,,Mediatek,Taiwan,$8.5 B,$735 M,$11.5 B,$11.1 B
+2017,992,,Singapore Airlines,Singapore,$10.8 B,$524 M,$17 B,$8.4 B
+2017,993,,Banco BTG Pactual Participations,Bermuda,$5.3 B,$922 M,$59.4 B,$5.7 B
+2017,993,,Suntory Beverage & Food,Japan,$13 B,$424 M,$11.7 B,$13.3 B
+2017,995,,Shanghai Pharmaceuticals,China,$18.1 B,$481 M,$11.9 B,$9.1 B
+2017,996,,Netflix,United States,$8.8 B,$187 M,$13.6 B,$61.6 B
+2017,997,,CGI Group,Canada,$8.1 B,$835 M,$8.6 B,$14.1 B
+2017,998,,Gap,United States,$15.5 B,$676 M,$7.6 B,$9.6 B
+2017,999,,Hankyu Hanshin Holdings,Japan,$6.9 B,$719 M,$19.8 B,$8.2 B
+2017,1000,,Dr Pepper Snapple Group,United States,$6.4 B,$847 M,$9.8 B,$17.7 B
+2017,1001,,Cincinnati Financial,United States,$5.5 B,$591 M,$20.8 B,$11.6 B
+2017,1002,,Dongbu Insurance,South Korea,$12.4 B,$451 M,$36.5 B,$4.1 B
+2017,1002,,Power Assets Holdings,Hong Kong,$166 M,$827 M,$16.7 B,$18.9 B
+2017,1004,,Bank of East Asia,Hong Kong,$3.3 B,$416 M,$98.8 B,$11.2 B
+2017,1005,,Harris,United States,$7.3 B,$668 M,$11.6 B,$13.7 B
+2017,1006,,YPF,Argentina,$14.2 B,$-1.9 B,$26.6 B,$9.9 B
+2017,1007,,Finatis,France,$40.7 B,$-2.5 B,$46 B,$292 M
+2017,1007,,Nielsen,United States,$6.3 B,$502 M,$15.7 B,$14.9 B
+2017,1009,,Novolipetsk Steel,Russia,$7.6 B,$907 M,$10.2 B,$11.6 B
+2017,1010,,Kuwait Finance House,Kuwait,$3.1 B,$547 M,$54 B,$10.1 B
+2017,1011,,China Grand Automotive Services,China,$18 B,$421 M,$16.3 B,$7.4 B
+2017,1012,,EnBW-Energie Baden,Germany,$21.4 B,$-2 B,$43.1 B,$6.5 B
+2017,1013,,Dubai Islamic Bank,United Arab Emirates,$2.3 B,$843 M,$47.6 B,$7.8 B
+2017,1014,,Hikvision,China,$4.5 B,$1.1 B,$5.5 B,$28.9 B
+2017,1015,,Navient,United States,$5 B,$682 M,$121.1 B,$4.3 B
+2017,1016,,South32,Australia,$6 B,$747 M,$14.1 B,$11.6 B
+2017,1017,,Tokyo Electron,Japan,$6.5 B,$797 M,$7.6 B,$18.1 B
+2017,1018,,BDO Unibank,Philippines,$2.6 B,$549 M,$46.8 B,$10.2 B
+2017,1019,,Kohl's,United States,$18.7 B,$555 M,$13.6 B,$6.8 B
+2017,1020,,MTN Group,South Africa,$10.1 B,$-178 M,$19.6 B,$16.6 B
+2017,1021,,WW Grainger,United States,$10.1 B,$601 M,$5.7 B,$13.5 B
+2017,1022,,Severstal,Russia,$5.9 B,$1.6 B,$6.7 B,$12.3 B
+2017,1023,,Sun Pharma Industries,India,$4.6 B,$1.1 B,$9.1 B,$24.9 B
+2017,1024,,Weichai Power,China,$13.9 B,$366 M,$24.1 B,$7 B
+2017,1025,,Arrow Electronics,United States,$23.8 B,$523 M,$14.2 B,$6.3 B
+2017,1026,,Grupa PZU,Poland,$6.4 B,$492 M,$29.8 B,$8.1 B
+2017,1026,,PTT Global Chemical,Thailand,$9.9 B,$726 M,$11 B,$9.5 B
+2017,1028,,Bank Leumi,Israel,$3.9 B,$727 M,$114 B,$6.7 B
+2017,1029,,China Resources Pharmaceutical Group,Hong Kong,$20.2 B,$364 M,$17.3 B,$7.3 B
+2017,1030,,Geely Automobile Holdings,Hong Kong,$8 B,$767 M,$9.7 B,$12.7 B
+2017,1031,,Insurance Australia Group,Australia,$6.7 B,$450 M,$21.2 B,$10.6 B
+2017,1032,,E-Trade Financial,United States,$2 B,$552 M,$49.5 B,$9.6 B
+2017,1033,,Nintendo,Japan,$3.6 B,$726 M,$12.5 B,$32.8 B
+2017,1033,,Stora Enso,Finland,$10.8 B,$512 M,$13 B,$9.5 B
+2017,1035,,BBMG,China,$6.9 B,$407 M,$30 B,$8.9 B
+2017,1036,,Seagate Technology,Ireland,$10.9 B,$513 M,$8.6 B,$13.8 B
+2017,1036,,TDK,Japan,$10.7 B,$603 M,$14.4 B,$7.7 B
+2017,1036,,Uni-President,Taiwan,$12.8 B,$450 M,$11.7 B,$10.4 B
+2017,1039,,Rockwell Automation,United States,$5.9 B,$758 M,$7.1 B,$20 B
+2017,1040,,Henry Schein,United States,$11.6 B,$507 M,$6.7 B,$13.3 B
+2017,1041,,Meiji Holdings,Japan,$11.4 B,$531 M,$7.6 B,$12.7 B
+2017,1042,,Intuit,United States,$4.9 B,$793 M,$4.4 B,$30.3 B
+2017,1043,,Lixil Group,Japan,$16.8 B,$330 M,$18.5 B,$7.7 B
+2017,1044,,London Stock Exchange,United Kingdom,$2.2 B,$205 M,$697.9 B,$14 B
+2017,1045,,Amadeus IT Group,Spain,$4.9 B,$913 M,$8.3 B,$21.8 B
+2017,1046,,Arconic,United States,$12.4 B,$-941 M,$20 B,$11.6 B
+2017,1047,,Zoetis,United States,$4.9 B,$821 M,$7.6 B,$25.8 B
+2017,1048,,Helvetia Holding,Switzerland,$9.5 B,$382 M,$54.5 B,$5.4 B
+2017,1049,,Advanced Semiconductor,Taiwan,$8.5 B,$692 M,$11.1 B,$10 B
+2017,1049,,Yamaha Motor,Japan,$13.8 B,$581 M,$11.3 B,$8 B
+2017,1051,,Alleghany,United States,$6.1 B,$457 M,$24.1 B,$9.4 B
+2017,1052,,Crown Castle International,United States,$3.9 B,$357 M,$22.7 B,$34.1 B
+2017,1052,,ZTE,China,$15.1 B,$-329 M,$20.4 B,$9.9 B
+2017,1054,,Grupo Inbursa,Mexico,$3.3 B,$665 M,$25.8 B,$11.2 B
+2017,1054,,Inter Rao,Russia,$13 B,$907 M,$9.3 B,$7.5 B
+2017,1056,,Newmont Mining,United States,$7.7 B,$-27 M,$21 B,$18.2 B
+2017,1057,,AES,United States,$13.7 B,$-1.1 B,$36.1 B,$7.3 B
+2017,1058,,Oneok,United States,$8.9 B,$352 M,$16.1 B,$11.9 B
+2017,1059,,Schroders,United Kingdom,$3.1 B,$661 M,$25.9 B,$10.9 B
+2017,1060,,C.H. Robinson,United States,$13.1 B,$513 M,$3.7 B,$10.7 B
+2017,1061,,Quest Diagnostics,United States,$7.5 B,$641 M,$10.1 B,$13.4 B
+2017,1062,,Mitsubishi UFJ Lease,Japan,$7.6 B,$492 M,$44.2 B,$4.3 B
+2017,1063,,Expedia,United States,$8.8 B,$269 M,$15.8 B,$18.9 B
+2017,1064,,Boston Properties,United States,$2.6 B,$511 M,$18.9 B,$20.7 B
+2017,1065,,Beijing Enterprises,Hong Kong,$7.2 B,$803 M,$18.7 B,$6.6 B
+2017,1066,,Restaurant Brands International,Canada,$4.1 B,$675 M,$19.1 B,$13.1 B
+2017,1067,,Analog Devices,United States,$3.6 B,$914 M,$10.2 B,$29.2 B
+2017,1068,,Liberty Expedia Holdings,United States,$1.6 B,$2.3 B,$34.6 B,$2.6 B
+2017,1069,,KPN,Netherlands,$7.5 B,$399 M,$15.5 B,$12.6 B
+2017,1070,,GS Holdings,South Korea,$11.6 B,$695 M,$16.8 B,$4.8 B
+2017,1071,,OTP Bank,Hungary,$3.7 B,$718 M,$38.6 B,$7.9 B
+2017,1071,,Roper Industries,United States,$3.8 B,$659 M,$14.3 B,$21.2 B
+2017,1073,,Host Hotels & Resorts,United States,$5.4 B,$762 M,$11.4 B,$13.5 B
+2017,1074,,Asustek Computer,Taiwan,$14.5 B,$595 M,$11.3 B,$7.3 B
+2017,1075,,Interpublic Group,United States,$7.8 B,$609 M,$12.5 B,$9.5 B
+2017,1076,,QuintilesIMS,United States,$6.9 B,$115 M,$21.2 B,$18.7 B
+2017,1076,,Tata Steel,India,$16.1 B,$-444 M,$25.7 B,$7.5 B
+2017,1078,,Bankinter,Spain,$2.2 B,$542 M,$70.9 B,$7.6 B
+2017,1079,,Campbell Soup,United States,$7.9 B,$497 M,$7.6 B,$17.2 B
+2017,1080,,Osaka Gas,Japan,$10.9 B,$459 M,$14.9 B,$8 B
+2017,1081,,First Financial Holding,Taiwan,$1.8 B,$538 M,$78.8 B,$7.3 B
+2017,1082,,Lotte Shopping,South Korea,$25.5 B,$134 M,$34.7 B,$5.7 B
+2017,1083,,Vienna Insurance Group,Austria,$10.4 B,$321 M,$51.8 B,$3.1 B
+2017,1084,,SMC,Japan,$4.3 B,$938 M,$10.2 B,$19.1 B
+2017,1085,,Investec,United Kingdom,$4.8 B,$539 M,$68.2 B,$6.3 B
+2017,1086,,Power Finance,India,$4.3 B,$945 M,$37.3 B,$6.3 B
+2017,1086,,Voestalpine,Austria,$11.9 B,$477 M,$15.1 B,$7.1 B
+2017,1088,,Hydro One,Canada,$4.9 B,$559 M,$18.9 B,$10.8 B
+2017,1089,,Whole Foods Market,United States,$15.8 B,$445 M,$6.4 B,$9.9 B
+2017,1090,,Japan Exchange Group,Japan,$1 B,$379 M,$346.8 B,$7.8 B
+2017,1091,,Fortum,Finland,$4 B,$550 M,$23.2 B,$12.5 B
+2017,1092,,Grupo Bimbo,Mexico,$13.4 B,$316 M,$11.9 B,$11.8 B
+2017,1093,,Alrosa,Russia,$4.7 B,$2 B,$7.7 B,$11.4 B
+2017,1094,,China National Building,China,$15.3 B,$157 M,$49 B,$3.7 B
+2017,1095,,Saputo,Canada,$8.4 B,$532 M,$5.7 B,$13.2 B
+2017,1096,,Shanghai Construction,China,$19.8 B,$315 M,$25.1 B,$5.5 B
+2017,1097,,Mondi,United Kingdom,$7.4 B,$700 M,$7.7 B,$11.7 B
+2017,1098,,Shin Kong Financial,Taiwan,$10.9 B,$149 M,$98 B,$2.8 B
+2017,1099,,SDIC Power Holdings,China,$4.4 B,$658 M,$29.8 B,$7.7 B
+2017,1100,,Land Securities Group,United Kingdom,$1.4 B,$758 M,$19.3 B,$10.8 B
+2017,1101,,China Hongqiao Group,China,$7.3 B,$649 M,$19.1 B,$6.6 B
+2017,1102,,Clorox,United States,$5.9 B,$655 M,$4.6 B,$17.1 B
+2017,1103,,Cielo,Brazil,$3.5 B,$1.1 B,$9.4 B,$20.9 B
+2017,1104,,Assurant,United States,$7.2 B,$565 M,$29.7 B,$5.2 B
+2017,1104,,TCL Corp,China,$16.5 B,$312 M,$21.3 B,$6.4 B
+2017,1106,,Wuliangye Yibin,China,$3.4 B,$1 B,$8.9 B,$23.5 B
+2017,1107,,Thai Beverage,Thailand,$5.3 B,$757 M,$5.2 B,$17.1 B
+2017,1107,,Zions Bancorp,United States,$2.5 B,$455 M,$63.4 B,$8.4 B
+2017,1109,,National Oilwell Varco,United States,$7.2 B,$-2.4 B,$21.1 B,$14.7 B
+2017,1110,,Flextronics International,Singapore,$23.8 B,$294 M,$12.8 B,$8.8 B
+2017,1110,,Hainan Airlines,China,$6.1 B,$477 M,$21.3 B,$8.4 B
+2017,1112,,Yanzhou Coal Mining,China,$15 B,$308 M,$21 B,$6.8 B
+2017,1113,,Shanghai Electric Group,China,$11.8 B,$312 M,$25.3 B,$6.7 B
+2017,1114,,Xiamen C&D,China,$19.3 B,$359 M,$20.3 B,$4.6 B
+2017,1115,,Lend Lease Group,Australia,$11.7 B,$550 M,$13.7 B,$6.6 B
+2017,1116,,T Rowe Price,United States,$4.2 B,$1.2 B,$6.4 B,$16.9 B
+2017,1117,,Pgnig Group,Poland,$8.4 B,$596 M,$11.9 B,$8.6 B
+2017,1118,,Galp Energia,Portugal,$14.5 B,$198 M,$13.1 B,$12.8 B
+2017,1119,,Shenzhen Overseas,China,$4.3 B,$775 M,$20.4 B,$8.9 B
+2017,1120,,Kerry Group,Ireland,$6.8 B,$590 M,$7.8 B,$14.2 B
+2017,1121,,Celanese,United States,$5.4 B,$900 M,$8.4 B,$13 B
+2017,1122,,Experian,Ireland,$4.5 B,$829 M,$7.7 B,$18.9 B
+2017,1123,,Legrand,France,$5.6 B,$695 M,$8.6 B,$16 B
+2017,1124,,Datang International Power,China,$8.8 B,$-390 M,$33.6 B,$8.3 B
+2017,1125,,HCP,United States,$2.5 B,$627 M,$15.8 B,$14.9 B
+2017,1126,,SES,Luxembourg,$2.3 B,$1.1 B,$14.4 B,$10.6 B
+2017,1127,,AGNC Investment,United States,$1.5 B,$623 M,$56.9 B,$6.6 B
+2017,1128,,Bank of Tianjin,China,$4 B,$683 M,$94.6 B,$4.3 B
+2017,1129,,Phoenix Group Holdings,United Kingdom,$9.9 B,$-136 M,$93.2 B,$3.5 B
+2017,1130,,Harbin Bank,China,$3.8 B,$734 M,$77.6 B,$3.4 B
+2017,1131,,Alaska Air Group,United States,$5.9 B,$814 M,$10 B,$11 B
+2017,1132,,Cenovus Energy,Canada,$9.2 B,$-411 M,$19.3 B,$11.2 B
+2017,1133,,Apache,United States,$5.3 B,$-1.5 B,$22.5 B,$20 B
+2017,1134,,Delta Electronics,Taiwan,$6.6 B,$583 M,$7.3 B,$13.9 B
+2017,1135,,Electrolux Group,Sweden,$14.1 B,$525 M,$9.5 B,$8 B
+2017,1136,,Hyundai Marine & Fire,South Korea,$10.9 B,$353 M,$29.8 B,$2.4 B
+2017,1137,,Korea Gas,South Korea,$18.2 B,$-581 M,$33.1 B,$3.6 B
+2017,1138,,Keppel,Singapore,$4.9 B,$568 M,$20.3 B,$8.9 B
+2017,1139,,Wm Morrison Supermarkets,United Kingdom,$21.7 B,$407 M,$11.6 B,$6.8 B
+2017,1140,,AntarChile,Chile,$16.7 B,$327 M,$21.9 B,$5.3 B
+2017,1141,,SGS,Switzerland,$6.1 B,$551 M,$5.3 B,$16.4 B
+2017,1142,,Hyundai Engineering,South Korea,$16.2 B,$423 M,$16.5 B,$4.9 B
+2017,1142,,Toppan Printing,Japan,$13.2 B,$349 M,$16.4 B,$7 B
+2017,1144,,Actelion,Switzerland,$2.5 B,$707 M,$2.1 B,$30.5 B
+2017,1145,,Bank of Baroda,India,$7.9 B,$-774 M,$104.4 B,$6.1 B
+2017,1146,,Canadian Tire,Canada,$9.6 B,$505 M,$11.4 B,$8.5 B
+2017,1146,,Intuitive Surgical,United States,$2.7 B,$736 M,$6.5 B,$28.2 B
+2017,1148,,Punjab National Bank,India,$8.8 B,$-564 M,$107.7 B,$4.9 B
+2017,1149,,Charoen Pokphand Foods,Thailand,$13.2 B,$417 M,$16.3 B,$6.3 B
+2017,1150,,Renesas Electronics,Japan,$5.8 B,$569 M,$7.1 B,$16.4 B
+2017,1151,,JG Summit Holdings,Philippines,$4.9 B,$634 M,$13.4 B,$11.6 B
+2017,1152,,Ball,United States,$9.1 B,$225 M,$16.2 B,$12.6 B
+2017,1153,,Olympus,Japan,$6.9 B,$560 M,$8.6 B,$12.8 B
+2017,1154,,Sun Art Retail Group,Hong Kong,$15.1 B,$388 M,$8.7 B,$9.6 B
+2017,1155,,BCI-Banco Credito,Chile,$3 B,$503 M,$46.2 B,$7.4 B
+2017,1155,,CDW,United States,$14 B,$424 M,$6.9 B,$9.2 B
+2017,1155,,Hesteel,China,$10.8 B,$153 M,$26.8 B,$7.4 B
+2017,1158,,Brown-Forman,United States,$3 B,$1 B,$4.6 B,$17.6 B
+2017,1158,,Sika,Switzerland,$5.8 B,$572 M,$5 B,$15.4 B
+2017,1160,,Hoya,Japan,$4.4 B,$797 M,$5.6 B,$18.1 B
+2017,1161,,SVB Financial Group,United States,$1.6 B,$383 M,$44.8 B,$9.5 B
+2017,1162,,Genworth Financial,United States,$8.4 B,$-273 M,$104.7 B,$2 B
+2017,1163,,Cerner,United States,$4.8 B,$637 M,$5.6 B,$19.7 B
+2017,1163,,Foot Locker,United States,$7.8 B,$664 M,$3.8 B,$9.5 B
+2017,1165,,Mitsubishi Materials,Japan,$12.1 B,$498 M,$15.8 B,$3.8 B
+2017,1166,,Interactive Brokers Group,United States,$1.4 B,$84 M,$54.7 B,$14.3 B
+2017,1167,,Monster Beverage,United States,$3 B,$713 M,$4.2 B,$26 B
+2017,1168,,Dover,United States,$6.8 B,$509 M,$10.1 B,$12.5 B
+2017,1169,,Intact Financial,Canada,$6.7 B,$408 M,$16.8 B,$9.3 B
+2017,1170,,Global Logistic Properties,Singapore,$881 M,$669 M,$20.5 B,$9.4 B
+2017,1171,,Skyworks Solutions,United States,$3.3 B,$898 M,$4.1 B,$18.8 B
+2017,1172,,Terna,Italy,$2.3 B,$700 M,$17.6 B,$10 B
+2017,1173,,Tokyo Century,Japan,$8.8 B,$378 M,$29.7 B,$3.5 B
+2017,1174,,Autoliv,Sweden,$10.1 B,$567 M,$8.2 B,$8.5 B
+2017,1175,,Hindalco Industries,India,$15.2 B,$31 M,$22 B,$6.8 B
+2017,1176,,Advance Auto Parts,United States,$9.6 B,$458 M,$8.3 B,$10.5 B
+2017,1176,,Ayala,Philippines,$4.2 B,$548 M,$18.4 B,$10.7 B
+2017,1178,,Paychex,United States,$3.1 B,$800 M,$7.3 B,$20.9 B
+2017,1178,,Rockwell Collins,United States,$5.3 B,$738 M,$7.7 B,$12.9 B
+2017,1180,,Oriental Land,Japan,$4.3 B,$699 M,$7.1 B,$19.6 B
+2017,1181,,Industrial Alliance Insurance,Canada,$6.4 B,$418 M,$41.7 B,$4.5 B
+2017,1182,,Attijariwafa Bank,Morocco,$3.3 B,$485 M,$42.4 B,$7.5 B
+2017,1183,,American Water Works,United States,$3.3 B,$468 M,$18.5 B,$13.8 B
+2017,1183,,Motorola Solutions,United States,$6 B,$559 M,$8.5 B,$13.9 B
+2017,1183,,United Rentals,United States,$5.8 B,$566 M,$12 B,$10.4 B
+2017,1186,,Norwegian Cruise Line Holdings,United States,$4.9 B,$633 M,$13 B,$11 B
+2017,1187,,Harley-Davidson,United States,$6 B,$692 M,$9.9 B,$10.7 B
+2017,1187,,Hess,United States,$4.8 B,$-6.1 B,$28.6 B,$15.2 B
+2017,1189,,Masraf Al Rayan,Qatar,$755 M,$568 M,$25.1 B,$8.8 B
+2017,1190,,Jiangsu Yanghe Brewery,China,$2.6 B,$879 M,$5.3 B,$18.6 B
+2017,1191,,Grifols,Spain,$4.5 B,$603 M,$10.7 B,$16.8 B
+2017,1192,,Orient Securities,China,$1.8 B,$349 M,$30.6 B,$12.2 B
+2017,1193,,Mitsubishi Motors,Japan,$17.9 B,$-2 B,$13.3 B,$9 B
+2017,1193,,Origin Energy,Australia,$9 B,$-1.5 B,$19.7 B,$9.6 B
+2017,1195,,Qantas Airways,Australia,$11.8 B,$636 M,$12.5 B,$5.3 B
+2017,1196,,Advanced Info Service,Thailand,$4.3 B,$869 M,$7.7 B,$15 B
+2017,1197,,Pentair,United Kingdom,$5.7 B,$522 M,$11.5 B,$11.4 B
+2017,1198,,Industries Qatar,Qatar,$1.3 B,$812 M,$9.7 B,$18.4 B
+2017,1198,,Nitto Denko,Japan,$6.8 B,$529 M,$7.5 B,$12.4 B
+2017,1200,,Arab National Bank,Saudi Arabia,$2.2 B,$761 M,$45.3 B,$5.3 B
+2017,1200,,Zijin Mining Group,China,$11.7 B,$276 M,$12.8 B,$10.4 B
+2017,1202,,Ricoh,Japan,$18.7 B,$144 M,$24.3 B,$5.8 B
+2017,1202,,Xerox,United States,$15.6 B,$-477 M,$18.1 B,$7.2 B
+2017,1204,,Tenet Healthcare,United States,$19.6 B,$-192 M,$24.7 B,$1.7 B
+2017,1205,,SCANA,United States,$4.2 B,$594 M,$18.7 B,$9.3 B
+2017,1206,,Jiangxi Copper,China,$30.3 B,$120 M,$12.6 B,$7.7 B
+2017,1207,,Givaudan,Switzerland,$4.7 B,$654 M,$6.4 B,$16.6 B
+2017,1207,,Liberty Broadband,United States,$31 M,$917 M,$9.6 B,$15.7 B
+2017,1209,,Chiba Bank,Japan,$1.9 B,$493 M,$119.9 B,$5.2 B
+2017,1210,,Everbright Securities,China,$1.9 B,$454 M,$25.6 B,$9.9 B
+2017,1210,,Smith & Nephew,United Kingdom,$4.7 B,$801 M,$7.3 B,$13.4 B
+2017,1212,,UCB,Belgium,$4.6 B,$601 M,$10.8 B,$14.6 B
+2017,1213,,Industrivarden,Sweden,$2 B,$1.9 B,$10.5 B,$9.3 B
+2017,1213,,PVH,United States,$8.2 B,$549 M,$11.1 B,$8 B
+2017,1215,,ALFA,Mexico,$15.7 B,$144 M,$16.9 B,$7.3 B
+2017,1216,,Avnet,United States,$20.8 B,$392 M,$13.3 B,$5.7 B
+2017,1217,,Lundbergs,Sweden,$2.3 B,$1.4 B,$13.4 B,$8.1 B
+2017,1217,,NRG Energy,United States,$13.1 B,$-774 M,$30.4 B,$5.9 B
+2017,1219,,Shionogi,Japan,$3.1 B,$852 M,$5.5 B,$17.4 B
+2017,1220,,Csc Financial,China,$2.5 B,$749 M,$26.1 B,$6.8 B
+2017,1221,,New York Community,United States,$1.9 B,$492 M,$49.1 B,$6.6 B
+2017,1222,,Naver,South Korea,$3.5 B,$646 M,$5.3 B,$24 B
+2017,1223,,LARGAN Precision,Taiwan,$1.5 B,$705 M,$3 B,$20.6 B
+2017,1224,,Yum China Holdings,United States,$6.8 B,$502 M,$3.7 B,$12 B
+2017,1225,,Banco De Venezuela,Venezuela,$7 B,$2.5 B,$2.6 B,$2.5 B
+2017,1226,,CJ Corp,South Korea,$20.6 B,$192 M,$22.4 B,$4.4 B
+2017,1227,,CA,United States,$4 B,$781 M,$11 B,$13.3 B
+2017,1228,,Top Frontier Investment Holdings,Philippines,$14.2 B,$21 M,$28.8 B,$1.9 B
+2017,1229,,Qatar Islamic Bank,Qatar,$1.1 B,$555 M,$38.4 B,$6.6 B
+2017,1230,,Canara Bank,India,$7.5 B,$-398 M,$85.1 B,$2.8 B
+2017,1230,,Mosaic,United States,$7.2 B,$298 M,$16.8 B,$10.1 B
+2017,1232,,Shinsei Bank,Japan,$3 B,$517 M,$79 B,$4.6 B
+2017,1233,,Braskem,Brazil,$13.8 B,$-136 M,$15.9 B,$7.9 B
+2017,1234,,Rural Electrification,India,$3.7 B,$869 M,$32.2 B,$5.7 B
+2017,1235,,Alexion Pharmaceuticals,United States,$3 B,$394 M,$13.3 B,$26 B
+2017,1236,,Aramark,United States,$14.4 B,$320 M,$10.4 B,$9 B
+2017,1237,,Bank of Zhengzhou,China,$2.5 B,$603 M,$52.7 B,$3.4 B
+2017,1238,,Manpower,United States,$19.7 B,$444 M,$7.6 B,$6.6 B
+2017,1239,,Yes Bank,India,$2.5 B,$386 M,$25 B,$11 B
+2017,1240,,Dexia,Belgium,$393 M,$417 M,$224.4 B,$373 M
+2017,1240,,Masco,United States,$7.4 B,$485 M,$5.1 B,$10.7 B
+2017,1242,,Torchmark,United States,$3.9 B,$549 M,$21.4 B,$9 B
+2017,1243,,Proximus,Belgium,$6.4 B,$579 M,$8.6 B,$10.4 B
+2017,1244,,X5 Retail Group,Netherlands,$15.8 B,$339 M,$7.9 B,$8.7 B
+2017,1245,,RSA Insurance Group,United Kingdom,$9.3 B,$76 M,$23.3 B,$7.5 B
+2017,1246,,Air Canada,Canada,$11.1 B,$661 M,$11.3 B,$2.7 B
+2017,1246,,KLA-Tencor,United States,$3.3 B,$864 M,$5.1 B,$15.1 B
+2017,1248,,Valeant Pharmaceuticals,Canada,$9.7 B,$-2.4 B,$43.5 B,$3.3 B
+2017,1249,,3i Group,United Kingdom,$644 M,$2.4 B,$8.4 B,$9.1 B
+2017,1250,,Bank of India,India,$7 B,$-948 M,$93.1 B,$2.3 B
+2017,1251,,Check Point Software,Israel,$1.7 B,$725 M,$5.2 B,$18 B
+2017,1252,,Taiwan Cooperative Financial,Taiwan,$2 B,$427 M,$103.7 B,$5.9 B
+2017,1253,,Community Health Systems,United States,$18.4 B,$-1.7 B,$21.9 B,$1 B
+2017,1253,,Huntington Ingalls Industries,United States,$7.1 B,$573 M,$6.9 B,$9.4 B
+2017,1255,,PGE Polska Grupa Energetyczna,Poland,$7.1 B,$651 M,$16.2 B,$5.3 B
+2017,1256,,Sekisui Chemical,Japan,$9.8 B,$517 M,$8.1 B,$7.8 B
+2017,1257,,Brenntag,Germany,$11.6 B,$399 M,$7.8 B,$8.8 B
+2017,1258,,Bombardier,Canada,$16.3 B,$-1 B,$22.8 B,$3.6 B
+2017,1259,,Coty,United States,$5.4 B,$-11 M,$21.9 B,$12.7 B
+2017,1259,,Genting,Malaysia,$4.4 B,$518 M,$20.6 B,$7.9 B
+2017,1261,,Bank Of Guiyang,China,$1.8 B,$554 M,$53.6 B,$5.7 B
+2017,1262,,PotashCorp,Canada,$4.5 B,$335 M,$17.3 B,$14.2 B
+2017,1263,,W&W-Wüstenrot,Germany,$7.1 B,$258 M,$75.9 B,$1.8 B
+2017,1264,,Sojitz,Japan,$13.9 B,$317 M,$18.1 B,$3.1 B
+2017,1265,,Darden Restaurants,United States,$7 B,$495 M,$4.7 B,$10.3 B
+2017,1266,,Sunac China Holdings,China,$5.5 B,$367 M,$42.2 B,$5.9 B
+2017,1266,,Unicharm,Japan,$6.5 B,$406 M,$6.1 B,$14.5 B
+2017,1268,,Ctrip.com International,China,$2.9 B,$-223 M,$20.8 B,$25.1 B
+2017,1269,,Jyske Bank,Denmark,$2.3 B,$460 M,$83.2 B,$4.8 B
+2017,1270,,China Life Insurance (Taiwan),Taiwan,$7.6 B,$294 M,$41.1 B,$3.4 B
+2017,1270,,Dai Nippon Printing,Japan,$13 B,$292 M,$14.4 B,$7.2 B
+2017,1272,,CIT Group,United States,$4.4 B,$-861 M,$64.2 B,$8.8 B
+2017,1272,,IndusInd Bank,India,$2.3 B,$349 M,$21.2 B,$13.1 B
+2017,1274,,Banca MPS,Italy,$5.9 B,$-3.6 B,$161.8 B,-
+2017,1274,,Bed Bath & Beyond,United States,$12.2 B,$685 M,$6.8 B,$5.8 B
+2017,1276,,Bank of Chongqing,China,$2.7 B,$529 M,$53.7 B,$2.7 B
+2017,1277,,Marathon Oil,United States,$4.1 B,$-2.1 B,$31.1 B,$13.8 B
+2017,1278,,East West Bancorp,United States,$1.3 B,$432 M,$34.8 B,$7.4 B
+2017,1279,,Nitori Holdings,Japan,$4.7 B,$554 M,$4.4 B,$15.1 B
+2017,1280,,Yamato Holdings,Japan,$13.3 B,$341 M,$10 B,$8.3 B
+2017,1281,,Cosco Shipping,China,$10.7 B,$-1.5 B,$17.2 B,$7.9 B
+2017,1282,,SKF Group,Sweden,$8.5 B,$465 M,$9.5 B,$8.9 B
+2017,1283,,GAIL India,India,$8.3 B,$344 M,$11 B,$10.2 B
+2017,1284,,PulteGroup,United States,$7.6 B,$598 M,$10.2 B,$7.4 B
+2017,1284,,Signature Bank,United States,$1.4 B,$396 M,$39.2 B,$7.6 B
+2017,1286,,AGL Energy,Australia,$8.6 B,$272 M,$10.7 B,$13.8 B
+2017,1286,,Latam Airlines,Chile,$9 B,$72 M,$19.2 B,$8 B
+2017,1288,,AutoNation,United States,$21.6 B,$431 M,$10.3 B,$4.1 B
+2017,1289,,Doosan,South Korea,$14.3 B,$-147 M,$23.7 B,$1.6 B
+2017,1290,,Transocean,Switzerland,$4.2 B,$765 M,$26.9 B,$4.9 B
+2017,1291,,Hua Nan Financial,Taiwan,$1.8 B,$437 M,$79 B,$5.8 B
+2017,1292,,KT&G,South Korea,$3.9 B,$1.1 B,$8.1 B,$11.2 B
+2017,1293,,LKQ,United States,$8.9 B,$458 M,$8.3 B,$8.6 B
+2017,1294,,Equity Residential,United States,$2.4 B,$232 M,$20.7 B,$23.1 B
+2017,1295,,Amorepacific,South Korea,$4.9 B,$551 M,$4.3 B,$14.1 B
+2017,1295,,Iida Group Holdings,Japan,$11.1 B,$715 M,$9.6 B,$4.3 B
+2017,1297,,Gecina,France,$668 M,$900 M,$13 B,$8.7 B
+2017,1298,,Edwards Lifesciences,United States,$3 B,$570 M,$4.5 B,$19.9 B
+2017,1299,,Medipal Holdings,Japan,$28.2 B,$296 M,$13.5 B,$3.7 B
+2017,1300,,Bunzl,United Kingdom,$10 B,$359 M,$5.6 B,$9.8 B
+2017,1301,,El Puerto de Liverpool,Mexico,$5.4 B,$545 M,$7.2 B,$11.8 B
+2017,1301,,Vicinity Centres,Australia,$1 B,$1.1 B,$11.7 B,$8.6 B
+2017,1303,,Delta Lloyd,Netherlands,$6.5 B,$256 M,$80 B,$2.6 B
+2017,1304,,Eisai,Japan,$4.9 B,$507 M,$8.9 B,$14.9 B
+2017,1305,,Marks & Spencer,United Kingdom,$15 B,$356 M,$10.7 B,$6.8 B
+2017,1306,,Pioneer Natural Resources,United States,$4 B,$-557 M,$16.5 B,$32.2 B
+2017,1307,,Arab Bank,Jordan,$2.4 B,$522 M,$47.5 B,$5.7 B
+2017,1308,,Foncière des Régions,France,$1.1 B,$866 M,$20.6 B,$6.3 B
+2017,1308,,Sino-Ocean Land Holdings,China,$5.4 B,$572 M,$21.8 B,$3.7 B
+2017,1310,,Nippon Express,Japan,$17.1 B,$341 M,$13.2 B,$4.8 B
+2017,1311,,Dxc Technology,United States,$7.5 B,$-101 M,$8.3 B,$21.5 B
+2017,1312,,Nordstrom,United States,$14.8 B,$354 M,$7.9 B,$7.4 B
+2017,1312,,Pandora,Denmark,$3 B,$895 M,$2.1 B,$11.8 B
+2017,1314,,GKN,United Kingdom,$11.9 B,$327 M,$11.1 B,$7.6 B
+2017,1315,,Ajinomoto,Japan,$10.1 B,$258 M,$11.4 B,$10.9 B
+2017,1316,,BNK Financial Group,South Korea,$3.3 B,$425 M,$77.4 B,$2.6 B
+2017,1317,,Founder Securities,China,$1.2 B,$387 M,$21.9 B,$10.1 B
+2017,1318,,Vedanta Resources,United Kingdom,$9.9 B,$-1.5 B,$30 B,$2.8 B
+2017,1319,,Petronas Chemicals,Malaysia,$3.3 B,$708 M,$7.3 B,$14 B
+2017,1320,,Magnitogorsk Iron & Steel,Russia,$5.6 B,$1.1 B,$6.2 B,$7 B
+2017,1321,,Cintas,United States,$5.1 B,$501 M,$4.3 B,$12.9 B
+2017,1321,,Dassault Systemes,France,$3.4 B,$495 M,$7.3 B,$22.2 B
+2017,1323,,Quinenco,Chile,$6.8 B,$117 M,$54.6 B,$4.3 B
+2017,1324,,Nippon Yusen,Japan,$17.7 B,$-2.1 B,$17.8 B,$3.5 B
+2017,1325,,BRF,Brazil,$9.7 B,$-107 M,$13.8 B,$9.3 B
+2017,1325,,Hasbro,United States,$5 B,$551 M,$5.1 B,$12 B
+2017,1327,,Illumina,United States,$2.4 B,$464 M,$4.3 B,$25.2 B
+2017,1328,,Kawasaki Heavy Industries,Japan,$14 B,$317 M,$15.4 B,$4.9 B
+2017,1329,,Digital Realty Trust,United States,$2.1 B,$426 M,$12.2 B,$17.3 B
+2017,1330,,Alcoa,United States,$15.1 B,$20 M,$16.7 B,$6.2 B
+2017,1331,,Chugoku Electric Power,Japan,$11 B,$246 M,$25.8 B,$4 B
+2017,1331,,Koito Manufacturing,Japan,$7.6 B,$520 M,$5.4 B,$8.1 B
+2017,1333,,AmTrust Financial Services,United States,$5.6 B,$485 M,$23.1 B,$3.2 B
+2017,1334,,Juniper Networks,United States,$5 B,$601 M,$9.7 B,$10.6 B
+2017,1335,,United Utilities,United Kingdom,$2.4 B,$608 M,$15.9 B,$8.5 B
+2017,1336,,Red Eléctrica,Spain,$2.1 B,$705 M,$11.1 B,$10.7 B
+2017,1337,,RusHydro,Russia,$5.6 B,$600 M,$16.3 B,$6 B
+2017,1338,,Kobe Steel,Japan,$15.5 B,$-407 M,$18.9 B,$3.2 B
+2017,1338,,Wyndham Worldwide,United States,$5.6 B,$612 M,$9.8 B,$8.9 B
+2017,1340,,MOL Hungarian Oil,Hungary,$12.5 B,$-740 M,$14.7 B,$7.3 B
+2017,1341,,Cathay Pacific Airways,Hong Kong,$11.9 B,$-74 M,$22.9 B,$5.7 B
+2017,1341,,JetBlue Airways,United States,$6.6 B,$750 M,$9.5 B,$7 B
+2017,1343,,Agilent Technologies,United States,$4.2 B,$507 M,$7.9 B,$17 B
+2017,1343,,Wolters Kluwer,Netherlands,$4.8 B,$541 M,$9.9 B,$11.9 B
+2017,1345,,Arkema,France,$8.3 B,$472 M,$9.7 B,$7.7 B
+2017,1346,,Ezdan Holding Group,Qatar,$538 M,$498 M,$13.7 B,$11.5 B
+2017,1347,,JSW Steel,India,$7.3 B,$407 M,$12.8 B,$7.5 B
+2017,1348,,Electric Power Development,Japan,$6.7 B,$411 M,$21.4 B,$4.2 B
+2017,1348,,Hexagon,Sweden,$3.5 B,$635 M,$8.3 B,$14.7 B
+2017,1350,,Ahli United Bank,Bahrain,$1.6 B,$543 M,$31.3 B,$5.9 B
+2017,1351,,Kerry Properties,Hong Kong,$1.8 B,$842 M,$22.3 B,$5.4 B
+2017,1351,,Yuanta Financial Holding,Taiwan,$3.3 B,$416 M,$67.1 B,$5.2 B
+2017,1353,,Airports of Thailand,Thailand,$1.5 B,$568 M,$4.8 B,$16.4 B
+2017,1354,,CR Bard,United States,$3.7 B,$529 M,$5.3 B,$18 B
+2017,1355,,Hanwha Chemical,South Korea,$8 B,$651 M,$11.4 B,$3.8 B
+2017,1355,,Noble Group,Hong Kong,$46.5 B,$-12 M,$12.4 B,$1.8 B
+2017,1357,,Frontier Communications,United States,$8.9 B,$-376 M,$30.2 B,$2.4 B
+2017,1358,,Ulta Salon Cosmetcs & Fragrance,United States,$4.9 B,$410 M,$2.6 B,$17.7 B
+2017,1359,,Crown Holdings,United States,$8.3 B,$496 M,$9.6 B,$7.4 B
+2017,1360,,Kintetsu,Japan,$11.2 B,$186 M,$16.2 B,$6.9 B
+2017,1361,,Starwood Property Trust,United States,$786 M,$363 M,$77.3 B,$5.9 B
+2017,1362,,Arthur J. Gallagher,United States,$5.6 B,$414 M,$11.5 B,$10.1 B
+2017,1363,,Johnson Matthey,United Kingdom,$15 B,$328 M,$5.6 B,$7.3 B
+2017,1364,,UGI,United States,$5.8 B,$481 M,$11.3 B,$8.6 B
+2017,1365,,Grupo Televisa,Mexico,$5.2 B,$199 M,$14.9 B,$15.8 B
+2017,1365,,JB Hunt Transport,United States,$6.6 B,$432 M,$3.9 B,$10.1 B
+2017,1367,,Iliad,France,$5.2 B,$444 M,$8.7 B,$13.1 B
+2017,1367,,Next,United Kingdom,$5.5 B,$847 M,$3 B,$7.3 B
+2017,1369,,Arca Continental,Mexico,$5 B,$483 M,$6.8 B,$12.5 B
+2017,1370,,Uralkali,Russia,$2.3 B,$1.4 B,$8.7 B,$8.3 B
+2017,1371,,Xilinx,United States,$2.3 B,$614 M,$4.8 B,$14.1 B
+2017,1372,,AAC Technologies Holdings,China,$2.3 B,$602 M,$3.5 B,$14.4 B
+2017,1373,,Gudang Garam,Indonesia,$5.7 B,$502 M,$4.7 B,$9.9 B
+2017,1374,,Banco Davivienda,Colombia,$3.3 B,$563 M,$31.2 B,$4.8 B
+2017,1374,,Mead Johnson Nutrition,United States,$3.7 B,$543 M,$4.1 B,$16.4 B
+2017,1376,,Essex Property Trust,United States,$1.3 B,$415 M,$12.2 B,$15.3 B
+2017,1377,,Amcor,Australia,$9.3 B,$220 M,$8.6 B,$13.3 B
+2017,1378,,Financiere de l'Odet,France,$11.1 B,$252 M,$22.2 B,$5.4 B
+2017,1379,,DCC,Ireland,$15.8 B,$287 M,$6.6 B,$7.8 B
+2017,1380,,Geberit,Switzerland,$2.9 B,$557 M,$3.5 B,$15.2 B
+2017,1381,,Alfresa Holdings,Japan,$23.5 B,$306 M,$11.3 B,$4 B
+2017,1381,,Mitsui OSK Lines,Japan,$13.6 B,$-1.5 B,$18.8 B,$3.7 B
+2017,1383,,ICA Gruppen,Sweden,$12.1 B,$399 M,$8.4 B,$6.8 B
+2017,1384,,E.Sun Financial,Taiwan,$1.7 B,$407 M,$58.5 B,$5.3 B
+2017,1384,,Fluor,United States,$19 B,$281 M,$9.5 B,$7.3 B
+2017,1386,,Saudi Arabian Mining,Saudi Arabia,$2.5 B,$107 M,$25.9 B,$12.7 B
+2017,1387,,Partners Group Holding,Switzerland,$1.1 B,$567 M,$1.9 B,$14.7 B
+2017,1388,,Mashreq Bank,United Arab Emirates,$2.4 B,$525 M,$33.4 B,$3.9 B
+2017,1389,,Noble Energy,United States,$3.4 B,$-998 M,$21.4 B,$15.1 B
+2017,1390,,Caltex Australia,Australia,$13.1 B,$453 M,$3.8 B,$6 B
+2017,1391,,Bank Audi,Lebanon,$4 B,$446 M,$44.3 B,$2.8 B
+2017,1391,,LG Household & Health Care,South Korea,$5.3 B,$490 M,$3.7 B,$10.8 B
+2017,1393,,Colruyt,Belgium,$10.3 B,$417 M,$4.8 B,$7.1 B
+2017,1394,,Focus Media Information Technology,China,$1.3 B,$539 M,$1.5 B,$15.4 B
+2017,1395,,OMRON,Japan,$7.3 B,$405 M,$5.9 B,$9.3 B
+2017,1396,,Tenaris,Luxembourg,$4.5 B,$56 M,$14 B,$20.3 B
+2017,1397,,Old Republic International,United States,$5.9 B,$467 M,$19.1 B,$5.2 B
+2017,1398,,Fukuoka Financial Group,Japan,$2.1 B,$309 M,$156 B,$3.7 B
+2017,1399,,Baiyin Nonferrous Group,China,$8.7 B,$18 M,$6.3 B,$13.4 B
+2017,1400,,Dentsply Sirona,United States,$3.7 B,$430 M,$11.7 B,$14.3 B
+2017,1401,,Tractor Supply,United States,$6.8 B,$437 M,$2.8 B,$9.1 B
+2017,1402,,Grupo Carso,Mexico,$5.1 B,$510 M,$5.3 B,$10.5 B
+2017,1402,,Materials Industry Zhongda Group,China,$29.2 B,$221 M,$12.6 B,$4.5 B
+2017,1404,,Almarai,Saudi Arabia,$3.9 B,$537 M,$7.7 B,$15.1 B
+2017,1405,,Open Text,Canada,$2 B,$1.1 B,$6.9 B,$8.7 B
+2017,1405,,RHB Bank,Malaysia,$2.6 B,$403 M,$52.8 B,$4.8 B
+2017,1407,,Targa Resources,United States,$6.7 B,$-187 M,$13 B,$11.6 B
+2017,1408,,Taylor Wimpey,United Kingdom,$5 B,$795 M,$5.9 B,$7.9 B
+2017,1409,,Banca Mediolanum,Italy,$1.7 B,$435 M,$44.2 B,$5.4 B
+2017,1409,,Expeditors International,United States,$6.1 B,$431 M,$2.8 B,$10.1 B
+2017,1409,,Inner Mongolia Baotou Steel,Mongolia,$3.8 B,$-267 M,$21.1 B,$14.6 B
+2017,1412,,Metro,Canada,$9.7 B,$430 M,$4.3 B,$7 B
+2017,1413,,Stockland Australia,Australia,$1.8 B,$665 M,$12.6 B,$8.6 B
+2017,1414,,Olam International,Singapore,$14.9 B,$255 M,$16.2 B,$3.8 B
+2017,1415,,Pinnacle West,United States,$3.5 B,$442 M,$16 B,$9.4 B
+2017,1416,,Chang Hwa Bank,Taiwan,$1.3 B,$375 M,$62.2 B,$5.5 B
+2017,1416,,Samsung SDS,South Korea,$7.1 B,$400 M,$5.7 B,$9.4 B
+2017,1418,,Brambles,Australia,$5.5 B,$424 M,$7.6 B,$11.2 B
+2017,1418,,Verisk Analytics,United States,$2 B,$589 M,$4.6 B,$13.2 B
+2017,1420,,Sealed Air,United States,$6.8 B,$473 M,$7.4 B,$8.3 B
+2017,1420,,Union Bank of India,India,$5.5 B,$207 M,$61.8 B,$1.6 B
+2017,1422,,British Land,United Kingdom,$851 M,$474 M,$17.3 B,$8.3 B
+2017,1423,,Seiko Epson,Japan,$9.4 B,$348 M,$8.4 B,$8.3 B
+2017,1424,,Barratt Developments,United Kingdom,$5.6 B,$771 M,$7.6 B,$7 B
+2017,1425,,NSK,Japan,$8.6 B,$434 M,$9 B,$7.3 B
+2017,1426,,Equifax,United States,$3.2 B,$489 M,$6.7 B,$16.3 B
+2017,1426,,Transurban Group,Australia,$1.9 B,$95 M,$17.1 B,$18.2 B
+2017,1428,,Perrigo,Ireland,$5.6 B,$-1.5 B,$17.5 B,$9.9 B
+2017,1429,,Rite Aid,United States,$32.6 B,$91 M,$11.7 B,$4.8 B
+2017,1430,,Coloplast,Denmark,$2.2 B,$485 M,$1.8 B,$16.3 B
+2017,1431,,Newcrest Mining,Australia,$3.6 B,$439 M,$11.2 B,$14 B
+2017,1432,,China Merchants Holdings,Hong Kong,$1 B,$708 M,$13.3 B,$7.6 B
+2017,1433,,Dassault Aviation,France,$4 B,$419 M,$14.4 B,$10.4 B
+2017,1434,,UBI Banca,Italy,$4.6 B,$-918 M,$118.5 B,$3.6 B
+2017,1435,,Bajaj Auto,India,$3.5 B,$578 M,$3.1 B,$12.8 B
+2017,1436,,Sabesp,Brazil,$4 B,$846 M,$11.6 B,$7.4 B
+2017,1437,,Steel Dynamics,United States,$7.8 B,$382 M,$6.4 B,$8.5 B
+2017,1438,,Ramsay Health Care,Australia,$6.6 B,$358 M,$5.9 B,$10.5 B
+2017,1439,,Equinix,United States,$3.6 B,$124 M,$12.6 B,$31.1 B
+2017,1440,,Coach,United States,$4.5 B,$511 M,$4.7 B,$11.1 B
+2017,1441,,Cosmo Energy Holdings,Japan,$19.7 B,$201 M,$13.5 B,$1.4 B
+2017,1441,,ISS,Denmark,$11.8 B,$329 M,$7 B,$7.2 B
+2017,1443,,Coca-Cola HBC,Switzerland,$6.9 B,$383 M,$6.9 B,$9.4 B
+2017,1443,,Goodman Group,Australia,$1.1 B,$678 M,$9.3 B,$10.8 B
+2017,1445,,Aeroports de Paris,France,$3.3 B,$481 M,$11.2 B,$11.9 B
+2017,1446,,E-mart,South Korea,$12.7 B,$324 M,$12.8 B,$5.5 B
+2017,1446,,RiseSun Real Estate Development,China,$4.1 B,$448 M,$19.2 B,$7.3 B
+2017,1448,,China National Chemical,China,$8.4 B,$368 M,$12.5 B,$6.5 B
+2017,1449,,Acciona,Spain,$6.6 B,$389 M,$18.4 B,$4.6 B
+2017,1449,,Fastenal,United States,$4 B,$500 M,$2.7 B,$14.5 B
+2017,1451,,Hyundai Glovis,South Korea,$13.2 B,$436 M,$6.6 B,$4.7 B
+2017,1452,,Hanesbrands,United States,$6 B,$539 M,$6.9 B,$7.8 B
+2017,1453,,Penske Automotive,United States,$20.1 B,$343 M,$8.9 B,$3.8 B
+2017,1454,,Shoprite Holdings,South Africa,$9.4 B,$344 M,$4 B,$7.9 B
+2017,1455,,Gjensidige Forsikring,Norway,$3.4 B,$556 M,$15.7 B,$7.4 B
+2017,1456,,McCormick,United States,$4.4 B,$472 M,$4.8 B,$12.4 B
+2017,1457,,Shanghai Commercial & Savings Bank,Taiwan,$1.3 B,$364 M,$51.1 B,$4.1 B
+2017,1457,,Shiseido,Japan,$7.8 B,$295 M,$8.1 B,$10.5 B
+2017,1459,,AVIC Capita,China,$1.4 B,$350 M,$23 B,$8.1 B
+2017,1460,,Melco International Development,Hong Kong,$3.1 B,$1.3 B,$13.4 B,$2.8 B
+2017,1461,,Citrix Systems,United States,$3.4 B,$536 M,$6.4 B,$13 B
+2017,1461,,Goldcorp,Canada,$3.5 B,$167 M,$21.5 B,$12.6 B
+2017,1463,,Realty Income,United States,$1.1 B,$316 M,$13.2 B,$16.3 B
+2017,1464,,AECOM Technology,United States,$17.5 B,$164 M,$13.5 B,$5.1 B
+2017,1465,,ITV,United Kingdom,$4.1 B,$598 M,$4.4 B,$10.8 B
+2017,1466,,Cheniere Energy,United States,$1.3 B,$-610 M,$23.7 B,$11.3 B
+2017,1467,,Banco Popular Espanol,Spain,$4.3 B,$-3.9 B,$156 B,$3.6 B
+2017,1468,,Agile Property Holdings,China,$7.1 B,$341 M,$19 B,$3.5 B
+2017,1468,,NCC Group,Sweden,$6.2 B,$936 M,$2.9 B,$2.6 B
+2017,1470,,Oji Holdings,Japan,$13 B,$93 M,$16.1 B,$4.3 B
+2017,1471,,Korean Air,South Korea,$10.1 B,$-487 M,$19.8 B,$2.6 B
+2017,1472,,Hong Leong Financial,Malaysia,$2 B,$371 M,$47.5 B,$4.2 B
+2017,1472,,Smurfit Kappa Group,Ireland,$9 B,$490 M,$9.6 B,$6 B
+2017,1474,,Abu Dhabi Islamic Bank,United Arab Emirates,$1.8 B,$449 M,$33.3 B,$3.4 B
+2017,1474,,Hyosung,South Korea,$10.3 B,$393 M,$11.7 B,$3.9 B
+2017,1476,,Aozora Bank,Japan,$1.1 B,$405 M,$41.1 B,$4.1 B
+2017,1477,,Ashtead Group,United Kingdom,$4 B,$644 M,$7.5 B,$10.5 B
+2017,1478,,Storebrand,Norway,$5.1 B,$252 M,$60.4 B,$2.9 B
+2017,1479,,Persimmon,United Kingdom,$4.2 B,$844 M,$5.1 B,$8.2 B
+2017,1480,,Ingredion,United States,$5.7 B,$482 M,$5.8 B,$8.6 B
+2017,1481,,KB Insurance,South Korea,$8.2 B,$258 M,$23.7 B,$1.6 B
+2017,1481,,Sistema,Russia,$10.8 B,$-45 M,$18.1 B,$3.7 B
+2017,1483,,Taishin Financial Holdings,Taiwan,$1.4 B,$354 M,$48.9 B,$3.9 B
+2017,1484,,Yamaguchi Financial,Japan,$1.5 B,$299 M,$87.5 B,$2.6 B
+2017,1485,,Mizrahi Tefahot Bank,Israel,$1.9 B,$330 M,$59.9 B,$3.9 B
+2017,1486,,Meritz Financial Group,South Korea,$6.7 B,$218 M,$30.9 B,$1.5 B
+2017,1487,,Kangmei Pharmaceutical,China,$3.2 B,$496 M,$7.9 B,$13.4 B
+2017,1488,,IHI,Japan,$14 B,$245 M,$14.7 B,$5.1 B
+2017,1489,,Scripps Networks Interactive,United States,$3.4 B,$674 M,$6.4 B,$10 B
+2017,1490,,Hang Lung Group,Hong Kong,$1.9 B,$478 M,$24 B,$6.1 B
+2017,1490,,Waters,United States,$2.2 B,$522 M,$4.7 B,$12.6 B
+2017,1492,,SEIBU,Japan,$4.7 B,$724 M,$13.6 B,$5.8 B
+2017,1493,,China Longyuan Power,China,$3.4 B,$516 M,$20 B,$6.4 B
+2017,1494,,Adient,Ireland,$16.6 B,$-1.5 B,$11.3 B,$6.3 B
+2017,1495,,Blom Bank,Lebanon,$2.4 B,$458 M,$29.5 B,$2.6 B
+2017,1496,,Hokuhoku Financial Group,Japan,$1.7 B,$279 M,$104.9 B,$2 B
+2017,1497,,Jiangsu Hengrui Medicine,China,$1.6 B,$390 M,$2.1 B,$18.7 B
+2017,1498,,Ametek,United States,$3.8 B,$512 M,$7.1 B,$12.5 B
+2017,1499,,STMicroelectronics,Switzerland,$7 B,$167 M,$8 B,$13.7 B
+2017,1500,,Dangote Cement,Nigeria,$2.4 B,$745 M,$4.9 B,$9.1 B
+2017,1500,,SDIC Essence,China,$1.6 B,$386 M,$18.5 B,$8.2 B
+2017,1502,,W?rtsil?,Finland,$5.3 B,$389 M,$5.7 B,$10.8 B
+2017,1503,,Oi,Brazil,$7.5 B,$-2 B,$25.2 B,$952 M
+2017,1504,,Maxim Integrated Products,United States,$2.2 B,$500 M,$3.9 B,$12.7 B
+2017,1505,,Chow Tai Fook Jewellery,Hong Kong,$6.4 B,$336 M,$6.9 B,$10.1 B
+2017,1506,,Shimano,Japan,$3 B,$469 M,$3.8 B,$13.6 B
+2017,1507,,Bank Muscat,Oman,$1.4 B,$459 M,$28.1 B,$2.8 B
+2017,1507,,Concordia Financial Group,Japan,$303 M,$58 M,$164.1 B,$5.7 B
+2017,1509,,Thai Oil,Thailand,$7.8 B,$602 M,$6.1 B,$4.4 B
+2017,1510,,Axiata Group,Malaysia,$5.2 B,$122 M,$15.7 B,$10.2 B
+2017,1511,,Turkish Airlines,Turkey,$9.7 B,$-15 M,$18.5 B,$2 B
+2017,1512,,Moscow Exchange,Russia,$652 M,$376 M,$40 B,$4.4 B
+2017,1513,,Adani Ports & Special Economic Zone,India,$1.2 B,$549 M,$6 B,$11.2 B
+2017,1514,,News Corp,United States,$8.1 B,$-363 M,$14.5 B,$7.3 B
+2017,1515,,Metalurgica Gerdau,Brazil,$10.8 B,$-395 M,$16.8 B,$1.4 B
+2017,1516,,Packaging Corp of America,United States,$5.8 B,$445 M,$5.8 B,$8.6 B
+2017,1517,,Oceanwide Holdings,China,$3.4 B,$410 M,$21.7 B,$6.9 B
+2017,1518,,China Communications Services,China,$13.3 B,$383 M,$9 B,$4.3 B
+2017,1518,,Hertz Global Holdings,United States,$9.1 B,$-492 M,$19.2 B,$1.3 B
+2017,1520,,Fresnillo,Mexico,$1.9 B,$432 M,$4.3 B,$14.8 B
+2017,1521,,DSV,Denmark,$10.1 B,$248 M,$5.7 B,$9.3 B
+2017,1522,,Alpha Bank,Greece,$4.6 B,$46 M,$68.4 B,$2.9 B
+2017,1523,,FleetCor Technologies,United States,$1.8 B,$449 M,$9.6 B,$13.4 B
+2017,1524,,IDBI Bank,India,$4.8 B,$-548 M,$56.6 B,$2.4 B
+2017,1525,,EMS-Chemie Holding,Switzerland,$2 B,$456 M,$2 B,$13.6 B
+2017,1526,,Whitbread,United Kingdom,$4.4 B,$570 M,$6 B,$9.1 B
+2017,1527,,Albemarle,United States,$2.9 B,$509 M,$8.2 B,$11.7 B
+2017,1527,,Taiwan Mobile,Taiwan,$3.6 B,$475 M,$4.7 B,$12.7 B
+2017,1529,,NEX Group,United Kingdom,$694 M,$107 M,$146.3 B,$2.7 B
+2017,1529,,Suruga Bank,Japan,$1.3 B,$371 M,$38.5 B,$4.4 B
+2017,1531,,Compal Electronics,Taiwan,$23.8 B,$252 M,$10.8 B,$2.8 B
+2017,1531,,Metropolitan Bank & Trust,Philippines,$2 B,$375 M,$37.8 B,$5.5 B
+2017,1531,,Mitsui Chemicals,Japan,$10.9 B,$362 M,$11 B,$4.8 B
+2017,1531,,TransDigm Group,United States,$3.3 B,$457 M,$10 B,$12.1 B
+2017,1535,,NiSource,United States,$4.5 B,$324 M,$18.7 B,$7.7 B
+2017,1536,,Banco BPI,Portugal,$819 M,$347 M,$43.5 B,$1.6 B
+2017,1536,,Taiheiyo Cement,Japan,$7.4 B,$616 M,$8.9 B,$4.1 B
+2017,1538,,Alstom,France,$7.9 B,$-1.1 B,$16.3 B,$6.6 B
+2017,1538,,Liberty Media Corporation Series A Liberty Formula One,United States,$5.3 B,$679 M,$3 B,$6.8 B
+2017,1540,,Lindt & Sprungli,Switzerland,$4 B,$426 M,$6.4 B,$14.6 B
+2017,1541,,Continental Resources,United States,$2.1 B,$-400 M,$14.4 B,$17.3 B
+2017,1542,,Vulcan Materials,United States,$3.6 B,$395 M,$8.8 B,$16.4 B
+2017,1543,,MISC,Malaysia,$2.3 B,$623 M,$12.5 B,$7.4 B
+2017,1543,,Uniqa,Austria,$5.7 B,$164 M,$35.1 B,$2.4 B
+2017,1545,,Companhia Brasileira de Distribuicao,Brazil,$12 B,$-139 M,$13.9 B,$5.9 B
+2017,1546,,Grupo Bolivar,Colombia,$3.8 B,$394 M,$33.7 B,$1.4 B
+2017,1546,,Hiroshima Bank,Japan,$1.3 B,$282 M,$76.4 B,$2.6 B
+2017,1548,,Yunnan Baiyao Group,China,$3.4 B,$457 M,$3.4 B,$13.1 B
+2017,1549,,Alinma Bank,Saudi Arabia,$1.1 B,$401 M,$27.9 B,$6 B
+2017,1550,,Ferrari,Italy,$3.4 B,$441 M,$4.1 B,$13.6 B
+2017,1550,,LG Uplus,South Korea,$9.9 B,$425 M,$9.9 B,$5.7 B
+2017,1552,,Ensco,United Kingdom,$2.8 B,$874 M,$14.4 B,$2.8 B
+2017,1553,,Assured Guaranty,Bermuda,$1.4 B,$881 M,$14.2 B,$4.8 B
+2017,1554,,Banco BPM SpA,Italy,$3.2 B,$-1.9 B,$123.8 B,$4.3 B
+2017,1554,,EFG International,Switzerland,$1.1 B,$344 M,$41.6 B,$1.7 B
+2017,1556,,Rajesh Exports,India,$36.3 B,$173 M,$3.5 B,$2.8 B
+2017,1557,,Wendel,France,$9.2 B,$-449 M,$17.2 B,$5.8 B
+2017,1558,,Spirit AeroSystems,United States,$6.8 B,$469 M,$5.4 B,$6.8 B
+2017,1559,,Terumo,Japan,$4.6 B,$359 M,$9.1 B,$13.1 B
+2017,1560,,Office Depot,United States,$12.3 B,$380 M,$5.5 B,$2.5 B
+2017,1561,,Shizuoka Bank,Japan,$1.9 B,$262 M,$102.2 B,$5.1 B
+2017,1562,,Mercuries & Associates,Taiwan,$6.1 B,$64 M,$30.1 B,$560 M
+2017,1563,,Bank Otkritie,Russia,$4.9 B,$206 M,$48.3 B,$4.1 B
+2017,1563,,Foshan Haitian Flavouring and Food Company,China,$1.9 B,$428 M,$1.9 B,$14 B
+2017,1563,,Staples,United States,$19.8 B,$-1.4 B,$8.3 B,$6.4 B
+2017,1563,,Zhengzhou Yutong Bus,China,$5.4 B,$609 M,$5.1 B,$6.9 B
+2017,1567,,Industrial Securities,China,$1.3 B,$412 M,$17.4 B,$7.5 B
+2017,1567,,Pacific Exploration & Production,Canada,$1.4 B,$2.5 B,$2.7 B,$1.6 B
+2017,1569,,Ihs Markit,United Kingdom,$2.7 B,$153 M,$14 B,$17.2 B
+2017,1570,,Bendigo & Adelaide Bank,Australia,$2.2 B,$309 M,$51.4 B,$4.2 B
+2017,1571,,US Foods,United States,$22.9 B,$210 M,$8.9 B,$6.1 B
+2017,1572,,CCR,Brazil,$2.9 B,$492 M,$7.5 B,$11.5 B
+2017,1572,,Church & Dwight,United States,$3.5 B,$459 M,$4.4 B,$12.6 B
+2017,1574,,Yamada Denki,Japan,$14.4 B,$305 M,$10.5 B,$4.8 B
+2017,1575,,BCV Group,Switzerland,$1.2 B,$314 M,$43.4 B,$5.9 B
+2017,1575,,Hankook Tire,South Korea,$5.7 B,$752 M,$8 B,$5.9 B
+2017,1575,,Martin Marietta Materials,United States,$3.8 B,$423 M,$7.6 B,$14 B
+2017,1578,,Intelsat,Luxembourg,$2.2 B,$990 M,$12.9 B,$504 M
+2017,1579,,Royal Mail,United Kingdom,$13.4 B,$302 M,$11 B,$5.1 B
+2017,1580,,Orkla,Norway,$4.5 B,$511 M,$6.5 B,$9.1 B
+2017,1580,,Saipem,Italy,$11 B,$-2.3 B,$15.1 B,$4.5 B
+2017,1582,,Aeroflot-Russian Airlines,Russia,$7.4 B,$559 M,$4.9 B,$3.2 B
+2017,1582,,Westlake Chemical,United States,$5.1 B,$397 M,$10.9 B,$8.7 B
+2017,1584,,Canadian Utilities,Canada,$2.6 B,$468 M,$14 B,$7.9 B
+2017,1584,,Suzuken,Japan,$20.1 B,$244 M,$10.6 B,$3.2 B
+2017,1586,,Concho Resources,United States,$1.6 B,$-1.5 B,$12.5 B,$19.1 B
+2017,1587,,Hero Motocorp,India,$4.3 B,$473 M,$1.9 B,$10 B
+2017,1587,,Pembina Pipeline,Canada,$3.2 B,$352 M,$11.2 B,$13 B
+2017,1589,,Union National Bank,United Arab Emirates,$1.4 B,$409 M,$28.3 B,$3.4 B
+2017,1590,,Gunma Bank,Japan,$1.3 B,$276 M,$68.2 B,$2.3 B
+2017,1591,,Novozymes,Denmark,$2.1 B,$453 M,$2.8 B,$12.2 B
+2017,1592,,Avis Budget Group,United States,$8.7 B,$163 M,$17.8 B,$2.3 B
+2017,1593,,Sumitomo Metal Mining,Japan,$7 B,$-404 M,$13.9 B,$7.7 B
+2017,1594,,China International Marine,China,$7.6 B,$77 M,$17.9 B,$6 B
+2017,1594,,ONO Pharmaceutical,Japan,$2.2 B,$444 M,$5 B,$12.3 B
+2017,1596,,Maxis,Malaysia,$2.1 B,$486 M,$4.4 B,$10.8 B
+2017,1597,,BM&F Bovespa,Brazil,$666 M,$415 M,$9.7 B,$12.8 B
+2017,1598,,CNO Financial Group,United States,$4 B,$358 M,$32 B,$3.6 B
+2017,1599,,Piraeus Bank,Greece,$3.4 B,$-39 M,$86 B,$1.6 B
+2017,1600,,World Fuel Services,United States,$26.9 B,$127 M,$5.4 B,$2.5 B
+2017,1601,,CJ Cheiljedang,South Korea,$12.6 B,$238 M,$13.1 B,$4 B
+2017,1602,,Tiffany & Co.,United States,$4 B,$446 M,$5.1 B,$11.6 B
+2017,1603,,XPO Logistics,United States,$14.6 B,$63 M,$11.7 B,$5.3 B
+2017,1604,,BBVA Banco Continental,Peru,$1.8 B,$397 M,$23.5 B,$6.2 B
+2017,1604,,Tech Data,United States,$26.2 B,$195 M,$7.9 B,$3.4 B
+2017,1606,,National Bank of Greece,Greece,$3.1 B,$252 M,$82.8 B,$2.4 B
+2017,1607,,EasyJet,United Kingdom,$6.6 B,$606 M,$7.2 B,$5.1 B
+2017,1608,,HRG Group,United States,$5.2 B,$37 M,$35.7 B,$3.9 B
+2017,1608,,Kyushu Financial Group,Japan,$1.5 B,$125 M,$82.6 B,$2.8 B
+2017,1610,,Boliden,Sweden,$4.7 B,$495 M,$6 B,$8.5 B
+2017,1610,,NVR,United States,$5.8 B,$425 M,$2.6 B,$7.7 B
+2017,1612,,Alliant Energy,United States,$3.3 B,$382 M,$14 B,$9 B
+2017,1613,,Nishi-nippon Financial Holdings,Japan,$1.3 B,$223 M,$81.4 B,$1.7 B
+2017,1614,,Fortune Brands Home & Security,United States,$5 B,$408 M,$5.1 B,$9.5 B
+2017,1615,,NetApp,United States,$5.4 B,$311 M,$9.1 B,$11.1 B
+2017,1616,,Snap-on,United States,$3.7 B,$546 M,$4.7 B,$9.5 B
+2017,1617,,Bank of Qingdao,China,$1.6 B,$316 M,$40 B,$3.7 B
+2017,1617,,Far East Horizon,Hong Kong,$2.1 B,$434 M,$24 B,$3.6 B
+2017,1619,,Garmin,Switzerland,$3 B,$511 M,$4.5 B,$10 B
+2017,1619,,People's United Financial,United States,$1.5 B,$280 M,$40.9 B,$6.1 B
+2017,1621,,North Pacific Bank,Japan,$1 B,$174 M,$77.1 B,$1.4 B
+2017,1622,,Grasim Industries,India,$5.3 B,$461 M,$9.1 B,$7.7 B
+2017,1623,,Banco Comercial Portugues,Portugal,$3.1 B,$27 M,$75.2 B,$2.9 B
+2017,1624,,Moscovskiy Oblastnoi Bank,Russia,$2.6 B,$1.7 B,$4.5 B,$363 M
+2017,1624,,Rexel,France,$14.6 B,$153 M,$11.5 B,$5.3 B
+2017,1626,,Axis Capital Holdings,Bermuda,$4 B,$512 M,$18.5 B,$5.7 B
+2017,1626,,Bank of Kyoto,Japan,$947 M,$156 M,$75 B,$2.7 B
+2017,1628,,Hachijuni Bank,Japan,$1.8 B,$252 M,$74 B,$2.7 B
+2017,1629,,Guangdong Investment,Hong Kong,$1.3 B,$543 M,$6.7 B,$9.4 B
+2017,1630,,Chugoku Bank,Japan,$1.2 B,$219 M,$73.3 B,$2.7 B
+2017,1631,,77 Bank,Japan,$900 M,$88 M,$72.5 B,$1.6 B
+2017,1631,,STRABAG,Austria,$14 B,$225 M,$11.5 B,$3.8 B
+2017,1633,,SBI Holdings,Japan,$2.5 B,$359 M,$29.8 B,$2.9 B
+2017,1633,,Vietin Bank,Vietnam,$2.7 B,$304 M,$41.7 B,$3 B
+2017,1635,,GPT Group,Australia,$549 M,$857 M,$8.6 B,$7 B
+2017,1635,,Shandong Gold Mining,China,$7.5 B,$195 M,$4.1 B,$9.7 B
+2017,1637,,Jabil Circuit,United States,$18.3 B,$152 M,$10 B,$5.2 B
+2017,1638,,Sears Holdings,United States,$22.1 B,$-2.2 B,$9.4 B,$1.2 B
+2017,1639,,Smiths Group,United Kingdom,$4.3 B,$576 M,$5.8 B,$8 B
+2017,1640,,Eurobank Ergasias,Greece,$2.2 B,$254 M,$70 B,$1.4 B
+2017,1641,,Tsinghua Tongfang,China,$4.2 B,$887 M,$8.9 B,$6.5 B
+2017,1642,,BPER Banca,Italy,$2.7 B,$16 M,$68.5 B,$2.3 B
+2017,1643,,China Jinmao,Hong Kong,$4.2 B,$382 M,$24 B,$3.5 B
+2017,1644,,Vertex Pharmaceuticals,United States,$1.7 B,$-112 M,$2.9 B,$28.8 B
+2017,1645,,Dixons Carphone,United Kingdom,$14.2 B,$302 M,$9.4 B,$4.5 B
+2017,1645,,Incyte,United States,$1.1 B,$104 M,$1.6 B,$28.6 B
+2017,1647,,President Chain Store,Taiwan,$6.7 B,$305 M,$3 B,$8.8 B
+2017,1648,,New Residential Investment,United States,$1.2 B,$505 M,$18.4 B,$5.2 B
+2017,1649,,Deutsche Pfandbriefbank,Germany,$2.2 B,$218 M,$66.1 B,$1.7 B
+2017,1650,,MAp,Australia,$1 B,$421 M,$8.9 B,$11.6 B
+2017,1651,,BorgWarner,United States,$9.1 B,$119 M,$8.8 B,$8.1 B
+2017,1652,,Chimera Investment,United States,$942 M,$552 M,$16.7 B,$3.8 B
+2017,1653,,ProSiebenSat1 Media,Germany,$4.2 B,$445 M,$7.1 B,$9.9 B
+2017,1653,,Shanghai Lujianzi,China,$1.9 B,$395 M,$11.5 B,$9.6 B
+2017,1655,,Tosoh,Japan,$6.4 B,$564 M,$6.5 B,$5.6 B
+2017,1656,,Dana Holding,United States,$5.8 B,$640 M,$4.9 B,$2.6 B
+2017,1656,,Joint Stock Commercial Bank for Foreign Trade of Vietnam,Vietnam,$2.1 B,$305 M,$34.6 B,$5.8 B
+2017,1656,,SL Green Realty,United States,$1.7 B,$261 M,$15.9 B,$10.8 B
+2017,1659,,Beijing Shougang,China,$6.3 B,$60 M,$18.3 B,$6.3 B
+2017,1659,,Sysmex,Japan,$2.3 B,$378 M,$2.3 B,$12.9 B
+2017,1661,,Want Want China,China,$3 B,$530 M,$3.9 B,$9.1 B
+2017,1662,,WellCare Health Plans,United States,$14.2 B,$241 M,$6.2 B,$6.3 B
+2017,1663,,Catcher Technology,Taiwan,$2.5 B,$683 M,$5.6 B,$7.6 B
+2017,1664,,Central Bank of India,India,$4.3 B,$-167 M,$46.4 B,$3 B
+2017,1664,,Iyo Bank,Japan,$987 M,$194 M,$59.6 B,$2.1 B
+2017,1666,,Mettler-Toledo International,United States,$2.5 B,$384 M,$2.2 B,$12.5 B
+2017,1667,,New Hope Liuhe,China,$9.1 B,$390 M,$5.6 B,$5 B
+2017,1667,,Wistron,Taiwan,$19.2 B,$43 M,$9.4 B,$2.3 B
+2017,1669,,American Equity Investment,United States,$2.1 B,$83 M,$58.3 B,$2.1 B
+2017,1670,,Cnpc Capital,China,$83 M,$-39 M,$289 M,$25.7 B
+2017,1671,,Michael Kors Holdings,United Kingdom,$4.6 B,$756 M,$2.8 B,$6.1 B
+2017,1671,,Ternium,Luxembourg,$6 B,$596 M,$8.3 B,$5.1 B
+2017,1673,,Israel Discount Bank,Israel,$2.4 B,$236 M,$57.1 B,$2.8 B
+2017,1673,,Signet Jewelers,Bermuda,$6.4 B,$543 M,$6.6 B,$4.7 B
+2017,1675,,Empire,Canada,$18.4 B,$-618 M,$6.7 B,$4.1 B
+2017,1676,,PacWest Bancorp,United States,$1.1 B,$348 M,$22 B,$6.3 B
+2017,1676,,Techtronic Industries,Hong Kong,$5.5 B,$409 M,$5.1 B,$7.6 B
+2017,1676,,Tokyu Fudosan,Japan,$7.1 B,$245 M,$18.3 B,$3.3 B
+2017,1679,,Hengan International Group,China,$2.9 B,$501 M,$4.9 B,$9.2 B
+2017,1679,,Moody's,United States,$3.6 B,$267 M,$5.3 B,$21.6 B
+2017,1681,,Juroku Bank,Japan,$1 B,$103 M,$54.7 B,$1.2 B
+2017,1682,,AU Optronics,Taiwan,$10.2 B,$242 M,$13.3 B,$3.8 B
+2017,1682,,Commercial Bank For Investment & Development Of Vietnam,Vietnam,$3.3 B,$275 M,$44.2 B,$2.6 B
+2017,1684,,Shaw Communications,Canada,$3.8 B,$357 M,$11.4 B,$10.1 B
+2017,1685,,Haseko,Japan,$7.1 B,$477 M,$5 B,$3.1 B
+2017,1686,,Bureau Veritas Registre International de Classific,France,$5 B,$353 M,$6.4 B,$9.4 B
+2017,1687,,DSME,South Korea,$11 B,$-2.3 B,$12.4 B,$1.1 B
+2017,1688,,CST Brands,United States,$11.1 B,$324 M,$4.4 B,$3.7 B
+2017,1688,,Molina Healthcare,United States,$17.8 B,$52 M,$7.4 B,$2.7 B
+2017,1690,,Brilliance China Automotive Holdings,Hong Kong,$771 M,$554 M,$4.5 B,$8.4 B
+2017,1690,,Toho Bank,Japan,$665 M,$74 M,$53.3 B,$912 M
+2017,1692,,Cattolica Assicurazioni,Italy,$5.5 B,$84 M,$24.8 B,$1.4 B
+2017,1692,,EQT,United States,$1.8 B,$-453 M,$15.5 B,$10.9 B
+2017,1694,,Snap,United States,$404 M,$-515 M,$1.7 B,$24.4 B
+2017,1695,,Tongyang Life Insurance,South Korea,$6 B,$10 M,$22.1 B,$945 M
+2017,1696,,Samsung Heavy Industries,South Korea,$9 B,$-104 M,$14.3 B,$3.4 B
+2017,1696,,SinoPac Financial,Taiwan,$1.5 B,$257 M,$52.1 B,$3.3 B
+2017,1698,,INTL FCStone,United States,$17.4 B,$51 M,$6.3 B,$681 M
+2017,1699,,Commercial International Bank,Egypt,$2.2 B,$597 M,$14.8 B,$5 B
+2017,1700,,Cybg,United Kingdom,$1.8 B,$-281 M,$51.9 B,$3.1 B
+2017,1700,,Orient,Japan,$2 B,$270 M,$44.8 B,$3 B
+2017,1702,,Wynn Resorts,United States,$4.5 B,$242 M,$12 B,$11.9 B
+2017,1703,,Hopson Development Holdings,Hong Kong,$2.1 B,$498 M,$17.2 B,$2.1 B
+2017,1704,,JTEKT,Japan,$12.1 B,$295 M,$9.7 B,$5.3 B
+2017,1704,,Nippon Paint,Japan,$5.8 B,$250 M,$7.1 B,$11.6 B
+2017,1706,,Calpine,United States,$6.6 B,$92 M,$19.3 B,$3.8 B
+2017,1707,,BayWa,Germany,$17 B,$34 M,$6.8 B,$1.1 B
+2017,1707,,Migdal Insurance,Israel,$4.5 B,$53 M,$34.8 B,$1 B
+2017,1709,,Changjiang Securities,China,$894 M,$332 M,$15.4 B,$8.1 B
+2017,1710,,Aareal Bank,Germany,$1.3 B,$220 M,$51.1 B,$2.2 B
+2017,1710,,Kansas City Southern,United States,$2.4 B,$478 M,$9 B,$9.3 B
+2017,1712,,Dufry,Switzerland,$7.9 B,$3 M,$9.8 B,$8 B
+2017,1712,,Interconexion Electrica,Colombia,$4 B,$700 M,$12.8 B,$4.5 B
+2017,1712,,San-In Godo Bank,Japan,$830 M,$140 M,$50.8 B,$1.2 B
+2017,1715,,Nanto Bank,Japan,$710 M,$130 M,$50.7 B,$967 M
+2017,1716,,Li & Fung,Hong Kong,$16.8 B,$223 M,$7.7 B,$3.6 B
+2017,1716,,Lupin,India,$2.5 B,$444 M,$3.6 B,$9.9 B
+2017,1718,,Encana,Canada,$3.2 B,$-949 M,$14.7 B,$11.3 B
+2017,1719,,City Developments,Singapore,$2.8 B,$473 M,$13.7 B,$6.7 B
+2017,1719,,WPG Holdings,Taiwan,$16.6 B,$165 M,$5.6 B,$2.2 B
+2017,1721,,KWG Property Holding,Hong Kong,$1.3 B,$520 M,$15.9 B,$2.3 B
+2017,1722,,Huntsman,United States,$9.7 B,$326 M,$9.2 B,$5.9 B
+2017,1722,,Sino Land,Hong Kong,$2.2 B,$439 M,$19.3 B,$5.2 B
+2017,1724,,Bohai Financial Investment Holding,China,$3.1 B,$272 M,$29.3 B,$6.4 B
+2017,1725,,Tokyo TY Financial Group,Japan,$731 M,$250 M,$48.9 B,$853 M
+2017,1726,,Nippon Steel Trading,Japan,$16.4 B,$169 M,$5.8 B,$1.3 B
+2017,1727,,Bank of Greece,Greece,$1.9 B,$1.2 B,-,$240 M
+2017,1728,,Performance Food Group,United States,$16.4 B,$74 M,$3.6 B,$2.4 B
+2017,1729,,Ogaki Kyoritsu Bank,Japan,$914 M,$119 M,$48.5 B,$1.2 B
+2017,1730,,Hyakugo Bank,Japan,$610 M,$78 M,$48.2 B,$994 M
+2017,1731,,Daishi Bank,Japan,$656 M,$105 M,$48 B,$1.3 B
+2017,1732,,Senshu Ikeda Holdings,Japan,$899 M,$115 M,$47.9 B,$1.1 B
+2017,1733,,Supervalu,United States,$16 B,$103 M,$4.5 B,$996 M
+2017,1734,,NASDAQ OMX Group,United States,$3.7 B,$109 M,$14.2 B,$11.5 B
+2017,1735,,CPFL Energia,Brazil,$5.4 B,$258 M,$13 B,$8.4 B
+2017,1735,,Severn Trent,United Kingdom,$2.6 B,$534 M,$11.2 B,$7 B
+2017,1737,,PBF Energy,United States,$15.9 B,$171 M,$7.6 B,$2.3 B
+2017,1738,,Crown Resorts,Australia,$2.6 B,$820 M,$6.5 B,$6.5 B
+2017,1738,,Mirae Asset Daewoo,South Korea,$1.3 B,$34 M,$47.4 B,$5.1 B
+2017,1740,,Shiga Bank,Japan,$647 M,$133 M,$47.2 B,$1.3 B
+2017,1740,,SK Networks,South Korea,$15.9 B,$-70 M,$7.2 B,$1.7 B
+2017,1742,,Banco de Chile,Chile,$3.8 B,$131 M,$47.1 B,$4.5 B
+2017,1743,,Showa Shell Sekiyu,Japan,$15.9 B,$156 M,$8.4 B,$3.8 B
+2017,1744,,Turkcell,Turkey,$4.7 B,$508 M,$9 B,$7.1 B
+2017,1745,,Syndicate Bank,India,$3.9 B,$-232 M,$46.7 B,$985 M
+2017,1746,,Affiliated Managers Group,United States,$2.2 B,$471 M,$8.7 B,$9.1 B
+2017,1746,,Vipshop Holdings,China,$8.4 B,$300 M,$3.6 B,$6.8 B
+2017,1748,,Isetan Mitsukoshi Holdings,Japan,$11.5 B,$203 M,$11.2 B,$4.2 B
+2017,1749,,Taiwan Business Bank,Taiwan,$934 M,$161 M,$46.5 B,$1.6 B
+2017,1750,,CalAtlantic Group,United States,$6.5 B,$484 M,$8.7 B,$4.3 B
+2017,1751,,Waste Connections,Canada,$3.3 B,$198 M,$11.2 B,$15.4 B
+2017,1752,,Nürnberger,Germany,$4.6 B,$64 M,$30.7 B,$837 M
+2017,1753,,KION Group,Germany,$6.2 B,$272 M,$12.5 B,$7.1 B
+2017,1754,,International Flavors & Fragrances,United States,$3.1 B,$404 M,$4 B,$10.4 B
+2017,1755,,China National Materials,China,$7.5 B,$88 M,$15.6 B,$1.3 B
+2017,1755,,Prada,Italy,$3.9 B,$365 M,$5.1 B,$11.4 B
+2017,1757,,Indorama Ventures,Thailand,$7.2 B,$429 M,$7.3 B,$4.9 B
+2017,1758,,Korea Zinc,South Korea,$5 B,$511 M,$5.4 B,$6.5 B
+2017,1759,,Nomura Research Institute,Japan,$3.8 B,$470 M,$5.3 B,$9 B
+2017,1760,,Tingyi Holding,China,$8.4 B,$177 M,$8.1 B,$7.6 B
+2017,1761,,Tenneco,United States,$8.6 B,$363 M,$4.3 B,$3.2 B
+2017,1762,,Cullen/Frost Bankers,United States,$1.1 B,$303 M,$30.2 B,$5.7 B
+2017,1762,,First Pacific,Hong Kong,$6.8 B,$103 M,$17.2 B,$3.3 B
+2017,1764,,Logan Property Holdings,China,$3.1 B,$671 M,$12.4 B,$3.1 B
+2017,1765,,DGB Financial Group,South Korea,$2.5 B,$248 M,$44.3 B,$1.7 B
+2017,1766,,Shanghai Fosun Pharmaceutical (group),China,$2.2 B,$423 M,$6.3 B,$9.8 B
+2017,1767,,Central Puerto,Argentina,$360 M,$120 M,$811 M,$20.2 B
+2017,1768,,Xishui Strong Year Ltd. Inner Mongolia,China,$3.8 B,$-29 M,$44.2 B,$2.4 B
+2017,1769,,China Mengniu Dairy,Hong Kong,$8.1 B,$-113 M,$7.1 B,$7.7 B
+2017,1770,,Securitas,Sweden,$10.3 B,$309 M,$5.3 B,$5.8 B
+2017,1771,,AmBank Group,Malaysia,$1.7 B,$306 M,$28.8 B,$3.3 B
+2017,1771,,Ningbo Port,China,$2.4 B,$378 M,$8.4 B,$10.8 B
+2017,1771,,Penn Virginia,United States,$132 M,$1 B,$292 M,$732 M
+2017,1774,,Chongqing New Century Cruise,China,$267 M,$120 M,$1.2 B,$20 B
+2017,1775,,Jacobs Engineering,United States,$10.7 B,$224 M,$7.1 B,$6.6 B
+2017,1775,,Red Star Macalline Group,China,$1.4 B,$609 M,$13.2 B,$4.1 B
+2017,1777,,Virgin Money Holdings,United Kingdom,$1.4 B,$189 M,$43.3 B,$1.7 B
+2017,1778,,Mattel,United States,$5.5 B,$318 M,$6.5 B,$8.5 B
+2017,1779,,Credit Saison,Japan,$3.1 B,$345 M,$23.8 B,$3.3 B
+2017,1779,,Mirvac Group,Australia,$1.9 B,$794 M,$8.6 B,$6.3 B
+2017,1781,,Hyakujushi Bank,Japan,$728 M,$83 M,$42.9 B,$961 M
+2017,1782,,GameStop,United States,$8.6 B,$353 M,$5 B,$2.2 B
+2017,1783,,Asian Paints,India,$2.3 B,$281 M,$1.7 B,$16.1 B
+2017,1783,,Frasers Centrepoint,Singapore,$2.7 B,$450 M,$17.1 B,$3.7 B
+2017,1785,,Xiamen Xiangyu,China,$14.6 B,$76 M,$5.2 B,$1.9 B
+2017,1786,,Credito Emiliano,Italy,$1.6 B,$146 M,$41.7 B,$2.2 B
+2017,1786,,Remgro,South Africa,$1.9 B,$494 M,$8.5 B,$8.4 B
+2017,1788,,Core-Mark Holding Company,United States,$14.5 B,$54 M,$1.5 B,$1.4 B
+2017,1788,,Kiyo Bank,Japan,$665 M,$110 M,$41.7 B,$1 B
+2017,1790,,Shenzhou International Group Holdings,China,$2.3 B,$444 M,$3.1 B,$9.1 B
+2017,1790,,SYNNEX,United States,$14.5 B,$248 M,$5.1 B,$4.2 B
+2017,1792,,Damac Properties,United Arab Emirates,$1.9 B,$1 B,$6.7 B,$4.7 B
+2017,1793,,Aboitiz Equity Ventures,Philippines,$2.5 B,$487 M,$8.1 B,$8.4 B
+2017,1793,,HD Supply Holdings,United States,$7.4 B,$202 M,$6 B,$8.1 B
+2017,1795,,RioCan Real Estate Investment Trust,Canada,$885 M,$627 M,$10.6 B,$6.4 B
+2017,1796,,Emera,Canada,$3.2 B,$193 M,$21.8 B,$7.4 B
+2017,1796,,Grupo Zuliano,Venezuela,undefined,$999 M,$1.5 B,$72 M
+2017,1798,,InterContinental Hotels,United Kingdom,$1.7 B,$415 M,$2.9 B,$9.6 B
+2017,1799,,Impulsora del Desarrollo y el Empleo en America Latina SAB Class B,Mexico,$847 M,$997 M,$5.3 B,$4.9 B
+2017,1800,,Accor,France,$1.8 B,$252 M,$12.5 B,$12.1 B
+2017,1800,,Liberbank,Spain,$1.2 B,$143 M,$40.4 B,$1.1 B
+2017,1802,,Bandai Namco Holdings,Japan,$5.6 B,$428 M,$4.2 B,$6.5 B
+2017,1802,,Zenith Bank,Nigeria,$2.1 B,$499 M,$15 B,$1.5 B
+2017,1804,,Fullshare Holdings,Hong Kong,$645 M,$468 M,$6.9 B,$8.6 B
+2017,1804,,Hologic,United States,$2.9 B,$332 M,$7.3 B,$11.9 B
+2017,1804,,Keiyo Bank,Japan,$627 M,$125 M,$40 B,$1.1 B
+2017,1807,,Banque Centrale Populaire,Morocco,$2.4 B,$270 M,$34.8 B,$4.7 B
+2017,1807,,Owens Corning,United States,$5.7 B,$393 M,$7.7 B,$6.8 B
+2017,1809,,Autodesk,United States,$2 B,$-584 M,$4.8 B,$18.7 B
+2017,1810,,Yonghui Superstores,China,$7.4 B,$187 M,$4.2 B,$8 B
+2017,1811,,Banca Popolare di Sondrio,Italy,$1.3 B,$109 M,$39.2 B,$1.5 B
+2017,1811,,VeriSign,United States,$1.1 B,$441 M,$2.3 B,$8.9 B
+2017,1813,,Antofagasta,United Kingdom,$3.7 B,$113 M,$13.7 B,$10.6 B
+2017,1813,,Fuyao Glass Industry Group,China,$2.5 B,$472 M,$4.3 B,$8.4 B
+2017,1815,,Bank of Queensland,Australia,$1.7 B,$247 M,$39.2 B,$3.5 B
+2017,1816,,Angang Steel,China,$8.7 B,$241 M,$12.7 B,$5.3 B
+2017,1817,,Kingboard Chemical Holdings,Hong Kong,$4.6 B,$648 M,$9.9 B,$4 B
+2017,1817,,Wanhua Chemical Group,China,$3.9 B,$409 M,$7.7 B,$9.5 B
+2017,1819,,Habib Bank,Pakistan,$1.6 B,$325 M,$24.1 B,$3.7 B
+2017,1819,,Umicore,Belgium,$11.6 B,$145 M,$4.4 B,$6 B
+2017,1821,,Popular,Puerto Rico,$1.9 B,$217 M,$38.7 B,$4.2 B
+2017,1822,,Chesapeake Energy,United States,$8.4 B,$-4.2 B,$13 B,$5.6 B
+2017,1823,,Golden Agri-Resources,Singapore,$7.2 B,$397 M,$8.3 B,$3.3 B
+2017,1824,,Far Eastern New Century,Taiwan,$6.7 B,$196 M,$15.9 B,$4.5 B
+2017,1825,,Musashino Bank,Japan,$609 M,$106 M,$38 B,$952 M
+2017,1826,,JB Financial Group,South Korea,$1.8 B,$114 M,$37.9 B,$799 M
+2017,1827,,Basler Kantonalbank,Switzerland,$732 M,$124 M,$37.9 B,$3 B
+2017,1828,,Indian Overseas Bank,India,$3.5 B,$-552 M,$37.8 B,$1 B
+2017,1829,,Bid Corp.,South Africa,$9.4 B,$255 M,$3.8 B,$6.7 B
+2017,1829,,Marine Harvest ASA,Norway,$3.9 B,$594 M,$5.1 B,$7 B
+2017,1829,,Nippon Paper Industries,Japan,$9 B,$-166 M,$12 B,$2.1 B
+2017,1829,,TAQA,United Arab Emirates,$4.4 B,$-5.2 B,$28.4 B,$941 M
+2017,1829,,United Aircraft,Russia,$6.2 B,$-37 M,$17.2 B,$4.4 B
+2017,1834,,Inventec,Taiwan,$13.3 B,$175 M,$5.7 B,$2.6 B
+2017,1835,,Bluescope Steel,Australia,$7.4 B,$381 M,$6.8 B,$5.1 B
+2017,1836,,Hanwa,Japan,$13.2 B,$249 M,$5.9 B,$1.4 B
+2017,1836,,Makita,Japan,$3.7 B,$400 M,$5 B,$9.5 B
+2017,1838,,China Railway Signal & Communication,China,$4.4 B,$460 M,$7.2 B,$7.3 B
+2017,1839,,Shanghai Industrial Holdings,Hong Kong,$2.9 B,$374 M,$19.5 B,$3.3 B
+2017,1840,,Xiamen International Trade Group,China,$13.1 B,$151 M,$8.6 B,$2.2 B
+2017,1841,,Hokkoku Bank,Japan,$607 M,$136 M,$36.5 B,$1.1 B
+2017,1842,,Dali Foods Group,China,$2.7 B,$473 M,$2.4 B,$8 B
+2017,1843,,Commercial Bank of Qatar,Qatar,$1.7 B,$77 M,$35.8 B,$3.4 B
+2017,1843,,Industrias Pe?oles,Mexico,$4.4 B,$307 M,$6.9 B,$10.4 B
+2017,1845,,Allahabad Bank,India,$3.2 B,$-110 M,$35.7 B,$838 M
+2017,1845,,Avery Dennison,United States,$6.1 B,$321 M,$4.4 B,$7.1 B
+2017,1845,,Merlin Properties SOCIMI S.A,Spain,$401 M,$645 M,$11.5 B,$5.4 B
+2017,1845,,Petro Rabigh,Saudi Arabia,$6.7 B,$10 M,$15.5 B,$3 B
+2017,1849,,Phosagro,Russia,$2.8 B,$894 M,$3.8 B,$5.5 B
+2017,1849,,UCO Bank,India,$2.9 B,$-443 M,$35.7 B,$905 M
+2017,1851,,China Molybdenum,China,$1 B,$150 M,$12.7 B,$11 B
+2017,1852,,NH Investment & Securities,South Korea,$1.5 B,$204 M,$35.6 B,$3 B
+2017,1853,,Japan Securities,Japan,$212 M,$29 M,$35.6 B,$514 M
+2017,1854,,Corporation Bank,India,$3.2 B,$-77 M,$35.5 B,$980 M
+2017,1854,,Public Power,Greece,$5.8 B,$75 M,$18.1 B,$754 M
+2017,1856,,Tongling Nonferrous Metals,China,$12.8 B,$-115 M,$6.1 B,$4.9 B
+2017,1857,,Zhongsheng Group Holdings,China,$10.8 B,$279 M,$5.7 B,$3.1 B
+2017,1858,,Alawwal Bank,Saudi Arabia,$1.4 B,$284 M,$28 B,$3.4 B
+2017,1859,,Oriental Bank of Commerce,India,$3.2 B,$22 M,$34.9 B,$769 M
+2017,1860,,Paramount Res,Canada,$186 M,$880 M,$1.5 B,$1.4 B
+2017,1861,,Toyota Boshoku,Japan,$12.5 B,$84 M,$5.6 B,$4 B
+2017,1862,,JC Penney,United States,$12.5 B,$1 M,$9.3 B,$1.8 B
+2017,1863,,Spectrum Brands Holdings,United States,$5.1 B,$331 M,$7 B,$8.1 B
+2017,1864,,G4S,United Kingdom,$10.2 B,$267 M,$6.9 B,$6 B
+2017,1864,,Jabal Omar Development,Saudi Arabia,$450 M,$196 M,$6.1 B,$16.9 B
+2017,1866,,Guoco Group,Hong Kong,$1.8 B,$465 M,$14.9 B,$3.8 B
+2017,1866,,Two Harbors Investment,United States,$741 M,$353 M,$20.1 B,$3.4 B
+2017,1868,,Beijing Capital Development,China,$4.3 B,$266 M,$26.1 B,$4.9 B
+2017,1868,,Hellenic Petroleum,Greece,$7.4 B,$365 M,$7.6 B,$1.7 B
+2017,1870,,Enka,Turkey,$3.5 B,$588 M,$7.6 B,$6.8 B
+2017,1870,,Jilin Jiutai Rural Commercial Bank,China,$1.5 B,$284 M,$27.6 B,$2.7 B
+2017,1872,,Innolux,Taiwan,$8.9 B,$58 M,$11.5 B,$4.2 B
+2017,1873,,Luzerner Kantonalbank,Switzerland,$620 M,$189 M,$34.3 B,$3.6 B
+2017,1874,,China Resources Gas Group,Hong Kong,$4.2 B,$424 M,$7.7 B,$8 B
+2017,1874,,First Quantum Minerals,Canada,$2.7 B,$-57 M,$19.5 B,$7.4 B
+2017,1874,,ST Engineering,Singapore,$4.8 B,$351 M,$5.8 B,$8 B
+2017,1877,,Delek Group,Israel,$1.5 B,$163 M,$34.2 B,$2.8 B
+2017,1877,,Lanxess,Germany,$8.5 B,$212 M,$10.6 B,$6.2 B
+2017,1879,,Extra Space Storage,United States,$973 M,$365 M,$7.1 B,$9.8 B
+2017,1879,,Financial Street Holdings,China,$2.8 B,$422 M,$16.2 B,$5 B
+2017,1881,,Burberry Group,United Kingdom,$3.6 B,$372 M,$2.9 B,$9.6 B
+2017,1881,,Petronas Gas,Malaysia,$1.1 B,$420 M,$3.7 B,$8.8 B
+2017,1881,,Workday,United States,$1.6 B,$-408 M,$3.2 B,$16.6 B
+2017,1884,,GS Engineering,South Korea,$9.5 B,$-24 M,$11.1 B,$2 B
+2017,1885,,Hokkaido Electric Power,Japan,$6.5 B,$58 M,$15.5 B,$1.5 B
+2017,1885,,Lonza Group,Switzerland,$4.2 B,$306 M,$7.1 B,$10.9 B
+2017,1887,,FIBI Holdings,Israel,$1.1 B,$66 M,$33.6 B,$732 M
+2017,1888,,GEA Group,Germany,$5 B,$315 M,$6.5 B,$8.6 B
+2017,1888,,Mid-america Apartment Communities,United States,$1.1 B,$212 M,$11.6 B,$11.6 B
+2017,1888,,Vietnam Dairy Products,Vietnam,$2.1 B,$396 M,$1.3 B,$9.1 B
+2017,1891,,Sumitomo Rubber,Japan,$7 B,$381 M,$7.7 B,$4.5 B
+2017,1892,,Areva,France,$11 M,$-736 M,$33.3 B,$1.7 B
+2017,1893,,Leidos,United States,$7 B,$240 M,$9.1 B,$7.6 B
+2017,1894,,Reliance Steel,United States,$8.6 B,$304 M,$7.4 B,$5.8 B
+2017,1895,,Kroton Educacional,Brazil,$1.5 B,$535 M,$5.4 B,$7.1 B
+2017,1896,,Laurentian Bank,Canada,$1.2 B,$120 M,$33.1 B,$1.5 B
+2017,1897,,Babcock International Group,United Kingdom,$6.1 B,$433 M,$7.6 B,$5.5 B
+2017,1897,,Fabege AB,Sweden,$246 M,$830 M,$5.5 B,$2.7 B
+2017,1899,,First Citizens BancShares,United States,$1.5 B,$226 M,$33 B,$3.9 B
+2017,1899,,Hella Kgaa Hueck &,Germany,$7.1 B,$367 M,$5.5 B,$4.9 B
+2017,1901,,BOK Financial,United States,$1.5 B,$230 M,$33 B,$5 B
+2017,1901,,Jazz Pharmaceuticals,Ireland,$1.5 B,$389 M,$4.8 B,$9.2 B
+2017,1901,,Toho Holdings,Japan,$11.8 B,$199 M,$5.6 B,$1.6 B
+2017,1904,,Microchip Technology,United States,$3.1 B,$94 M,$7.1 B,$16 B
+2017,1905,,Shanghai International Airport,China,$1 B,$422 M,$3.9 B,$8.6 B
+2017,1906,,Atmos Energy,United States,$3.2 B,$372 M,$10.6 B,$8.4 B
+2017,1907,,Amdocs,United States,$3.8 B,$403 M,$5.2 B,$9 B
+2017,1908,,Kuwait Projects,Kuwait,$2 B,$127 M,$32.7 B,$2.1 B
+2017,1909,,China Aviation Oil,Singapore,$11.7 B,$89 M,$1.3 B,$1 B
+2017,1910,,Hakuhodo DY Holdings,Japan,$11.4 B,$259 M,$5.7 B,$4.4 B
+2017,1910,,MMI Holdings,South Africa,$3.7 B,$110 M,$32.5 B,$2.5 B
+2017,1912,,Chinese Estates,Hong Kong,$893 M,$819 M,$5.9 B,$3 B
+2017,1913,,TP ICAP,United Kingdom,$1.2 B,$58 M,$32.1 B,$3.1 B
+2017,1914,,Technipfmc,United Kingdom,undefined,$0 M,$1 M,$15.6 B
+2017,1915,,Murphy USA,United States,$11.6 B,$222 M,$2.1 B,$2.7 B
+2017,1916,,Bank of Nagoya,Japan,$400 M,$49 M,$32 B,$669 M
+2017,1917,,Emirates Integrated Telecom,United Arab Emirates,$3.5 B,$477 M,$5 B,$7.5 B
+2017,1918,,St Galler Kantonalbank,Switzerland,$585 M,$148 M,$31.7 B,$2.3 B
+2017,1919,,Ares Capital,United States,$1.1 B,$474 M,$9.2 B,$7.5 B
+2017,1919,,Aroundtown Property Holdings,Germany,$1.1 B,$806 M,$8.5 B,$3.4 B
+2017,1919,,GOME Electrical Appliances Holding,Hong Kong,$11.5 B,$49 M,$8.9 B,$3.1 B
+2017,1919,,Greentown China Holdings,China,$4.5 B,$226 M,$24.4 B,$2.1 B
+2017,1919,,Jiangsu Expressway,China,$1.4 B,$503 M,$5.2 B,$7.2 B
+2017,1924,,Premier,United States,$1.3 B,$805 M,$2.6 B,$4.5 B
+2017,1925,,China Agri-Industries,Hong Kong,$11.5 B,$183 M,$9.3 B,$2.7 B
+2017,1925,,Pou Chen,Taiwan,$8.5 B,$310 M,$9.3 B,$4.1 B
+2017,1927,,Aldar Properties,United Arab Emirates,$1.7 B,$758 M,$9.7 B,$4.9 B
+2017,1927,,Tomony Holdings,Japan,$605 M,$234 M,$31.3 B,$809 M
+2017,1929,,Vereit,United States,$1.4 B,$-195 M,$15.6 B,$8.5 B
+2017,1930,,BioMarin Pharmaceutical,United States,$1.1 B,$-642 M,$4 B,$15.2 B
+2017,1930,,Steel Authority of India,India,$5.9 B,$-656 M,$16.2 B,$4.3 B
+2017,1932,,Doha Bank,Qatar,$1.1 B,$289 M,$24.8 B,$2.2 B
+2017,1932,,Jaccs,Japan,$1.1 B,$84 M,$31.1 B,$703 M
+2017,1934,,Indiabulls Housing Finance,India,$1.7 B,$408 M,$13.7 B,$6.3 B
+2017,1935,,Red Hat,United States,$2.4 B,$254 M,$4.5 B,$15.1 B
+2017,1936,,Korea Investment Holdings,South Korea,$1.3 B,$241 M,$30.9 B,$2.4 B
+2017,1937,,Indian Bank,India,$2.8 B,$115 M,$30.8 B,$2 B
+2017,1937,,Kesko,Finland,$11.3 B,$108 M,$4.6 B,$4.5 B
+2017,1939,,Minato Bank,Japan,$561 M,$66 M,$30.8 B,$734 M
+2017,1940,,Andhra Bank,India,$3 B,$85 M,$30.7 B,$616 M
+2017,1941,,US Steel,United States,$10.3 B,$-440 M,$9.2 B,$5.9 B
+2017,1942,,Verbund,Austria,$3.1 B,$470 M,$12.2 B,$6.1 B
+2017,1943,,Saudi Investment Bank,Saudi Arabia,$1 B,$281 M,$25.2 B,$2.6 B
+2017,1944,,BMCE Bank,Morocco,$1.9 B,$208 M,$30.2 B,$3.5 B
+2017,1944,,NH Foods,Japan,$11.1 B,$223 M,$6.4 B,$5.6 B
+2017,1946,,Thomas Cook Group,United Kingdom,$11.1 B,$17 M,$9 B,$1.6 B
+2017,1947,,Manila Electric,Philippines,$5.4 B,$404 M,$6 B,$6.3 B
+2017,1948,,Arab Banking,Bahrain,$1.7 B,$183 M,$30.1 B,$1.1 B
+2017,1949,,Synovus Financial,United States,$1.3 B,$247 M,$30.1 B,$5 B
+2017,1950,,Western Union,United States,$5.4 B,$253 M,$9.4 B,$9.2 B
+2017,1951,,Pearson,United Kingdom,$6.1 B,$-3.2 B,$12.4 B,$6.5 B
+2017,1952,,Banca IFIS,Italy,$1.2 B,$761 M,$9.2 B,$2.1 B
+2017,1952,,Motherson Sumi Systems,India,$6.1 B,$222 M,$3.9 B,$8.3 B
+2017,1954,,SBA Communications,United States,$1.6 B,$76 M,$7.4 B,$14.7 B
+2017,1955,,Advanced Micro Devices,United States,$4.3 B,$-497 M,$3.3 B,$12.7 B
+2017,1956,,Hudson's Bay,Canada,$11 B,$-392 M,$9.4 B,$1.5 B
+2017,1956,,Total System Services,United States,$4.2 B,$318 M,$6.4 B,$9.7 B
+2017,1958,,Sinopec Oilfield Service,China,$6.4 B,$-2.4 B,$10.7 B,$7 B
+2017,1959,,Westar Energy,United States,$2.6 B,$346 M,$11.5 B,$7.7 B
+2017,1960,,Group 1 Automotive,United States,$10.9 B,$141 M,$4.5 B,$1.4 B
+2017,1961,,Dollarama,Canada,$2.3 B,$338 M,$1.5 B,$9.7 B
+2017,1962,,Shanghai RAAS Blood Products,China,$326 M,$231 M,$2 B,$14.5 B
+2017,1963,,Associated Banc-Corp,United States,$1.2 B,$198 M,$29.3 B,$3.6 B
+2017,1964,,DVB Bank,Germany,$1.4 B,$-154 M,$29.2 B,$1.2 B
+2017,1965,,RenaissanceRe Holdings,Bermuda,$1.8 B,$497 M,$12.4 B,$5.7 B
+2017,1966,,Global Payments,United States,$3.8 B,$214 M,$10.7 B,$11.9 B
+2017,1967,,Commerce Bancshares,United States,$1.2 B,$272 M,$25.6 B,$5.6 B
+2017,1967,,ServiceNow,United States,$1.4 B,$-452 M,$2 B,$14.3 B
+2017,1969,,Samsung SDI,South Korea,$4.5 B,$-647 M,$12.3 B,$8.5 B
+2017,1970,,China Great Wall Computer,China,$10.8 B,$20 M,$6 B,$4.4 B
+2017,1971,,Tian An China Investments,Hong Kong,$244 M,$736 M,$4.3 B,$1.2 B
+2017,1972,,HollyFrontier,United States,$10.6 B,$-261 M,$9.6 B,$4.7 B
+2017,1973,,Dah Sing Financial Holdings,Hong Kong,$868 M,$244 M,$28.8 B,$2.6 B
+2017,1973,,Nanya Technology,Taiwan,$1.3 B,$736 M,$4.3 B,$4.3 B
+2017,1973,,Shanxi Taigang Stainless,China,$8.5 B,$-322 M,$11 B,$4.1 B
+2017,1976,,First Horizon National,United States,$1.4 B,$227 M,$28.7 B,$4.3 B
+2017,1977,,Brother Industries,Japan,$6 B,$408 M,$5.8 B,$5.2 B
+2017,1977,,Chicago Bridge & Iron,Netherlands,$10.7 B,$-313 M,$7.8 B,$3.1 B
+2017,1979,,Belle International Holdings,Hong Kong,$6.3 B,$384 M,$4.7 B,$5.4 B
+2017,1979,,F5 Networks,United States,$2 B,$370 M,$2.4 B,$8.9 B
+2017,1979,,Valspar,United States,$4.2 B,$341 M,$4.2 B,$8.8 B
+2017,1982,,DKSH Holding,Switzerland,$10.7 B,$212 M,$4.3 B,$5.1 B
+2017,1982,,Grupo Galicia,Argentina,$3.7 B,$407 M,$15.3 B,$5.1 B
+2017,1984,,Bank of Iwate,Japan,$427 M,$97 M,$28.3 B,$721 M
+2017,1984,,Konica Minolta Business Solutions,Japan,$8.9 B,$280 M,$8.8 B,$4.3 B
+2017,1986,,Synnex Technology Intl,Taiwan,$10.6 B,$151 M,$4 B,$1.8 B
+2017,1987,,Eurazeo,France,$3.4 B,$575 M,$10.9 B,$4.5 B
+2017,1988,,Bankunited,United States,$1.2 B,$217 M,$28.1 B,$3.9 B
+2017,1988,,Barry Callebaut,Switzerland,$6.8 B,$221 M,$5.8 B,$7.3 B
+2017,1988,,Inchcape,United Kingdom,$10.6 B,$249 M,$5.4 B,$4.4 B
+2017,1991,,Yamanashi Chuo Bank,Japan,$522 M,$62 M,$28 B,$739 M
+2017,1992,,Guangxi Guiguan Electric Power,China,$2 B,$643 M,$6 B,$6 B
+2017,1992,,Live Nation Entertainment,United States,$8.4 B,$-47 M,$6.8 B,$6.4 B
+2017,1992,,Shaanxi Coal Industry,China,$3.8 B,$-24 M,$13.6 B,$9 B
+2017,1995,,Aurubis,Germany,$10.6 B,$249 M,$4.5 B,$3.1 B
+2017,1996,,BEKB-BCBE,Switzerland,$555 M,$131 M,$27.9 B,$1.7 B
+2017,1996,,Fastighets Balder,Sweden,$630 M,$639 M,$10.2 B,$3.8 B
+2017,1998,,Akamai Technologies,United States,$2.3 B,$316 M,$4.4 B,$10.1 B
+2017,1998,,Oita Bank,Japan,$523 M,$71 M,$27.9 B,$595 M
+2017,1998,,Tech Mahindra,India,$4.2 B,$469 M,$3.6 B,$6.7 B
