@@ -46,6 +46,24 @@
 				www 
 
 ---
-4、
+4、python中is和==的区别
 
+	- Python中对象包含的三个基本要素，分别是：id(身份标识) 、type(数据类型)和value(值)。
+	- ‘==’比较的是value值
+	- ‘is’比较的是id
 
+---
+5、简述read、readline、readlines的区别
+
+	- read读取整个文件
+	- readline读取下一行数据
+	- readlines读取整个文件到一个迭代器以供我们遍历（读取 到一个list中，以供使用，比较方便）
+
+---
+6、一个函数接收文件夹的名称作为参数，返回该文件中所有文件的全路径,请补全缺失的代码。
+
+	def print_directry_contents(spath):
+	    import os
+	    files_list = os.listdir(spath)
+	    for file in files_list:
+	        print(os.path.realpath(file))
