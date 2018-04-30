@@ -199,3 +199,219 @@ redis:
     - 1.保存当前运行状态（断点），然后暂停执行，即将函数挂起
     - 2.将yeild关键字后面表达式的值作为返回值返回，此时可以理解为起到了return的作用，当使用next()、send()函数让函数从断点处继续执行，即唤醒函数。
 - lambda：定义匿名函数
+
+---
+21、对比一下dict中items与iteritems?
+
+	>>> D = {'a':1,'b':2,'c':3,'d':4}    
+	>>> D.items()                       #一次性取出所有    
+	[('a', 1), ('c', 3), ('b', 2), ('d', 4)]    
+	>>> D.iteritems()                   #迭代对象，每次取出一个。用for循环遍历出来；    
+	<dictionary-itemiterator object at 0x00000000026243B8>    
+	>>> for i in D.iteritems():    
+	...   print i,    
+	...    
+	('a', 1) ('c', 3) ('b', 2) ('d', 4)    
+	>>> for k,v in D.iteritems():    
+	...   print k,    
+	...    
+	a c b d    
+	总结:   
+	1. 一般iteritems()迭代的办法比items()要快，特别是数据库比较大时。  
+	2. 在Python3中一般取消前者函数  
+
+---
+22、有用过with statement吗？它的好处是什么？
+
+	>>> with open('text.txt') as myfile:    
+	...     while True:    
+	...         line = myfile.readline()    
+	...         if not line:    
+	...              break    
+	...         print line,    
+	    
+	# with语句使用所谓的上下文管理器对代码块进行包装，允许上下文管理器实现一些设置和清理操作。    
+	# 例如：文件可以作为上下文管理器使用，它们可以关闭自身作为清理的一部分。    
+	# NOTE：在PYTHON2.5中，需要使用from __future__ import with_statement进行with语句的导入    
+
+---
+23、Python匹配HTML tag的时候，<.*>和<.*?>有什么区别
+
+	import re  
+	s = ‘<html><head><title>Title</title>’  
+	print(re.match(‘<.*>’, s).group())  
+	  
+	会返回一个匹配<html><head><title>Title</title>而不是<html>  
+	  
+	而  
+	  
+	import re  
+	s = ‘<html><head><title>Title</title>’  
+	print(re.match(‘<.*?>’, s).group())  
+	  
+	则会返回<html>  
+	  
+	<.*>这种匹配称作贪心匹配 <.*?>称作非贪心匹配  
+
+---
+24、Python里面search()和match()的区别
+
+	>>> import re  
+	>>> re.match(r'python','Programing Python, should be pythonic')  
+	>>> obj1 = re.match(r'python','Programing Python, should be pythonic')  #返回None  
+	>>> obj2 = re.search(r'python','Programing Python, should be pythonic') #找到pythonic  
+	>>> obj2.group()  
+	'python'  
+	#re.match只匹配字符串的开始，如果字符串开始不符合正则表达式，则匹配失败，函数返回None；  
+	#re.search匹配整个字符串，直到找到一个匹配。  
+
+---
+ 25、Python程序中文输出问题怎么解决
+
+	在Python3中，对中文进行了全面的支持，但在Python2.x中需要进行相关的设置才能使用中文。否则会出现乱码。  
+	Python默认采取的ASCII编码，字母、标点和其他字符只使用一个字节来表示，但对于中文字符来说，一个字节满足不了需求。  
+	为了能在计算机中表示所有的中文字符，中文编码采用两个字节表示。如果中文编码和ASCII混合使用的话，就会导致解码错误，从而才生乱码。  
+	解决办法:  
+	交互式命令中：一般不会出现乱码，无需做处理   
+	py脚本文件中：跨字符集必须做设置，否则乱码  
+	1. 首先在开头一句添加:  
+	# coding = utf-8    
+	# 或    
+	# coding = UTF-8    
+	# 或    
+	# -*- coding: utf-8 -*-   
+	2. 其次需将文件保存为UTF-8的格式！  
+	3. 最后: s.decode('utf-8').encode('gbk')  
+
+---
+26、请写出一段Python代码实现删除一个list里面的重复元素
+
+	>>> L1 = [4,1,3,2,3,5,1]  
+	>>> L2 = []  
+	>>> [L2.append(i) for i in L1 if i not in L2]  
+	>>> print L2  
+	[4, 1, 3, 2, 5]  
+
+---
+27、Python是如何进行类型转换的
+
+	>>> int('1234')                   # 将数字型字符串转为整形  
+	1234  
+	>>> float(12)                     # 将整形或数字字符转为浮点型  
+	12.0  
+	>>> str(98)                       # 将其他类型转为字符串型  
+	'98'  
+	>>> list('abcd')                  # 将其他类型转为列表类型  
+	['a', 'b', 'c', 'd']  
+	>>> dict.fromkeys(['name','age']) # 将其他类型转为字典类型  
+	{'age': None, 'name': None}  
+	>>> tuple([1, 2, 3, 4])           # 将其他类型转为元祖类型  
+	(1, 2, 3, 4)  
+
+	详细转换总结如下:
+	函数                      描述  
+	int(x [,base])              将x转换为一个整数  
+	long(x [,base] )            将x转换为一个长整数  
+	float(x)                    将x转换到一个浮点数  
+	complex(real [,imag])       创建一个复数  
+	str(x)                      将对象 x 转换为字符串  
+	repr(x)                     将对象 x 转换为表达式字符串  
+	eval(str)                   用来计算在字符串中的有效Python表达式,并返回一个对象  
+	tuple(s)                    将序列 s 转换为一个元组  
+	list(s)                     将序列 s 转换为一个列表  
+	set(s)                      转换为可变集合  
+	dict(d)                     创建一个字典。d 必须是一个序列 (key,value)元组。  
+	frozenset(s)                转换为不可变集合  
+	chr(x)                      将一个整数转换为一个字符  
+	unichr(x)                   将一个整数转换为Unicode字符  
+	ord(x)                      将一个字符转换为它的整数值  
+	hex(x)                      将一个整数转换为一个十六进制字符串  
+	oct(x)                      将一个整数转换为一个八进制字符串 
+
+
+---
+28、如何用Python删除一个文件
+
+	import os  
+	os.remove(filename)  
+
+---
+29、Python代码得到列表list的交集与差集
+
+	>>> list1 = [1, 3, 4, 6]  
+	>>> list2 = [1, 2, 3, 4]  
+	>>> [i for i in list1 if i not in list2]  
+	[6]  
+	>>> [i for i in list1 if i in list2]  
+	[1, 3, 4] 
+
+---
+30、介绍一下Python下range()函数的用法
+
+	>>> range(10)  
+	[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]  
+	>>> range(1, 10)  
+	[1, 2, 3, 4, 5, 6, 7, 8, 9]  
+	>>> range(0, 9, 2)  
+	[0, 2, 4, 6, 8]  
+	>>> range(99,0,-10)  
+	[99, 89, 79, 69, 59, 49, 39, 29, 19, 9]  
+	相区别的是xrange(),每次只取出一个迭代对象，如果是数据量比较大时，效率较高  
+	在Python3中，没有xrange()函数，其功能放在了range()函数上  
+
+---
+31、如何用Python来进行查询和替换一个文本字符串
+
+	>>> words = 'Python is a very funny language!'  
+	>>> words.find('Python')             # 返回的为0或正数时，为其索引号  
+	0  
+	>>> words.find('is')  
+	7  
+	>>> words.find('dafa')               # 返回-1表示查找失败  
+	-1  
+	>>> words.replace('Python', 'Perl')  # replace()替换  
+	'Perl is a very funny language!'  
+
+---
+32、默写尽可能多的str对象的方法
+
+	
+	#方法                                   #描述    
+	-------------------------------------------------------------------------------------------------    
+	S.capitalize()                          #返回首字母大写的字符串的副本    
+	S.center(width[,fillchar])              #返回一个长度为max(len(S),width),S居中，两侧fillchar填充    
+	S.count(sub[,start[,end]])              #计算子字符串sub的出现次数，可将搜索范围限制为S[start:end]    
+	S.decode([encoding[,error]])            #返回使用给定编码方式的字符串的解码版本，由error指定错误处理方式    
+	S.endswith(suffix[start[,end]])         #检查S是否以suffix结尾，可给定[start:end]来选择匹配的范围    
+	S.expandtabs([tabsize])                 #返回字符串的副本，其中tab字符会使用空格进行扩展，可选择tabsize    
+	S.find(sun[,start[,end]])               #返回子字符串sub的第一个索引，不存在则为-1,可选择搜索范围    
+	S.index(sub[,start[,end]])              #返回子字符串sub的第一个索引，不存在则引发ValueError异常.    
+	S.isalnum()                             #检查字符串是否由字母或数字字符组成    
+	S.isalpha()                             #检查字符串是否由字母字符组成    
+	S.isdigit()                             #检查字符串是否由数字字符组成    
+	S.islower()                             #检查字符串是否由小写字母组成    
+	S.isspace()                             #检查字符串是否由空格组成    
+	S.istitle()                             #检查字符串时候首字母大写    
+	S.isupper()                             #检查字符串是否由大写字母组成    
+	S.join(sequence)                        #返回其中sequence的字符串元素由S连接的字符串    
+	S.ljust(width[,fillchar])               #返回S副本左对齐的字符串,长度max(len(S),W),右侧fillchar填充    
+	S.lower()                               #返回所有字符串都为小写的副本    
+	S.lstrip([char])                        #向左移除所有char，默认移除(空格,tab,\n)    
+	S.partition(seq)                        #在字符串中搜索seq并返回    
+	S.replace(old,new[,max])                #将new替换olad,最多可替换max次    
+	S.rfind(sub[,start[,end]])              #返回sub所在的最后一个索引，不存在则为-1,可定搜索范围S[start:end]    
+	S.rindex(sub[,start[,end]])             #返回sub所在的最后一个索引，不存在则会引发ValueError异常。    
+	S.rjust(width[,fillchar])               #返回S副本右对齐的字符串,长度max(len(S),W),左侧fillchar填充    
+	S.rpartition(seq)                       #同Partition,但从右侧开始查找    
+	S.rstip([char])                         #向右移除所有char，默认移除(空格,tab,\n)    
+	S.rsplit(sep[,maxsplit])                #同split,但是使用maxsplit时是从右往左进行计数    
+	S.split(sep[,maxsplit])                 #使用sep做为分割符,可使用maxsplit指定最大切分数    
+	S.zfill(width)                          #在S的左侧以0填充width个字符    
+	S.upper()                               #返回S的副本，所有字符大写    
+	S.splitlines([keepends])                #返回S中所有行的列表，可选择是否包括换行符    
+	S.startswith(prefix[,start[,end]])      #检查S是否以prefix开始，可用[start,end]来定义范围    
+	S.strip([chars])                        #移除所有字符串中含chars的字符，默认移除(空格，tab,\n)    
+	S.swapcase()                            #返回S的副本，所有大小写交换    
+	S.title()                               #返回S的副本，所有单词以大写字母开头    
+	S.translate(table[,deletechars])        #返回S的副本，所有字符都使用table进行的转换，可选择删除出现在deletechars中的所有字符    
+
