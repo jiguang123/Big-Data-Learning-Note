@@ -1,0 +1,32 @@
+Python2到Python3的编码转化工具：https://docs.python.org/3/library/2to3.html#to3-reference
+Python3的新功能介绍：https://docs.python.org/3/whatsnew/3.0.html
+Python官网下载对应平台和版本的程序：https://www.python.org/downloads/
+有关PyCharm的更多信息：http://www.jetbrains.com/pycharm/download/#section=windows
+有关pip的更多信息：https://pip.pypa.io/en/stable/
+numpy+ mkl安装包下载地址：http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
+有关Numpy的安装和更多信息：http://www.numpy.org/
+Windows 32位下的Python2对应的Scipy： http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
+有关Scipy的安装和更多信息： https://www.scipy.org/install.html
+有关Pandas的安装和更多信息： http://pandas.pydata.org/
+有关Statsmodels的安装和更多信息：http://statsmodels.sourceforge.net/index.html
+有关scikit-learn的安装和更多信息：http://scikit-learn.org/stable/index.html
+MySQL官方程序：https://dev.mysql.com/downloads/connector/python/
+第三方库MySQL-python：https://pypi.python.org/pypi/MySQL-python/
+有关Beautiful Soup的安装和更多信息：https://www.crummy.com/software/BeautifulSoup/
+有关Matplotlib的安装和更多信息：http://matplotlib.org/
+有关PIL的安装和更多信息：http://www.pythonware.com/products/pil/
+有关OpenCV的安装和更多信息：http://opencv.org
+有关tesseract-ocr的更多信息：https://github.com/tesseract-ocr/tesseract/wiki
+有关TensorFlow的更多信息：www.tensorflow.org
+Python官方网站：https://www.python.org/
+Python pypi第三方库：https://pypi.python.org/pypi
+Stack Overflow：http://stackoverflow.com/
+MySQL官方资源：https://dev.mysql.com/doc/
+MySQL第三方教程：http://www.runoob.com/mysql/mysql-tutorial.html
+Tesseract wiki：https://github.com/tesseract-ocr/tesseract/wiki
+Tesseract介绍：https://github.com/tesseract-ocr/docs
+Tesseract训练数据集：https://github.com/tesseract-ocr/tessdata
+Tesseract语言文件：https://github.com/tesseract-ocr/langdata
+Tensorflow官方网站：http://www.tensorflow.org/
+Tensorflow中文社区：http://www.tensorfly.cn/
+极客学院的Tensorflow官方文档中文版：http://wiki.jikexueyuan.com/project/tensorflow-zh/
