@@ -1,0 +1,36 @@
+// 16.6 How do you explain the "synchronized" keyword?
+There're three properties about a member method of a class:
+	1. static or not
+	2. synchronized or not
+	3. of same object instance of a class or not
+For example:
+public class FooBar {
+	public void f() {};
+	public synchronized void  g() {};
+	public static synchronized void h() {};
+}
+
+There're three member methods in the class FooBar:
+	1. f() is non-static and unsynchronized.
+	2. g() is non-static and synchronized.
+	3. h() is static and synchronized.
+
+The keyword "synchronized" makes sure that an instance of code segment is executed by only one thread at a time.
+The instance of the code segment may be a static one, or a non-static one belonging to one object instance.
+
+Unsynchronized methods is free of these constraints. They can be called by arbitrary numbers of threads at the same time.
+Synchronized methods of different object instances is independent from each other. They can be called by different threads at the same time.
+
+Here's a truth table for your information:
+----------------------------------------------------------------
+synchronized|static	|sameinstance	|can be called at same time?
+0			|0		|0				|1
+0			|0		|1				|1
+0			|1		|0				|1
+0			|1		|1				|1
+1			|0		|0				|1
+1			|0		|1				|0
+1			|1		|0				|1
+1			|1		|1				|0
+----------------------------------------------------------------
+Plus: Static method can be regarded as singleton, thus it's always one instance only.

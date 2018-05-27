@@ -1,0 +1,12 @@
+// 16.4 Design a class which provides a lock only if no deadlock would take place.
+1. The class will maintain a list of all locks that would be requested by different processes.
+	private Vector<Lock> locks;
+2. The class will have a real-time record of which processes are using which locks. Mapping the process ID with a queue recording the locks it is using.
+	private HashMap<int, Queue<Lock> > lockOccupations;
+3. The class will perform deadlock detection before assigning a certain lock to a certain process.
+	private bool deadLockDetection(int processID, int lockID);
+4. The class will provide a public method to assign a lock to a process.
+	public bool getLock(int processID, int lockID);
+
+About dead lock detection:
+	Generally, dead lock detection is about detecting a loop in a directed graph. Using DFS will be a solution.

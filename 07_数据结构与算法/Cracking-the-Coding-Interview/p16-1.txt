@@ -1,0 +1,29 @@
+// 16.1 What is the difference between process and thread?
+Answer:
+	Process:
+		1. Basic element of resource allocation in the operating system.
+		2. Possesses independent resources:
+			a. code segment
+			b. data segment
+				i. constant data
+				ii. global variable
+				iii. stack
+				iv. heap
+			c. register
+			d. program counter
+		3. Have independent virtual address mapping.
+		4. It has life cycle, it is running, in contrast to a program.
+	Thread:
+		1. Basic element of CPU scheduling.
+		2. Possesses part of independent resources:
+			a. register
+			b. stack
+			c. program counter
+		3. Multiple threads share part of resources in same process:
+			a. code segment
+			b. data segment
+				i. constant data
+				ii. global variable
+				iii. heap
+		4. All threads in a process share the same address space.
+		5. It has life cycle
