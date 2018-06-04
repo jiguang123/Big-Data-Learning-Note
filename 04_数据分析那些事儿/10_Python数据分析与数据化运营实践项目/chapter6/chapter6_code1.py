@@ -9,11 +9,6 @@ python IDE：PyCharm
 依赖库：numpy、pandas、sklearn、matplotlib
 程序输入：products_sales.txt
 程序输出：新数据集预测销售量
-注意：Python的工作目录当前文件夹目录，如果不是请使用如下方法切换：
-    点击PyCharm底部调试栏中的Python Console，如果按照本书的正常安装部署会调用iPython交互窗口；在打开的交互环境中输入cd [路径]。
-    例如，在windows环境下输入：
-    cd D:\4_附件\chapter6
-
 '''
 
 # 导入库
