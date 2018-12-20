@@ -8,7 +8,7 @@ Python版本：64位 3.6.3
 python IDE：PyCharm 2017.3专业版
 依赖库：re、numpy、sklearn、matplotlib
 程序输入：data.txt
-程序输出：预测的销售量
+程序输出：预测销售量
 注意：Python的工作目录当前文件夹目录，如果不是请使用如下方法切换：
     点击PyCharm底部调试栏中的Python Console，如果按照本书的正常安装部署会调用iPython交互窗口；在打开的交互环境中输入cd [路径]。
     例如，在windows环境下输入：
