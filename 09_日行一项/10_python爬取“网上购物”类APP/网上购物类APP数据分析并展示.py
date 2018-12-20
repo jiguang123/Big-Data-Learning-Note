@@ -222,9 +222,9 @@ plt.show()
 
 # 评论人数的描述统计
 app_info.comments.describe(percentiles=np.arange(0,1.2,0.2))
-```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有8成的APP，其评论人数不超过53人，数据太过偏态了。这里先筛选出评论人数不超过55人的app，然后，对其研究“评论人数”与“好评率”的关系。
-```python
+
+#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有8成的APP，其评论人数不超过53人，数据太过偏态了。这里先筛选出评论人数不超过55人的app，然后，对其研究“评论人数”与“好评率”的关系。
+
 # 散点图
 sub_data = app_info.loc[app_info.comments <= 55,]
 # sub_data = app_info.loc[app_info.comments > 55,]
